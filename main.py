@@ -19,7 +19,7 @@ import random
 import sys
 import io
 
-with io.open('./Mihai Eminescu - Poezii.txt', encoding='utf-8') as f:
+with io.open('./data/Camil Petrescu - Ultima noapte de dragoste, intaia noapte de razboi.txt', encoding='utf-8') as f:
     text = f.read().lower()
 print('corpus length:', len(text))
 
@@ -77,7 +77,7 @@ def on_epoch_end(epoch, _):
         print('----- diversity:', diversity)
 
         generated = ''
-        sentence = 'Ana are mere '
+        sentence = 'ana are mere '
         generated += sentence
         print('----- Generating with seed: "' + sentence + '"')
         sys.stdout.write(generated)

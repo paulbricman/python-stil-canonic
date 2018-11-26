@@ -1,0 +1,3025 @@
+----- Generating text after Epoch: 0
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si vanturi si stele,
+ca din cerul sa ma stance,
+ce cu ochii de ce stea se stele stanci ce stea mantul meu sa stea se pe in stance,
+ca din cerul sa te minte se incet de pe albe si pe albe stele si de albastra si sufletul meu si stele,
+si stran si trece si stele,
+ca sa pe mana si sa stea si se mante si stele,
+ca de minte si sarmante pe fara de albastre si sunt de ar fi strane si cu chinul lui in cer
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere unei numai in poteste stentele,
+sa strans si s-aratul de culche mare negru ce cu peste cantele si vazand de mandre pe pe vandanda pe peste ori s-a fi un ste certe lumina cele tremica cu frumoase, de minteste semene ca sunt la vant,
+este patrund de minte ori albe sunt va tine, barbeste lume de vantitor albestre in frunte varduri de cum caci viata s-a se vise ce stale in stancie si zandul mea el ari
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere si numn,
+sa va ii peri, si te-mce-tveaga trecared-a lom umis ver,
+si minul albastre rocrai ce-ar frumoasa-i vora juluie o polte,
+form tine flori,
+in guri! " saie.
+de-a eite nebune, frumors-as casfet
+iar ei maienda in find.
+mu;ta-mi vezi in mirescu cand o cuntiul poteme cu sfara si sicrinte, adam ce sarul ca pe arc! sume sfintom cleducimanta...
+
+nelune inebeti de ngere,
+inchidiste prezul,
+sternesc 
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere me-tezer
+
+n-arum-naua urma - cobrapare o upupe-si dapami da.
+ca-n asemp. nu
+moare vam? dei nolul intrecate desmti  cand de o nestorsii-mi napte-n pacaremi - ob peior vorbestoama cul stene chip, negre neplintul -
+sare turile mii,
+tiea sia.
+
+peadrosti viciei par?
+afit rava tiesuiuri loce,
+mi mari e moare e-n areti
+si cand ca somnesti durure sahmeceti plplorurie a-se ce miniat-o vogundea;
+intinte mis
+Epoch 2/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.8281
+
+----- Generating text after Epoch: 1
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si ca si cand ca sa stea ca si si cand ca mai se cand ca si ca de cand se stralucitoare,
+ca de cum ca sa se cand al tai sufletul mine.
+
+acela se cand pe cand ca nu se cand ca de cand ca si si ca si ca de cand si ca de cand ca de cand in mare
+si ca de cand de cand cu suflet ca si ca de cand sune de cand ca mai pare si cand ca sa mai in cand ca de cand ca sa nu mai cand si ca si ca si ca sa cantarea
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere se vant
+si ce pasare cu cand soare dremnitate ca si la cand a stinge cu cand in cand cu ochii lui pe cand el in sus in vantul sa scuturatul de poetile de ramani;
+noi ce cu cu cand in caieticul ca in vechi si maneste si cer ca cu stele sarari.
+
+dar in calea ce sufleti ce-a lor patrunde se culce si cu descerbari de frunte pare nu vai si in cer din coapa,
+el in lunga raze si nu mai de ca in cand de c
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere drugurilor aripa lumea deschis-si steri
+de fl purand de vreies,
+adoiuri m-ai mai vinefhil
+nubenia leele, vorg langa voi va toata lui nascaca de sfarleu mea arastei,
+tine
+caci in avornesti dreapta, vorbite, cand mente mai sunt nu vede cu toni ce ale veatur certere 
+o-n ceane.
+- balta e el spune cum socientul
+ am unca, cu tatun cu copvin?
+valul meu si-a dorstoral,
+soli de umbra
+ca albata de costesc 
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere soptii eoarerea spre zioa cerul
+cum ca privesc
+
+alt lor inalta
+	cinea cade,
+tr-un mungzi de lumea, sfaoasa trati
+si nopotul eisi vaca...
+
+ce spune sa file,
+de-aceie viata
+si poete, buculinesc,  e mi,
+ce-i crista. cu valala la ubesc... albascunda, capul cari ete.
+cu-a lui pointo recand ochii iunulii tu-rasiti
+si pi poate iestuna,
+conjos
+o oc crid intr-un gula
+ace-nvinta,
+ lambrandu de bugrana,
+decu
+Epoch 3/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.7620
+
+----- Generating text after Epoch: 2
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de lumina,
+ca si de cand sunt de lumea si sa sa sa sa fi de cand ca si cand de parere,
+ca un cand ca de dulce, ca si de cand in care ca sa sa si prea fi sa fi sa sa se cantare,
+ca si mandra si la cand de care se plange si sa sa sa sa inteleptate prin sunet de stanci de suneti si parul de care si sa sunt de saruta si si sa fi ca de care si in care-a care si si sunt de lumea si cand ca si pe cand de
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere un calat,
+ca fara vine, tot ca de lume de la calatorinda-i si cantare,
+cand astfel cu raze crada de visuri,
+si senin si ei din ceruri si mini si am lumii,
+sa vad ca cand dulce de suspina,
+caci si fiinta de care ce vede pe sufletul de se care mai vantu-i privirea cea de se scantei la care se doi in ganduri ca si fericirea in turbari,
+ca sa stiu sa de face turburata, cu curund cu lume, nu si acel lu
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere sa fin.
+cad sarad deramul, mare cumind din opare la prifasuntiri ce face
+	sta, ce ta vede.arema-ti raut unul dulce, de actul, ca dup-al uspara, ma noapte,
+fruna? cioni ridica luminta,
+in senesc in noaptea avand ca -
+sufleti pe aur ca de-a clodisurandul, nouai de orivna doarme 
+de priviti cu feresca.
+
+in punda vechini ?nici,
+a cumolava mire, fii sarularea-i plina, nu treci, voi, ochii de uita,
+tu s
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere unda lacat-asta, nimie,
+su jos i riceti, ioaral genulemuririt din ocha cuit-orisina,.
+
+trec "ratuscae" arata,
+gandeste cartea sa mai acund.
+amuliri am rasurari ce vazutoare mipgalis ori la pe vunt pe rideda,
+ochii teaur tot tr inmolarge, inclivelenele-nsa 1,  din a.
+o, pre! moale, imlaca intinzlotulte.
+dic-iamala.
+
+feieriisule in josgera.
+
+
+toama vau si chime, - plina padurirde-arale-n.
+
+toata van
+Epoch 4/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.7245
+
+----- Generating text after Epoch: 3
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de colo de cale ca sa te stii ca sa mai sa mai sa mai cu care ca de care ca sa mai sa stii si sa vad de care ca sa mai cutinga de sarata,
+ca si negre toate,
+ca sa mai ca si stelele de cale si sa mai de care care ca sa stii de care-a fi sufletul cel ceresti sa mai calea si care-a lui care ca sa mai de albastru cu care ca sa mai care de mana ca sa mai de cale de care ca de ce de cale lumina si ca sa
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere sa trecerii si cer aceste ca pe sufletul manesta retemn cu stele in stele puternic in tartari se para pe bolti
+de lunga sa fii si care de zace de nicieasca de stea prin propea din cad si ca si alte pe careri,
+ca cape parea ce de cer de arama, copila ce scurand in lumea in taina si aceea lumini, sa sa-ntreaga este sa mari, pe care-as uscata si in careri,
+in bate de pe fata,
+si si in cale in colo di
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere c-ai vade
+gald de vemi-azi,
+bine bucamand.ri, din nopti luminam-arata rece-atunci
+ce ara sa bisore,
+eo antad barba soaselii,
+de mana cea vietii, ti-ai carda cu nici ochi radea sufletul divechi,
+sa-diest-a. ambet... ei-auderi prinsu-a o mana bituri se prinde pus o decheiasoaie arata de flump in tefana, dusi si lasa, cu o sapau-nirai: -
+zugraedirind intra cel insfintul deunat,
+sucui acel micnitul di
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere sa-nteclea ea e curatea cele - det-c;
+cata,
+si cale mai imbat p-eata si ailumilore;
+si-ntimpesc in daor, deliti si el amagirea ochei,
+la la dor, chrul njur vazuri ra de sulta
+care astaaza - suctaliar, batraterear
+cr pe roscala
+pezbriu si cupe
+cu viitor o mai luntreata-im;
+nu vore
+de-a fa mei finhia-tarutu zeiele-o unse-n curam si norsculta
+se ruptoar vin. caci ori sa utara
+n-aprinsele-i pademon, a
+Epoch 5/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.7007
+
+----- Generating text after Epoch: 4
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si care prin sunet de argint de marginit,
+ca de fac sa mai stele si cu ganduri si sa ma sarutare si pe care se scari si sa stii de cantarii si nu se stele si pe sarutarea tau ca si sa se scari,
+si al tau si la care argint si in care si sarmine,
+ce sa se scutura si se stele mare,
+ca si prin cand si prin mane si se stele ale lui parte si de cand ca si prin marginit de argint de cand ca nu mai saruta
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere si nu se scoale cu un preaua mai sa le de stele,
+ca si prin care de fac ale tau cer un vant ca prin paru-i ramaierile de ramaiete ca de-ar pustie mine si veaturi se scari,
+in care cu sale,
+colo un clere,
+in mine cum surnari, de prea cate si mine,
+nu mandri al meu parte cu minte si alte sale,
+si numai si in codrii cu parul tau la cum, de suna,
+caci pe sarutarea ar se stele,
+care se pus el o arat nu
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere din lumii;
+el uriat;-a mai minte, tot si ce culcis
+si si prin ganduri si scalial alteluit, lasa ar zapec-o
+staluna? in reclana, astfel nu-mi vazut.
+si ave incredenezeca-n dor
+si tot sa ne cadar.
+
+fuscu-si cer care simplege, e pe un puste,
+sa pe mormant ca va sa te prezare tau e copil decar i-n multe
+stabate cu bucar in umbra si inarce, stele intreaba
+luna mai sa nitie.
+
+mai le scumplu de desprirea
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere de intuner ce, tot alteontultim,
+copolu-mi de lupra.
+caosipa, trun glastica el bucul stoase...
+la ti,
+eu fac mandre usor.
+ intempa t,
+in fara sa vis ce pe veti cum cimeri de departe,
+sunt cu hangaiel,
+vea... - soartea ta sa argini;
+eu minu-i mai morgit
+cu paie dar noaste prin secea
+a instraliresel inapti implans mari eu einem, pregerg, matrutoare,
+urbanuse chilii.
+
+mi-n nine ce chip fopti (foc,
+	s
+Epoch 6/60
+272228/272228 [==============================] - 23s 85us/step - loss: 1.6815
+
+----- Generating text after Epoch: 5
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si sa mai sa intre cantarea in strange si cand in parete si sa ma stinge si a lui pietre si sa ma stinge si al tau sa fie strange ca si cum ca si cerul cel se stinge ca si prea intre se stinge si sa canta sa se stinge de stinge si pare ca si cand in stermentatii si cer de mante si cand in care se curmand in copila si negre ca si prea soarte,
+ca si poate cu ochi de mare ca si sa fie mare ca si sa m
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere sa nu apor
+si ca se cugurii.
+a orice se catat sa ma care la mare tina sa ma trebata cand el este multi mare a lui vine coroana albastru si spune mai de mana luminea te urmand in vantul ei tragii ce al merele lui suna,
+in fata le vasare, in cand in cand in santa,
+sa fie cu morti cu norii sa sa mandre stere, din care prezentul in mandru si le vantul al postetate sunt de stiptare
+
+in departare si toa
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere singurat, ce marea pazarii ma.
+
+iar fiinta cate nu ma stea pe-nul fata, caras-au da.
+
+sa-ti manistem, or-aflembe a auroste" luminesti mari, dalograveste cada si cartea potut-vi...
+
+intai se sfant
+in bacinute cerpacom,
+abati prin om
+naltrul s-urma sa inteleptorsul in ganduri;
+ca cu mane dunata, deul burare de vantul se des"ratieri spune,
+ea lumea intr-asfunzand ozvuri vine, soartelor ochi ah, vairi
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere acumat v
+in fata-ntr-o mane si dinesa,
+de lupte si acelasizi de-a.
+este vre ple lungi in ardesenemasne iugiie... umbra-lori)
+si navarete-mprestirfca.
+
+de-ace n-au ra malug
+cand frantemecti	 salut
+	a-i aleta ochiul sarmaciuci, cu;
+si-a poata, iubita maret dragust?
+eu sasand marea luminre.
+
+o zveznavasul-de.,
+capele steptia.
+	din oic dragul pun;
+cadei eu sustebul o amoruoi o, mladiu-vo, furata maino
+Epoch 7/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.6677
+
+----- Generating text after Epoch: 6
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si suflet ca si ca si ca si ca si ca sa pasare,
+ca sa se pare de mana si de lumea cea ce sunt suflet de mana ca si ca si suflet ca si ce s-a despre si cu ochii tai sa se stii si stanci si ca si stanci si suflet de feresti,
+ca si cu ochii tai ce sunt ce suflet de margerii ce de argint si cu singuratate si ce sunteasca de singuri ca sa se pune,
+si ca si ce de frunza cea marii si ca si ce suflet si c
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de stanci,
+ce ce in cer si asteapta pe cand in suflet de frunze-mi s-au fost,
+si de aur de-orice si ca sa eschiti si inca se moare,
+ca de mila in cramate,
+sa te stinge si de simte
+si de vantul si mai ceruri, tot ce de mine, ca suntea de stele,
+tot te-ai esti, ca te vazura, ca sunt ca si de cand si lungi ei alte ma acest in lumea mea credea cerul de ramase,
+ca si cu un cer asculta - sa fi si prin m
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere bine -
+plutea idi-ar implet eminzile-mi unul, camare l-aler cea pe ochii si ce,
+cu brate-o frunte a tagfmorii si zi casam, zambirea trecea cu sochii, . teitele-i groptand ceri tainica sunt sfinte, greche, ce-nvierbe
+ce soarta-i lutari.
+in a, bine-ai sfinter,
+de-alini maasa.
+duinei ce dulce oi decesmorul,
+s ca borbanile-mi dus?
+ca gatu-i pe gandiri mult ambit de toate,
+astie fiocoasa 
+imi ci lovi n
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere vchib, sta;ra pedu-n roabastende;
+de-atunci unhlal.
+ramrizato sala ramaut,
+la ge trupta de zrub-vei... li totr-o devamaturi. n-a fasmeis cnd insamn draga, mai cadenir,
+trun de pitine.
+mifu--li.
+din mos elaz sanuzabivea, e luciu epobialfa: "noros de pus a piatra hebroai de fagis; batrancul lune,
+danturcesi din firu, buculeselglorile-tie tuibiste coparea e-umbra-i  nu desemnare in nize, la covan de 
+Epoch 8/60
+272228/272228 [==============================] - 24s 88us/step - loss: 1.6555
+
+----- Generating text after Epoch: 7
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de ceri de vanturi si de cer sa se priveste de sub si cu stanci si suspina de care se stralucit de mare, ca si deschise si si care de care nu se pare de sub parea cu cand ca sa te stralucit de lumina albastre si suflet in mana mea arde si ce sa ma mai sa se stralucit de mare ca sa sti de stanci de sub mare de profunduri de lumina de parere de mare ca si care stanca si sa ma stanga de privire si su
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere si mare si cu cand ca pe cand cu traias ce-ti pe omana ca dar ca si mult in parete si mare si sa iubire,
+prin vis al ei salba si doritea desi nu matura de albastri, de cantarea sunt desimte si sa sa se amor esti voinice a lor rapet
+si pe durere si la marmuri cerului intr-un cant, cu pareti de cer canturi ca un lume, viata se intrebai de stiara cea din rasure...
+cand cand care nu mai ca de dulce ca
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere galeros
+sa nisimnta si mirii cureu cu nebunese,
+slapat-acest de tu-ti mefacicnucisere
+sifeta in manu-i iar s-alba
+	
+ce-ti avoare tainic a astre numai puicut
+si soarele tale
+
+tu toata-i mare,
+	si sparmeste schimiee viata privirii-i sa ma urme noaptea rundelorul mera bpesent.
+i-a intr-un ea lumina a lumii
+pe cand fagura te fii mare:
+valbane, farmeci in s- eoace pe-un stravec
+patrind ai iasmoare, cum
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere plandaf: - cine.
+dinarmele brat... .......
+
+	
+	eu probrile, uiea
+necunzea-i mintea sau ce n-o rog,
+ar opori
+in-ingeri aduna-n unele fiina
+idelnele dihi, landului cretinhi:
+pamaninta
+le-o urca mai cutripenti pe ocare eoa; aurii
+duicti taloajec su-, ea, a l cerba?
+eu! puthireste, delarmara cu jund, vesel u-i el moden printru-ti saratare - uiadara-mi uliui,
+dara sa regi in licere lanuri miniantui sir
+Epoch 9/60
+272228/272228 [==============================] - 23s 86us/step - loss: 1.6457
+
+----- Generating text after Epoch: 8
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de pare de stele,
+si cand cand in ce sa stii de marmuri de mari si sa te stea si cand cum sa sa stii de stele,
+si de cand de stanci de patru si cand cand s-ar trecatoare
+si ce sa para de prezent si ca si stelele de mine si care ca si in ceruri sa se scutura de care s-a ta sa stii de stanci si prin stele,
+de stanci si de cand.
+
+si cand nu stii de stele,
+sa trec cu mine de pareti si alb sa stii si c
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere sa asta lumii si se alte de par de la visuri, de stanci,
+ca la albastru si de stele ce sa steie mana de noroc in care m-am de patrul si alb de parat si se misca mari in a lui vineri, alb sa forma lui si sa spuintat de la un hamas ce-n brate si de parea de viata.
+si caci dar de viata sa te primbunde,
+sa cantec si de vechi, arcuri in visat
+si sa vad parasti de miresc sa pare cu raul de cand de sala 
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere aceste-aratandu-se veche de frunat bine-acolo si mice.
+
+sa prapreama-mi ne pirari,
+		
+	atuncea ce se duce vine noi suras provirea sunat r-un hims uita numai - privirul s), frunde mari,
+sta ridica afarala nu zimalie, furtuiubiticui si ce-ra filguri, ca si nuferie,
+sa-inte nalta bolti, sale celati! - noama-l forma tremuri, n-au steara zise,
+in lelele a-nvirea, si el mieticioa.
+
+o sub rodea mea doare
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere tu-nveste
+cerpari pin cradati surias
+si isede-n par te cunoasterle,
+sa tasufizie sau plansul!
+
+la s-o uimi
+si vesele, si - de iti scristatatea-ncliot-un dem.
+
+ robeangii de marearat.
+	
+plutea taini si cutreaga
+poetul ei s-un depart duci,
+din care aprinte
+
+citie noi. cu fereste,
+cepersul de fon,
+hai e totul dor,
+de-or sa ne stea mai nici origiiulazgi adefih
+litita,
+aste frunza in copilasc-acat, m-a
+Epoch 10/60
+272228/272228 [==============================] - 23s 86us/step - loss: 1.6376
+
+----- Generating text after Epoch: 9
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si se priveste si sa se inclina de valuri si de cand ca sa se pare si ca si ca sa te pare si ca sa te inchina,
+cand cand ca sa sti cu cantec si suna de alte ca si cantarea cea ca sa te scutire si privirea de valuri de valuri ca sa te sa te mai sa se trezeasca si al tau si steaua si cantarea cea ca si cantarea cea pare ca sa te pare de nu se pare si priveste si cantare si ca sa te placeri si cantar
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere si toate-n cer paduri de in prea stii si ce mandra inteles.
+
+se pare al romator si nu ameste si pe vorbeste de chiar o para si sufletgori si tu tine de ce sa te asteapta strabia si alte de fara de fier
+							
+			ce durere pe cand a lui perinta-i de caliuri toti pe-a noastre ca nu se inteles si pe care se smanga aur de valuri a lui taina si pe cand cu mana lungii mortii mari.
+
+dulce pan-in cand a 
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere potriz
+de-i fie mare
+nu-acoapa-n batran de la abicita leab-e o trate, saraei nu nu imparat se sarut.
+	
+voit ce venin pe cand de vant
+de mii de teie picarii, oale,
+de gand ca-te ierb scostala - si ridica de frunte-a ciurilor negru cu mintea poata-vezi.
+cand ca si v si-i sanul,
+forme-ncapate
+ramade-atuncia. noaptea adevarului fire
+sa se-nden"gare fruntea-n, pe barbi-ntr-o regand sa te satul ros din 
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere intrehpa
+cara-n alme-n unde lungi,
+mut contupune asia: "dezghetiscatoria: roman nationie
+si piceii s-o simtiseam viszeana inarna
+lu de voa:n?". 
+astfel ecatua - ea capingiul vi cu.
+doua clipa lumina,
+acn-o curata se piatra eminrici.
+
+arfel nu imte?
+	sur cu un smiu deaba.
+
+c mult dace-ntol stele, rece.
+van de toate-vtioare
+partea cantarea miscrase
+ier, astree a pazf veste?
+mii la cru in caur,
+ea te
+Epoch 11/60
+272228/272228 [==============================] - 23s 85us/step - loss: 1.6289
+
+----- Generating text after Epoch: 10
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si pe cand si prin cand sa ma stinge si cu noaptea de mare de aur de cand ca sa stii de mari de mare,
+cand pe cand in cand ca sa stii de stele,
+cand nu mai stinge cand al meu sale,
+si sa nu ma pleaca albastre prin vis si sa stii de cand de carte si sa se priveste si cand sa se intinde si sa ma pleaca si cu pana de cand de cand de cand al meu sale,
+cand cand al ei sa stii de aur cu parul tau in can
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere mai arginta si amara, in noaptea-i rauri si de mana si se cobor
+	de-a ei sale,
+si in pamant de mare,
+de cum de cand in plete-aleneindent si nebuna din cer de de ale lui cantece mare de sale cu sarma de noroc,
+cand inca o unde si pan? la cantec a lor lume cu domnirea sa-mi parte ca un cantec cu parul unii de pustiu si in nisipari de marginile si mine de aur nu-mi raspund,
+si sparze de pe la cum a s
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere c-o,
+dar gandul luin cu un mandru plecte
+in mijloc si tolt.
+
+la saamanturi, - stii treme de la lungii e sa strigu
+de litiita la iubire. cari doaina domn,
+iar obinile mari drege raspuns dul
+in usoara cari trec cu dansul mai crovi esti mintee simtirea -
+s-alatormi
+
+par si el a vroiunilor lor al tea-n pamant? - o, dogita-i dar vremii soarta de-a toata alene luceste,
+	ochi da ce de-adanca ca neamuri c
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere seri in spauzante?
+
+tu se propcele
+de fara semn,
+o, auzeaza,lind inger de pomat, fosa-aduce impartade se faci pluna,
+
+
+	hurpe, din floare, duioare ectorul -
+e cer, taina ei aceian mandru - car de imperiu
+
+sa-l adun innisc prin ceie
+poii amurita e-urian,
+trecend de no le pu :
+si oricineaua.
+sa-smej, devitori, nudrap si nici deecchie zana.
+mai haeba,
+ceri ca e spune,
+nui aom viat-o sdara;
+inaleseaza
+Epoch 12/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.6228
+
+----- Generating text after Epoch: 11
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si cum ca de valuri cu stele si trece si copila, si soarele de chipul cel de cantare si de noaptea cea de vine.
+
+
+	veneau vine cu cantare si cu mana si de prin cand cu manile de prin vin cu credea ce suflet si nimeni cu ochii tai sale cu drept si cum ca si se scutura de suflet cum ca de vant
+si ca si cantare si cum ca si copila, de ce se priveste.
+
+si cantarea cea cu care cu ochii lui ca si pe can
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere cum in frunte in fruntea-i a lui cale,
+cata cum soare si procuza si inchin
+si vine se scoare a mea cele nepaste si prin fruntea-n sele si cantare de viete...
+
+ea o parere si de vine,
+astfel si cantare si ce suflet al marei de lume rale,
+		o mana veche sta se pune ca dulcea cu sulieme,
+si ca o pareste si cantec de marmura mea gurile poatee te vazdra care sunt numai ca pe suflet ca cantarea mea inca
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere  si canteste -
+rasari, a ei suspin dac au apoi mornd el care hinde! simtiul de mana-si cum este loc de voinic voi du-ntelechiurenti de dapat.
+
+astfel pai numaiui,
+in traiasului dr- dant.
+
+ingea. cine pe-un cel sa vaze
+si lune cand stiista
+cem sarelari ca un om - nu pravezi car in umbra
+ape poveste-adanci vii.
+
+si nu-i retradand ci-o ducea ii fi straba l-a mea sante
+si ca nu trebuia lumii - turma.
+
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere icoare
+cuprind cupe si desva curatam-atunci
+
+parerecului armoniee, mai proiesare pamantu-mi ma ruied.
+
+
+
+unde-n sictile.
+esire recitmean lui nori, in privizului intergandei
+si-n ordin-aruncator ve, pe simine,
+negrissita ce merm,
+du-niceste se steata fiinirii.
+
+cum nu brumul incungi-i clatine
+
+ el lumea sa-i lase,
+umbra de dguire
+gasul vievie.
+care t-auzi , inabicesta ele,
+ai ei vui, va floi, lcrel
+Epoch 13/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.6174
+
+----- Generating text after Epoch: 12
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de aur de mana ca sa intelescurati si pe cand a lui sante de cand.
+
+de si pe cand in cale in parere de stele,
+ca si cand cu mine de marmura de parere de mare si sa ma priveste,
+ca si cand a lui pe cand cu par de marmura de albastre de fara sa curanta de vant
+										
+						
+						
+						
+							
+						
+						
+					
+					
+					
+					
+						
+						
+					
+	caci si cu vanturi de mare de marmura si a
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere si negre pe care stins toate cu mine de valuri cele prin mine de varfuri si pe patria cu sale si multi viata spre trecut de norii,
+trecatori ce s-a lui forma de intelege,
+ca si cand sa pe frunze, ca in spata pe care canta pe care desface pe buze cu cand si sani se intins in etare de vis de lacrime
+e toate in lacuri nevijeri la viitori de stele,
+de valuri cu noapte marea-i pe sana luminii in sange 
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere sa cu ma-ntenses. amarul alb in blanda?, 
+fata formele vietii seng, cate-aripi ca in maritu tremur fata.
+bine eratic c-ar truns de m-as ieste, mai va dulce e doua de ori de marire sa ma miscat.
+
+oristi a apa?
+						
+eu acestei din umaruri,
+o inchin suna,
+si urecea-mind-asufle stii trece,
+atunci tu.
+evfructitons.
+o seneu dat pe deep-o forsire si bagul crepit in latra tine prin frunza eminescu, ce-o
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere pizvrie?
+ne	vorazpand impunga-i prin oun,
+au vasata poare si pe peciari a curturatii se-nsolatiri.
+
+negre auru-n line luna lui spirirele-argint-a milo stricosguri arti, rai
+deasupra cridua lung, cu cari-i mistic,
+avor.
+
+el clip luna,
+ei toate puscerinzi s-aros, ei s-o-ti mau tremura ferite, aproazelele despretua rasciu, troitabigica-n codritrongaia.
+furtuna c-un rece ;
+ce canta o fidarafeti in toa
+Epoch 14/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.6136
+
+----- Generating text after Epoch: 13
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere ca si ca si cand cu care pe cand ca si sarutarea si ca si prin paru-i de stanci si cu care pe cand ca si cand ca si cand cu mana si si si sa ma poate sa se intreband de corp de cand ca si pan? la cerul meu si mana ca si ca si cand ca si cand ca si sa se pare ca si se stinge pe cand pe care stapana ca si cerul cel mare si sa se privesti sa se para ce se privesti ca si strange si sa fii de stanci si
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere si prea lasa si deschise a lui spai
+										ce te sa fie si esti,
+ca mai soare de cautat,
+ca de vant eminescu, vine de vasa.
+
+
+	si nici sta pe a lui valuri de langa dulcea luminea si pe care pe sararea el se uita ca sa destapta,
+in umbra ca mai cu ramane.
+
+
+	cand e un or mamant cu steaua asculta,
+sa o multa valul mai pe catra de bate rasari,
+si se indreapta se intaimi sunt ruga,
+bat cu t
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere forma ce in, i varsata pe pustinorii aspere.
+o... si tie-n canturi, o cea de-a domnite.
+
+voinic este-n ugesorat;
+si negru voastra.
+i-o iar bine e-f cari rege si modelupe al umerea si ce-a-n, oglinda-o arfa.
+
+cum cazul unei vazure, sa va miserti tain eminescu reflecte-o care sma!
+
+
+	- pe-ale tetele s-un vecinic cerul norocetalitatii in cer vii culucazand vlarele ofarza,
+moginnu-i dreptesc se narde 
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere care cazu-mi batande, roduios u- se terna luna
+oare-mu?
+		ci s-ale feciuni ce-l vol si visu-i mari stravuu
+zaber sus e1)
+
+in vest negiu si moient ochi le-aruncand ii nu te depin imi reaju a cruce,
+rund prin ravaouda,
+fald colo
+deu plange de varde, mai cu ramuri astfel somna
+... zidi va pe-ast das multamii
+patama-ntrede tale.
+si trecatba speris
+tot miscand cu brai vie asupra-mi, batrani de-amor.
+
+i
+Epoch 15/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.6081
+
+----- Generating text after Epoch: 14
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si prin cand de vanturi ca si se misca si cand in cand si cand ca si cand de cand si singuratate si sa stii sa cantare pan? la mare si cand cu ochii taina de cand sa stii de stanci.
+
+si cand sa ma stinge sa ma poarta lumea si cand si colona si de aur de cand sa stii si cand a fi strange, cand se pare ca sa ma pasa si cand si sa ma stingi in viata lui si cand in care cand si sa stii de aur de mare 
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere si sa lipte si fine ce sta stabila pe norii, marile cine ce ca un vis se clatin dormi, intr-o data in cand sa vaza,
+cand la cerul s-a marii,
+si trece si de minte,
+calin vin ca si dar mai deschide sa ma pasa.
+
+si cum cu a ta vant,
+si viata sa stii de cel ce doi cand ar fi dupa cand de la oricat intregi,
+ca nici cu craitate de stat de ai stins cu cand ce insa al lui feresti prin viata ta pare ca sa 
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere fara din colto-mi - viei nime morm pe vanturi se desterata singitiatata tamperiui, din floare la pie	nca-mi tasadand, a dou si in veci
+
+
+	amagiui
+eu straluc treci si numam regele zburand nmimica - fratesc lumine lui siruta
+a taie ceruri.
+numai pustie lui in aralj.
+
+cari o sale o stuine, cade-i inca un altul tetaourilor,
+in cand pe mandre sara in salbic, tot in cop-ucoc.
+
+
+ei calda, galonis tot sar
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere pala de-ai ei ne, tfimini e fara postar, zic se-l iube.
+sice. m; cheminti in patemi calduvi.
+
+ii cear mute-nce,
+dintr-a cerului tupar inchin buni.
+strada-un mandre somn, noros.
+cu vatre tu tand nuveni.
+neijor,
+ca imbla vinure usorul le, ascinta cea-nfrradgalas cu de nehaiuri fegeza mile...
+
+
+	sub bucava mandre sa sor si floare
+si albia tempele... s-o sunt cum senita ceszrul neguri-freapune o sorii
+Epoch 16/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.6055
+
+----- Generating text after Epoch: 15
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si sa ma privesc ca si de suspina ca si ca si cu mine ce stiu ce suspina de fata.
+
+si ca si cand cu stele cel cu cand sa stiu de aur si ca si ca albastre si in sange cu ochii cel de lumina de lumea de lumina de suna cea de stele cu vantul albastri ca si cand ca si ca si ca si ca si ca luna si ca si ca si cand albastre si albastra cea cu cand ca si cand ca si cand ca si ca si ca si ca si sufletul d
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de lume mana esti de salbatec a lor farmec cel un mana, care suspina
+al tau si dar de cantari de miranirea cale si ca al poartanca ce coloane pornite-n veci visatori cu mine ca sunt cu miresca in palat cel cand al azi din visator
+si in parul tau ingereti pe mana nu stiu ce-a fi codrea mare.
+
+dar si in vis si in lumea mare si ce dulce si mana ta sa cu laciu in bune ce a lor parul ei sa ingasuri ce 
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere ca e orice mortie, de numegice
+sa satua stanci,-o istori ducetul tau ii flacala, etine-diul.
+
+cu iai dologi nici a mea lucam.pmain.py:63: RuntimeWarning: divide by zero encountered in log
+  preds = np.log(preds) / temperature
+e stictenti foprinii;
+mai tremurat in vantul cel unde e valor roci este cu stanci si e umbra fratice
+si nani, tampre si pat,
+iar soaptandre sante, muritor
+				
+ea ma dun? cu borbi
+ca luceam, valdre -
+ca si ce ma vad de-acum,
+se furginu-n zumbi una frunza de iubire.
+eramuri 
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere dreptcat
+iara a lor multura
+calin imperosti.
+nu se pace-i ta-ntreveunde...
+sa te cale, dulce lor vrei s-alnga
+sa terat si gure, sarcina argintia
+ei cu slupuf
+unde cei vis intrdeaua:
+iara lshebiata a dus vecinicit ce iestia
+...
+eu poarta tricrea uita, noi loditor dusa dureris.
+
+aducerii-inmioasa-n sol in-i! chip vai insa sunt inge-le soapte nu, insemna cap ti-a lumea eu, holohite adancuri cu scapa 
+Epoch 17/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.6032
+
+----- Generating text after Epoch: 16
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si saracare si sara se stea de stanci sa ma stinge ca un codru straina si ca sa sti spre stanca de stanci si cand sa ma priveste sa ma stinge si sange de stanci ca sa sti sa sta sa mai stinge pe care toate si pe cand cand a mea de para care se pare ca si cand ca si stanca de para ca si cand a lui parat de care ca si sara de patime pe care prea de prea de frunze si cer ca sa sta sa mai sta sa ma in
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere in departe pe varfuri viata lumii ca fara sa indulci, dar sa mangai de la stele sa se deschide de suflet de suflet de raza se face de mila,
+cate a mea de mana pe carpa pe umeri de nimic.
+ea de priveste si cat ca si paruri ca un cale hamanea cea albastri si pe cand o sa cutata e voi alba care ca acelasi sange,
+caci de prin viata acestele de stanci si ce ca in lume si cade si singur ce sus sufletu-n
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere si noua ampig.
+
+erul se predegat ea, indelita cea salbe,
+in taina senin
+uscate vestea preotilor sa fin.
+
+cand alune a-ncepe,
+pecetii pune-mi vecioana lumina care crang cu urba prin prazul fis frag ca un odul ramanire dau visuri sta nu-l pace, si de-ndragithere
+si nimic retepunundo descutt se spune:
+("cer astim visatoare,
+revarsa proprie coroane.
+atunci din negre toate tine spune.
+din esti, parul f
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere si-nnruce-o vitazit, ganaenul oricaci
+parul tau, din vant botranii umbra su de jesmtua te ritoa;
+s-arata poemuri eminesciana, regi, m-ar tremurg?a, ce lm g.rimatal"-or" (in indus surand inalta bland
+din nici umar ca - aucite;
+anei-n aptoata ingerbale,
+	eu gandul pe usca.
+
+peste maritui 
+.neagan meleu
+l-un colb suspurnam in sfintele...
+e oricar de veci sa pasa mbranul,
+ca desi saea-ntate sufletu-ti
+Epoch 18/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.5981
+
+----- Generating text after Epoch: 17
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si sa fie ca si la parul s	jor si suflet cu coase si sa se pare de mare, de stele cu cate si sa ma face de stele
+si sa patrunde si ca sa sti sa stii sa fie.
+
+
+	sa stii sa se priveste - si pe cand si sa stii de sunete si cu coase si marea sa stii ce sunt de stele si sa stii de cat de fiere si suflet ca sa ma inchin si sa ma vad si ca si ca sa stii sa iert.
+
+si ca si sa ma priveste ca un stele si su
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere si parere de cantare in viata mai vede strabate,
+ca sa straveste in lume a trecutatei si arata ca si sa vad de margerit ca s-aur este albastru si mai lumina
+si cu mi-ai fi cu mine.
+colo de strabeac ce sa ma intrage
+s-ar stii, atat de state
+si taina de goal
+si al sa-i duce si suna in sfera sa scap si prin minune cu stele,
+cand in departate cel de mine;
+senina si de lege,
+caci s-au cutreaaa, de-a lu
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere te-nfiinte, copila ascuiestvandu-acusei de masuri.
+sub semnul in stinse cronulti si bine cu-ale lumina s-o-ntindo-mi rege
+pe vant neavut altul. - fotai din marginite
+	iar sa cadae albine ce stoale,
+cice-ti graeie,
+pe treste-n proze meresciune?
+
+cantece, ce-s negrele te lumi atata-mprastit;
+paru-ti singurala
+st-arata pe om l lege seceri,
+unei pantele---astristea instruit ardea hane de cereste,
+eneg
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere -rogic, iar recreace, leso sasara si este draga,
+cu mii trete
+ada draguri departit la a te-frimvitlean.
+		purcat tinereas
+za). spune-n erneasca,
+pripamestindar.
+s-aobaiu-si mosu-albie
+al este tunece uit se fma mele,
+
+el or destept.
+letezeu mursand cestra
+colo parc-ura mana...
+
+tobat nebunere gandire.
+
+in muntele srasat!
+se lumina-n usc coapa,
+faca.)
+si se pleaca-i daca tiezvevria mea s-o patrund,
+
+Epoch 19/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.5961
+
+----- Generating text after Epoch: 18
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere a lui suflet de stanci si sa sarmana si de care ca sa stii de argint
+si cand de pare de mare si ca sa steie de stele,
+ca sa mai pare ca sa te pare ca sa mai arata sa se stea ca sa se pare si sara de stanci de pare si suna
+si ca de cand a lui suflet cu care in care sta sa care ca si ca sa se stea de pare de stanci.
+
+si ar fi sunt de stanci.
+
+de cand ca sa mai sti de stanci,
+ca sa sti de care ca un 
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere in astfel in tristul sa ma pierde sunt de pare pe lacuri
+si sa fin mare in urma si rege murim de linsul meu,
+si se mai nu stiu de sara ca un care de noapte,
+si noastra ca sa sti de care tare mai de anii in cand se pare pe dumere.
+
+mai suna-n sufletu-i sa vad si sarmana care de pe urme argintie si de stie parea a lui stare de la sara si mana in sa-ti respire.
+
+ca nici pe dumbrava si care pe starand
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere de ceruci.
+
+caci veatoani
+si piesc,
+si cum cred cu menilor
+ca pertea  lugicand si pe tolucesc veseii metic?ra,
+funa, soarele una.
+
+dar dea-ti nicirui,
+am gandesc din creana,
+el rece visul ramanescu; de modaratai lui si-n spaimare
+prin toate cu "visul lui pamant.
+
+
+perfantoasa receca iar caeste te-ai strisa,
+s-ar simte, in veci il o ramasuri de o,
+	vor sa vedea sa steie cure-un fete
+am in cat ca si
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere imsm trait
+si lung. ca-n vinosul! 
+si-o rege, aveala... sucalipifuri strale imbla tare. minte sunt probo-ncon
+iar el intreb gotos.
+
+ea pare pe trunchinte, o piept,
+dipatit o ochie s-avan oh,
+popoatea lui frumoasa,
+numai suna vecinici-ais escreat-a v ce fiint ca laturitaia,
+ramat, lui misterii.
+noaptea troie opotie
+si-ale ta zrele recal.
+la fata - un simti isi plete-n codri si remarul imete
+
+intune
+Epoch 20/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.5931
+
+----- Generating text after Epoch: 19
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si cu brate si prin parul negru si ca si de stele.
+
+si pe cand ca si cand ca si pe cand pe care-n valuri si cu stele si cu steaua pe cand pe cand de asta stat si ca si cand vezi ce sta prin parul lumii cu cand stanci si prin visuri si ca pe cand pe cand cand privirea ta si prin cand stanci si ca si cand stanci si stanci si stanci si ca un cantec de cand cand stanci si ca si ca si prin a lui prea l
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere si privirea ta de marginirea si plange si de fara de corp;
+
+si cand privirea tale-mpune din vrei sa mori si negri pe cer sa ierte
+cu stele de noapte in poarta cea de nori,
+cand nu ma para de lumina si cu pamantul sa vrei sa sa-ngereti -
+dar de ce sta spre sante de soarte,
+s-a lui la cu o capul dulce in lacrimi in stance,
+ar pinta cu ochi de dulce si sa se pasa tragica de noapte si cer si de norii 
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere cum el e-afar hale ca vosarul interntauri,
+vrei sa ne mai se scart,
+enigma pe alune,
+ofia-n miromiata stanci de cruci?
+
+si esti vai" n-o cu a sfintei repezite... ea ce inmi...
+d-impleoarele-mi caraforste
+si vaivga-s de olesti
+de iubare si lipsit cei troienete,
+caci cetatea spre acee rusint
+	si-i seamca de-aur, tatanatimeno,
+ea deasupra-mi cu forbate a te-nveca.
+vad in uleme
+ce simtind, frage s-un 
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere plans ii unizar,
+tarul smanul sa ca
+seaca o-ndulnde fug,
+sta prea - si va vrea luara sucea eu stie cea ei revarsai, marese este toata fele,
+		capatui, zbacar nezeptecielbi
+muste pusta; stanci, si rhevri cu-nca de port c-a cumplite, - adancu-ntacle-nclete "prea l-aue, stins -
+imi vital balsa trum al meu ostare
+cultuisa. tu sa-l luptonatefarlis schemabi ca ei viziontrul cu halelsi,
+numar clar se-mi 
+Epoch 21/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.5915
+
+----- Generating text after Epoch: 20
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de argint
+si ca si ca si cand pe cand pe cand ca sa ma prevarsate si ca si ca si ca si ca si de cand ca si sa fie ca si si copila si prin sante si ca si cand a lui prezent cu creste si ca si sa fie si ca si cand cu minte de aur ca si ca si cand pe cand ca si cand ca si cand cu mintea mea de suna pe cand ca si cand sa ma face ca si ca si si si ca si de aur si ca si cand manile ca si se prevarsa de 
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere si mana cea de probleme,
+prin mare sunt a stau prin inicreaza in ape care ca si ca si ape fac de stele,
+si sa se strama sa vada a lui cer se duce.
+
+a fost adanc - cand pe poapa, de al meu acel mi-ai cutremur parea venit,
+si tot sa cald.
+	si in cer sa ma preamate de frunze se lasa acestii in padure si o desparte ca de dulci ce sa se propezi de aur in fundare ca sa mitul soarelor ape,
+cand cu cand c
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere ca intru blandicie ce-ai sa me-esura rogate,
+- ei viata o misca nimic dragul domnului nemaigurie,
+sub si in luminoase simtiri,
+si peste cate pe deferete durerii culg un pieptu-i bolta albe,
+adanc viata-mi difearcam ce lege toarda-n jos 
+orizonii-n pleveste
+dulce vietii lorce,
+si-mai albe la tremura -
+printre icem numai prea zice
+; eu sa ceru-o, insama in vasa pamantul calatoarea. intentapa din loc
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere creti imi aceda in negre are fiintei viele colondea care,
+	re;
+ce leda ecul zaheirea-te.
+
+ei parete tileg,
+sa se priva sterg .
+ce-n, inalt comori in -
+racema... 
+ah, lu-i de iubi
+ziui si-l ahle vorba si sunete: de azi oprile, sufletul prea tresati.
+	
+eu
+	ca-ntrlu-mi din vesnisul sau goi,
+un trisa ce undu-i randuc
+nici norozma tal? mituie
+a celeciunii,
+freme o tainic eu sunt toate,
+atat de s fupeaz
+Epoch 22/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.5895
+
+----- Generating text after Epoch: 21
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si de sala de sana si cu stele pareri si in cer de parere si de stele si de aur ca si de cand in cand de care sa se pleaca si se placere,
+si de luna si ce se pare ca sa vad pe campie sa se intinde si de stele si sa te placeri si cu dulce si de stele,
+si sa se pleaca cea de parul lui si al tau sante si ca sa fie ca sa se pare si ca sa se pare in colti de parul ei sa se intinde si ca sa cauta si pe 
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de argint si de secoli sa-l uscat si plange lumina strabate de fata si se-ntreband in umbra ta de procete,
+cu fericit si dulce alba de suflet de intind parea de chiar si dar nu am la crucea el ca un vis de cand dor.
+
+si cand alte dansa sa mai mai pune de-a gandirilor poetul.
+ca o satu-a ziduri, sana lui inca duca linistit si zbor in veci
+	vin sa te mai desin,
+si ca sa-l ea incarca coase cu stii,
+a
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere stabilaz
+	in mai luitul ce-n foc
+			
+	piesmul neaumea
+si faca baraoteaua, ce zboar la nisipul repedeagunica de-a istoritei
+	gatu-ncet tamdesisc,
+bo mire-a univeriiului.
+dulce femineri de mar;
+se intuler sa mana capul iesitre si incundeaua,
+apa, hodapa rosie pe tau,
+cu sosii o steaua,
+cu ganduri tot mari,
+underu riu, fara sa merd si inima.
+
+la ceruri ecata-vol, suflet al tau - misca, ("moartea, suf
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere m-om.
+
+
+	batele-n doam 
+si cradaficuite,
+por ei favata,
+cu vanuta far.
+asta indoaie lumea sa 
+ca furam sirisuiata, colori chin.
+
+acum de-a lor menit putare deelapespete nobul cu dispr-un al romarii cuziara si ea pe-o midai sanae?
+
+, inciund atori mobnindul roma la vultii dor dpuneaza cu
+muna, frunte,
+viata focnicii,
+
+ea floaca din ramurilor cea uitoriu si lusisul de-adorar
+mai ce se iasa sus,
+simi
+Epoch 23/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.5886
+
+----- Generating text after Epoch: 22
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si ca sa se stii,
+ca si ca pe care trece ca si ca sa se poate ca sa stii trece pe care ca sa se primbata cu mari ca sa se stinge printre parul cel sa stii de stele si ca sa suna in care se strange ca sa trec ca sa ma stii,
+ca sa mai stii,
+si ca sa-mi strange ca si suspine de aur si al tau sale ca si ca sa se prinda ca sa se prinda ca pan? ca sa ma stii,
+si sub care ca sa stii de cer sa se poate ca
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere si nu treca de chipar de calat si nu se stii,
+de se inchide trebe,
+si asta simte si caci de si vorbe in lume pe care se cul simte si prin cantarea cea de stele domn.
+
+caci ca ar fost ce se adanc cum ca se cutin si ca la arama poate de vechi.
+
+ca sa ne mira argintie de dragatii.
+
+in care stai de valea-i de brazi ce cum a lui pietre si in faclii in mana care pareri de la caci in cer ar vrea ca un co
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere prin lele,
+furi peetreiul si culcata printre doua de-ntre-vazu
+lunesoarele departa -
+dar mi sub lacrimi cu-ntreaga ca un stol sa mare,
+iar la uimit se mai vad stinduri desimrul atuncire
+pe teza in tinere prin galorie,
+in ganduri timte,
+tu, cata galitare,
+se-ncatea roma,
+mana-te asamre... bublier
+rauriete cununa
+si muzi sa-ti doarme si-mi care orase,
+citind a lunei ce ele popor de chin se car? sa d
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere de tulul ojmor acope si moduri paru-acolo dulce mari,
+atata cum mangai cu aprins dungi ai caut printre simtii pe sarnineste indarat lucru vala din ii al ei printre orme in genelor pe facle chiori, pe dansa... nu treia trecat ca sa de-argint, cu cureferie
+intr-inbisul pormive
+al, eu, plenea printrile zfiti-mi,
+seleu in curse cu
+smalor vaile din cine-o luna sparet tinea nimica ave
+ar faci oceari cu 
+Epoch 24/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.5867
+
+----- Generating text after Epoch: 23
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si ca sa stii de margarea ta privirea se stea,
+sa ma poarta si cand pe cand si de cand cand a lui parere si steaua ce stii si ca pe cand cand cantare si ca pana in stea, de cand cand a lui stea, si se priveste sa ma stie sa stii sa stii si stea pareri si ca si cand sa priveste si se stea de stea,
+si ca sa fie de cand pe cand mantia mea sa stii si cu minte, ci si cand cantare si cand ca de cand can
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere sa mai ca sa vina de norii se scutura ca sa se insasura cu mari se scutura, cand nimeni cand in furtuna ca dureri si stins si ce furta,
+cand copila ca fulgeri cum ca visari ca si ca sa scutura si au ci si flurea ca dureri, - caci cu grane de mult si din trecut si cand mangai in fericire
+si cand sa semn pe cand in cale-arata, pe cand pana cand din minte si trecatorite
+si cu durere inca in codri a l
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere s-aud des".
+	asufe mi-a ridisarantei lumei intoachsturilor jos
+tot sti, sta dupolara,
+o ochii tai tau simtire, soapte opera
+				
+in cozul lin si antor si toate, berbie, ingusta,
+nimici, mai pot cerma va-ntins, spre magi o caci calare pareri santa,
+durerile-son. eu numai cuminte batranca zboriale sus.
+din amoru-n din chiar 
+si blogagan cu ochii tai zilearga nimicul.
+
+dar rieiul plute:
+ 
+	- au mai t
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere 
+
+	streco  turilor,
+aurel,
+tu, pasuri doar,
+si nu-l poata.
+
+
+	"vredita dulci
+cum chiduri acesta apliunii!
+in, picapul, adanca, mormantu", batara-nvi, oramirea?
+impeata - o ploce cantisuri,
+prin ii ontono" la dansul pietrelate paland ea de stanca,
+fermecate. farmec
+cu-eu incaice
+lenine-n tei? se steaua de renvarrisetii un vis.
+
+
+	volbutii...  sunt cruda-ntuneca mi usi in flatus,
+mi-i mare ianul har
+Epoch 25/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.5837
+
+----- Generating text after Epoch: 24
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si cu canta de vant.
+
+si cand de suflet de care toate de care cu coloane de vant
+										
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere scumpe,
+pe umeri placerea adancul.
+
+o poate din visuri tainic de plans de lunga albastru de somn, se desteamta.
+
+de ar cat de minte cu singuri. implanul de vale,
+in cantare mare in cranga, din unde ca poate pe brat de sta in arcuri cu viata ta sunt mareste ca s-a schise si din cand ale meleui in simtire - in suflet cu dansul miterii in face poate numai de lunga pe cate mandru sa-ti cunge-acoase ta
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere de femei,
+de teata ita-i zambire de colind sa scapar.
+
+
+	cresc... va-i inoase
+o imparte mai s-atina
+si de cu, pe sorii ce ganditoara naltele iarasi din giganti-doiul.
+prezentul roma ca vietii cel e frorfari!
+fii chipul vietii legi matana si cu capul indrag ca ara de cale
+cu dardulu-i ilipitulor deparat,
+a viutului un tane.
+vezi o stinsii toata, cand cat cu cantarea ca lucranul cat toate de-a fi ul
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere de masor?
+incung, cant de unde sunet,
+oricare roma pe glorie roside mie,
+dcalete acestentit pe pana nibit, o floare de sudata pe neguri state spaiembi, tatanat eh..., ovenii merge...
+oripartele-mi codreri-aribazita, rau, si un mul,
+cat poantelii
+colo-n luntrut,
+priviri 	trum fasiina de-o cata
+zbura imparti in codruri si durerorul ingrora.
+de u)ze
+hide rocuseti.., creb?
+
+in urma mila,
+de-o varga si
+Epoch 26/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.5841
+
+----- Generating text after Epoch: 25
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si albastre si sa se scuiet.
+
+
+	si pe cand cantare-n valuri si sa se scuiet.
+
+de cand ca sa stii de mana ta si cu parul lui si ca si sa stii de noapte sa se scuiet si cu stanci, care tu suna,
+sa fie cu corpul sau sa scutur,
+si cand ca sa intinde cu stanci,
+ca si cand ca sa stii de mantuie, ca sa stii de cer sa curge
+si sa ma stinge si ca sa suna,
+ca sa stii de cer si singuratate de stanci,
+ca sa s
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere si cu un ori de stejar de steaua si de asta lasa,
+a tremurand de-aur in albeaza,
+si de ei singuri,
+pe lumea lui sub cara-i cum dureri eminescu stii de aur
+provinta se patrunde;
+si cand noaptea eu in paduri -
+la sara sa suna albastre albe albastre
+pe ochiul lumii in ganduri se prins
+cu brate de manu-i ca pe-a lui ochii,
+a mele arama nici din ochii, visatori sa rasul si cu ochii lui sau de sub sufle
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere de arginta in cand o aduiul fire,
+cu cantor cugetare turgasuit un vis din care cadentul,
+nu comana-i de-a lumii interne rosi treci moare, sa saci trunchii pan
+sa fic cu ce un buci;
+sunta-n arunca, boltatura stabi genei,
+iar plange-n noru de-atata mi-angezet de piatra de durere,
+si-albastre ma visar
+de-ti indrepta de acel alt pe curte mi-arg1a tata rad se patrunde,
+dar loc boimb, roseasca.
+iara un 
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere si-n ramuri
+a usor cu nadiea stins a-nteles - sfanta, ca du-t imparatil sau un trebuie se-nsenin,
+iara viata-mi zmeava o sulita?
+
+sa descr! fromeneste-n ganduri...
+
+
+	darsimi mureama
+	se casactil astre jusi ducle,
+durerii morteu departatstt.
+a-ncerobast ce cautate,
+cigine de-a-ie,
+ca" in drecpur vai protrumul ei. frunzele revigor,
+lumina noastra. -
+
+in ai ta intins,
+	adiara preampe,
+vronul din tiu
+Epoch 27/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.5827
+
+----- Generating text after Epoch: 26
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de fericita si sa stii spre mare de cer sa stii spre mare si ale lui parere,
+si prin ceruri si sufletul si ca si cer si ca de drumuri ca sa scutura mai privire,
+si astfel de aur de privire cu coasa si sa scutura,
+si prin cer de marire de valuri de flori,
+ca sa te privesc,
+si sufletul si sa stii spre mantuirea cea de corb si si sa se privesc de pe cand in vale,
+ca de aur de privire si sta de frunza
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere si in sus din privire, pare o stanca pare si nu stii sa mi de lacrimi si stralucitori,
+ca si trecut de lucie de vis, de-aceea si dand ca de ne stele mari patrunde a mea parere.
+
+ea patrunda in nori de faclie si asculta
+cu cauta ma stie inteleptoare,
+par unde mana-n fagari mine, mana care albastre sa stii spre durere, scapane,
+de cu si in sclipit cu siruri in veci valuri ce suspina, cu pasuri de du
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere ca tremura
+in suferit in chipul bucuvrie, dau voi sau denit
+plutinda pe visut, pe vad a doua ouri miele si s-arata, neavuna mareasca a ta se-ns-
+in unului asupra ara,
+pente nemarginturi, mata-mpoi ei te le-a lumei misticticata de drocea:
+ scumpurea valuri,
+iese in lucoafan de decat tinta
+si salteia sim,
+unde care manul se lucine 
+- piersuri ramait
+	frumoase-amansciun mare de drimul gatul ta apusi-
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere boltita, mai crede-n spaia.
+	frumte
+ii dinal acum cei bog, unde lug
+sa dar ardul tae, insea tarantii, pe tara, ca s-asciss,
+voinicele-dpurti a ca:
+a multii scomn,
+copil cum chiar nimenior.
+
+- asuzjad.
+si s-ai vede, de vona, pace: hind barbatul vemnistol-pezeste,
+prin al lui -
+mamata-n ochii; o zi - dragus-il iasiei
+rasa, sosstelare,
+un timp privesc;
+sube, prin vin si saz, afle cumplira suflatua-nc
+Epoch 28/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.5791
+
+----- Generating text after Epoch: 27
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si sufletul in care poate ca sa stii de care ca si copila, ca si ca sa se pare dhiar cu cantare si de stele,
+pe care in cer de para si de suflet de parere de suflet merge si pe care noaptea lui care ca de vant,
+ca sa ma privesc cu stele pe care sta sa vada,
+si ca de stele,
+pe care ca si ca si ca si care se scutura si ca si ca sa scarta, ca si se pare ca sa stii de vant.
+	
+	si cand de ce sta sa scu
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere si pierdute si vine ce vrei sa strigi aerul de dulce, nalta sana are acestorul de suflet ca marie ca cer ca stanci de cer in parere din manile glasul mari de viata trece-a dor
+de-ar fi nu se pune ca si se pare si de parul de cer ce simtiri de ce in care-n vanturi de care intr-un cer atunci in nori de gandiri se-ndoaie in ziduri din vecinic si stern,
+cand din care tare,
+ce tremura ta bune de cumpli
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere satatoare si cade rosie ulicioana, la bagate (ehadoptrandula lacuri lor plin de mor.
+unui in ce trainic umbre muri fosesteteau rege. filieri de onderetori pe mormantul ochii mea soarita, ochil evele sau ca simcbrii ce-o-n razu mortul alba s-o varat
+eu va p-o tierge-adanca sorb.
+
+p-atat cu chip bat, toata lu-aripa acema acergande cobori
+si fasia coafulsi in calea crentioarea bata, dealuri; fo-orbol
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere zbrie
+surada-l - vezgire dopova, ia, pe-a apate-c-un tarogar ce iitaz pe dhagat la-a bucutin?, si-n cerc scurind, cu matarul. 	le binile pavalmasuri, clar si-n viricul.
+- ceb se statoogic. ;
+patrundea ce-aceea ea, daca numai scalpate,
+san basmul, ogonberiitc din cobre nu-i rosi-s diaca
+de zidirea-l mari nara-n vecinic i... prin fros ca e vad la lanuri florisbhesa, irice, eu ce se misca se spuind e
+Epoch 29/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.5788
+
+----- Generating text after Epoch: 28
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere sa se pare dhicele sa se pare dhicele sa se stii de suflet de sus de sus de suferinte, ca sa sa se plange de stele,
+ca sa se pare dhice si cu corpul lui sa se priveste,
+ca si de aur cu care pe care pe cand pe cand al tau sa se scuie ca sa se plang de stele,
+cu care poate ca sa se priveste,
+ca sa se pare dhicele de sufletu-i de sus de sufletu-i cu mana ca si sa se pare dhicele de sus si cer in care
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere si in scandiilor scumpa
+		e tu sa se incara in cer de lui de fundul meu sa cheaga, te urma priveste de sale,
+sa sa stii de de parul ei sa mi-l mica.
+
+de-a-n umeri strainda trecu se arzi ca norii cu covoara lungi cele mari si numai din treaua atata in lume sa prejuri, sunt sa strabat
+de care in care in intelege zambind lumea virtutii sa intele lumea eu esti femei in care toata lumea amorul prin soa
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere desirale din poarde, tomniciunua inalte
+sau de crestet nimic sa ai ficele. muviri in care a ochiilizei se duci.
+
+
+	fagieata fiinte in san,
+incareste irinele albe-n ;
+
+
+aglunau pride borba,
+ausi mel tot lumea sa, veplopot. luna unde eminescia patimalizi almeri minte, un provede necriul eu,
+			
+	de-amora iabasca
+mi-a rumfb eu putea-mi spermicalar...
+
+in c-urma valurii ale fiunjoara -
+nu ai maresc e-
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere ogura, varast penesta, cutinde-i in unde-si cu cauta:
+ cregat-a mirmurilor dulciet;
+si toata o mana s-aziare de-a lirata, futa frumos.
+o palat.
+
+nu-i dealuti,
+ce-l spunete ce incentat,
+si frumoaie - ditebatur.
+cat pe ceruri privindu-ncernirilor vezi in se uitire si folorisa?
+". ea treci. o stra, parea, ca...
+prinde argintul alta, adancilog, a erani si negru, ce rasplatitea lua,
+cand le-u lansul gu
+Epoch 30/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.5790
+
+----- Generating text after Epoch: 29
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si ca sa sa se pleaca de la care pe cand sa se poate ca sa mai asteata
+si sa se poate,
+a pustiu tarii si sa cade cu care pe care pe cand sa se poate in care pe care ca sa cade si ca sa se poate ca sa se poate
+si ca sa mai sti de suflet sa se poate ca sa se pare ca sa nu se intinde se sa poarte e de la care se pare ca sa se poate,
+sa se pare ca sa se inteleg ca sa patrunzarea sa amor ca sa mai inte
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de pe care trece,
+si cum ca nu te sada in tare,
+sunt si pe lume parea tasa,
+sunt tu la care ticiori ca sa fie?" ti-nsu-l masura cel lumina si ca-n copila cel de noapte,
+s-a tai nu se pare se consieste cu alte de aer lumei cu coltul tau pe pareri se pierdut de lumine si ca sa mai pune ca sa mai avea marile
+cum ca sa sa-mi deschide se pune in soare,
+au dus, in mandre numai parea cea de margini.
+
+
+	s
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere pe treia in apuveasca,
+mare mandre la cucfotalii-n se-seste, batrani cu crin-lim;
+de la unele sani:
+intelesor rugi, s-auda - ce insasi palidnii gand...
+unde corpul de cand spulul, la pornie
+barbatele zice;
+altal? el nostru calarec in munte negura de aspre,
+in blonde nu-mi usaznici, si ochii a unor misca stea cu ce sunt, spre-adancive
+la fet de seaba ca la tareni,
+cum ca numai frumustii. dar din vi
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere c-opus
+si mandri nefuma,
+a genele sa urba.
+	
+	sa le ochim al, rrmisati,
+in intindelate-mi e strange spre-ochie-i cofoale,
+la lufiovari... minite,
+iar in mai cantar?
+rautate, generatoare
+	- adutate alunetate marile-a licupta bebia uita ca intarbari
+bogesti piezme
+avut voi fale, orceanii.
+
+pentru - eu! a basmei usoara,
+malul flugatia numai din lugheu mare
+sa simte-n umbra anecaroase,
+uscataic negtir
+Epoch 31/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.5788
+
+----- Generating text after Epoch: 30
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere cu mine cu coasa de parul sa se scutura de privire,
+si ca sa ma poarta si sa se poate,
+ca sa mai poarta
+ca sa ma poarta sa te saruta,
+sa sa ma poate;
+ca sa sa ma poate,
+ca sa ma stii,
+sa te intre tremurand si cand cu coara ca sa sa se intrebi,
+dar ca sa se poata,
+ca sa sa ma poate,
+ca sa se poate,
+si cand visul meu sa se intrebi,
+ca sa sa ma poate,
+ca si cand sa sa se poate
+si cu coasa si sa se in
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de moarte,
+cum te rade cu copila si furnis
+si mari in cand.
+ca care pierduta, negru adancul, de a vede sa stii sa te intelege,
+noi contint a lumii si cerul meu ce vazu si intre par te mai prin pe care ca in suflet cu parul tau in vale,
+si sa ma poate
+si in ceruri fata,
+cat ce mi in care putere de vant.
+
+astazi eminescu si cum ca care la codrii natii ce spune in ele de altele mele va
+in mandre cole
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere tine,
+iar scaroarand ii era;
+sede de prezezie a ta turbub.
+
+uitata cea adorm imboare,
+ce arunca bine aveam cu tat in dorinta sa de stamna da-i fir.
+
+
+	cei o misca de borbc, merge, de izvoare, un post furtuna,
+o prea omorie;
+ce spung jos cem mormant trista te-atunci inalta miminti,
+imi poartea le-a-nclist si ceri ironii, pe paru-i stamla care scut decet... in majradac de nostru coscurii domnul,
+mur
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere mare.
+
+vii de pus?
+
+eu-e-o vis rand.
+eu,-o fire totu ce pe orcare...
+enteptra-ti stie,
+eu incalceti intrii!...
+ereaza inalta, costola
+sertea-ntr-o "chemare numai il poarce luni sustetei tot imponjlna cum nu raur buna sanu ce tremul cei deleve.
+
+cu glaila albastru cei rapise".
+
+deasupra tiierului nu se leaggatoate-i chipul rauioz:
+o, se clatin marie visul tari, fagale gandire., campie mei inmioara.
+Epoch 32/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.5806
+
+----- Generating text after Epoch: 31
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere sa se prinde de cer ca si sufletu-mi de mana ta sa se pringa
+si ca sa stii de negre si albastre si alba si sa ma stie sa se stinge si sunt toate de numar ce se prind in colb de fara sa se pringe si ca si sa te adanc cu departe si pe cand de argint si pe cand se indreapta
+si de cand de cer cu codri de parul tau in cantarea cele cel mari ca un mare ca sa se plang.
+
+si cum ca sa nu ma poate alba si i
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere pe altarul pure-o departe colo-n cantarea celor drum si patrunde
+de-a vietii si cu cantarea soarei ierie
+	si pe un mare colo, in el si mare si parere ei pe vorbe,
+si el ca si poetul cel ce le neconsea ca si cantari cu stele lui cel copila in lume.
+
+si cum in intunecata si albastru ca si pe un mele cu dezlogul atat de neamarata,
+atunci a ta se mai trunc gandirea-i suflet ca si in colb ca sa nu se u
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere frunte la de valuri le tace
+	literas sae,
+genunarile de asa plutul, blonda arala de paras?
+o tot prin care por cu linistos
+sange din , zidesi nu noume mai sa befint de lumina
+dragoste racoa,
+dinos par cu ceruri i stinge
+si morti ii piepte, da poata de-oni taol doua si cumplite cu ?ocumbra e-ntrece hortesc sunt univers il este...
+si eonand de s-o maruri
+e acum ca de noapte aceea. numeti numar cumin
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere deste arginturi, mare, numa-ntrege de mintei e-n tolita,
+umar creatinlaf
+soblabatom, ipiros duinalisata,
+in vantul intreaga,
+su)tunsat, adanc avea targana veti pier, batia, ale tremul;, stins intr-lumi... omi omos,
+tava in jos!
+de prin el strigoas
+tu nu, durera
+palide, iubite, cu-scapar lit
+eupele ei ca emizitecolul de ciemn-in lunrici, calutatea ei?
+cu raze te-o primbe,
+si noptile-si vita si apri
+Epoch 33/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.5776
+
+----- Generating text after Epoch: 32
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de cantare si sa stii de mine si ca si ca si de mana cea de norocul sa cutresti de cer de fata
+si ca si sa stii de cantari si stelele si si ca sa stii de aur in care tot in care intr-o sa stii de stanci de cand de faca de stele,
+si cu cand de manta de aur sa stii de stele
+si sunt sa ma stinge si cu durere si de protesti si sa stii de aur si ca si stelele si ca amara,
+si suflet si ca si suflet in c
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere sa prepinti,
+de la umeri s-ar fi marea de stanci de amor,
+ca nu stii de aste
+		ce sunt o sa te asteamna,
+iubita ca si decat cu mii de drumul cel mari viata ta luna - departe si cu mintea cea castele,
+de cand ca de gentile si poarta lunii pan? un nimic o coase cu durere la mine-ntregi de fata si oglinza de laturi
+dar pe stea intr-o patia strange sa ma intind
+si in cand nu se intregi de plba ca de v
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere de bolti,
+sa si cum ca de-adesarnii mii rabe
+a din mai nici o cu scut din rosne horis de cerul devenita,
+ca-n deci cu fian pasi deternii,
+prin cat de nalt de neguri,
+
+	tot mai tem,
+dar de emn?zuii, plina fermecari si in vo adia
+si la colul manea prin foineale...
+
+ar poartea ei poate. 
+sunt ramanul de s-o urmea
+ proped, mana.
+un traimesti mari impletio parti
+ca noroconitile c-unagire
+este, cand inc
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere si-nimaru ca sa mai poara
+si la toatta marilor,
+de in gura-i romau jparse cu mangai
+sa tiit mandrului 
+n. de- ;
+mai usic-ajune
+e ei urechielor duna,
+ta-n mine el -
+aspintul cel blont castauia-ti ctare-n druraoljol eolicte si - dintre sereti gland ca un papa, rosia puistst, grea arcerii ele-secul pagee slabi.
+		
+si avnice fumurilor, cu-acestei a inigrutilor ta putun
+	de plegine-s nesimtita.
+vivive 
+Epoch 34/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.5781
+
+----- Generating text after Epoch: 33
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si cu patisi sa se scutura se priveste si sufletu-i care pe care cu parul tau sunt sa se prinete si pe care pe care sunt ca sa vada ca un codri care pe care cu patimi in parul cel uscata ca sa desmieric sa de stele de suflet si pe cand canta e sa se intinde,
+ca sa se intinde si sa se prine ca sa mai stelele si sa se stinge ca si ca pe care sta de mine in care nu se prin de ce sunt ce sunt pe care 
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere cu perentie care poate pe care pareti si calin ca din suflet.
+
+un poet la alba cea cea parc-mi pe-a costolicira si ale ei privit de unde sunt a lui stau ca sa suna si porneste si pe cand sa nu se inducrea sa ma varde, cu manile te-ai bata-n vantul sa se pringe cu care mai prin marii.
+
+prin el rasu-acel nu mai stie sa ne va orbi si pe care cu creata ce sunt parea-i de mine.
+
+pe-a ta trecut de sumel
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere si-aude-i postine-o ceata
+lin argintene cu brat pe vreme!
+
+cand vorbari si poina, s-aratarea moartea s-amor.
+	in urmeste-n propatus, valeuarea vreme, le egaroase
+glasul de cant. 
+	eu cel in zei pentru o, cu-n asternul sunt murire hilu-ntoar,
+misca plovea de dura-i curat
+eremul alora trimisea, voi iute ura pace
+ca chipul tie-o astaplnina
+de-oi dupe in pamant.
+si noaptea-n a ;
+luciul ori verbuite co
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere sa-lec fata nara
+	tu.
+zambetiuna-mi viepte...
+dar cine dorul... lumina,
+dar beci noi dar nu stins la al lui per, dat verdit,
+ce descat da ss-oi,
+		canu-i mierue.
+
+caci porntuit pe un procet indusmul sau, catrin parea sa sti pevid!
+
+ne ara incet,
+o furma balt dreptatia nasalilte cu toti ca nu raliee, noapte vraji de-al meia tu, chiap de zinestia;
+
+adesar; plecare de ziuri, fiti stemam... la - s-apo
+Epoch 35/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.5765
+
+----- Generating text after Epoch: 34
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de ceruri de stele
+										
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de plopii,
+ca si cu care se cazi ca putere.
+eu scand argintoasa marii si manile cea de codri,
+si e de stele
+	de-albastra, de ceri in valuri de varie, in frunte ca sa se stinge cu frunza lui cerescul sa tin din ochi de ambra.
+
+ca sa se strange de capa,
+si cerul de albastre si cu ochii lui si nu se misca stinge si putinta si sus,
+morti din mine in ceruri, din intind si suflet ca pan? in ceruri se ap
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere ca zarduri colo;
+tot de-arama la afarateca. :
+daca cadentice
+si totomor arunca
+	din vecina e-o triste, fata dulci.
+imi scris, tu fire cum iconorerati cuieadat-a s-a ei buze iubira
+daca-ii vine tot nu seleca.
+cum te-ntregi crindi de nori de munile cu-atat timene, albastru shaindile se-ntae - suspina sa patria
+asta fiica semnesti acela fac, tonnator, ce-o insa-asama seriruri,
+ca-ti vezi orilosutana,
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere dinrf
+de-sul copilului, miratul, scuma si c-o flet.
+indeos trasandere raspela,
+albet turmele sa te noi e pareti ochii din urna.
+
+ci adeseau as moai ia parere c simtire
+sir.ni la aceeasca-mi clara;
+lumineaza pentru n-un flur,
+		sutea creu
+	am juza
+ca revem daca nume,
+numai existorma inflorita.
+neprecmnu-ti incerse iara bland,
+
+stam te-ai deschie de calea de doua sort.
+
+insulit, din merticara,
+se-mb
+Epoch 36/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.5770
+
+----- Generating text after Epoch: 35
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si cu cerul sa scrie din care cu continta si cum cu stele de argint,
+ca sa stinge si cum cu cerul si steaua si sa se priveste pare cu manile si cumplita si cu coase de fara de viata si stinge si sta de parul si cum cu mari si mare.
+
+si cand in cantec cu coria sa te mai asculta,
+cu coria si cum sa se pare cu ceruri si cercata cu crengi si cand a lui care pe care cu parul in cantecul sta de parte si
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere si intreba sa cerul si sarbea fiinta si zice:
+tinu-ti stinse mici dulci, o sa tin a lumei din conci se va vrud sfanta, dar decat in cantari de soare si fruntea ca un arcerea luminata
+si viseaza ca si crestet de plopii in ganduri, mai cum sta luminei de fara si de urma in visari si cata mi-n ingeri se face ca sa crede, te vantul lumii intreba,
+nu stiu cum cantec la noaptea cea albi se cata si mai s
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere tfericele cufunda umbra tinerete cum au puse, sarbati, cu manea lor genera sal,
+dupa pe cruda si-n zeriunat cand - sa vad astept,
+ci morti pifintite.
+fara intelegi sa nunoase-ntlac,
+bibul am vrea ac;
+la care cu-atat de craiesti latiuniuii - nu-i spune in bate,
+si in fant sinhizata
+si am secul dinrgasii di gropie -
+pe pantra
+eu acest trezic cum chin,
+ctin de-a au drum - 
+singur-a ochii
+a:eata ma fi
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere ocrie siza de - - cice in vant.
+- mitusnicoase sgata pe manhaioare,
+ce inalte, al crestatatea
+de-ai nu mai acdera,
+si plina soarta inspi vreme, ca si, cratalie cu viptii din orele marie, altultuilesc, dor iar o ispreojis.
+peste zale-a cruciui, lsnsul c-voiul banni
+...................................................................................................................... ghegeri care, st
+Epoch 37/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.5761
+
+----- Generating text after Epoch: 36
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de stanci si straluceste ca sa cade sa se pare ca sa mangai de aur care cu care cu care care pe pana din care sunt cu care care cu care tot ce stii de mult ma va stii si stanci de arcuri si ca si cantarea cea ce se pare de cand altele si sa se planga,
+ca sa ma prine ca sa mangai sa cade cu mani si ca si pe care cantarea cel cu care prin vanturi si de parastor,
+cand de stanci si cand sa sarata,
+ca 
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere cu stele de la mare ca de-ar fi cu stele negre intre lacutjurata si neagra sa sunc,
+pe-arce in manile se stinge sa treaca.
+	
+astazi la calda de sange si cu grand de stanci albe de pietre despre vede cerul sau de mantie.
+
+
+	ce are la luna viata-i acelasi decat noaptea. 
+si se pe raza lor de stele,
+sa treaca ce din cantare sunt copii, tot mai dulce lungi pan? in lume ce santeaza pe carga de stanci.
+
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere din ducu-acei hfug
+ce vanturi cenga din bute prin urmare-n lanturi, norocul rostu-i ma-ntotdul lui eg.
+cerdurea cea ce fantaste
+luna incretineaza un braz;
+increde si din asta n-o vada-n mormene
+si umeza? stau pricitata -
+de cela eveniti in patra,
+ineaca in va stele
+lucru-n postrecoana macoare,
+ra-ncerul aude-s iselele scatiere
+alaturii armere si arama.
+intr-un ?cadura
+si umbra eu primeste frunza e
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere untra vedi n-ai coborul
+aparie (edadulind;
+dar o, frunti traitorimeto-og,
+el trista mar un tistrele de
+margenii, - suflet de ievoratura,
+lunec atuncea isi setolie sa-m-avins;
+ficle lacrime arabe, gandiei... manturgesi vraga ca-s fata sfinteorareste - vor vorbeste intreaga pencre socosi
+zafinira gura
+lue unca uitati si bratul mara,
+trodadica-n vede in lume astap!u?
+ 
+ea picos de la stramenul cu bor
+Epoch 38/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.5753
+
+----- Generating text after Epoch: 37
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de stele de stele
+										
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere se vad cu vantul cu vorbe cu sale de flori de privire,
+										
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere sambata, de-aur adanc,,
+il ma mas? nu te tinul temei curamla, blanda si manusa,
+ca din sut nimice,
+copila de aur, ne scopti mae in late
+si iubirea zoreste.
+
+- adormit din gaga poet
+si ca pe cand fiend din ardeuna si chimbit
+o trecul neferina e sine, caci la borbata
+boltu-mi par in semeaba.
+fi fost, nici caotic fone
+curand mai ca cerul noastrea iuciunea sa suiet toate,
+si lacrime si sa cuminti, o v
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere pot, raier trista suiat tate bine,
+a. harle-o tai isi mana este imn. acestei
+pe-o umbra inima, beanura, un vis din a piertii gandirile.
+la noiantreau pleori grave de lumini
+s-auaf tremura ma ferici si maleele -
+sub noptii eori, undei si gradina,
+mai agleie, lubele;ru superlis, eueg.  cad in cezsana se mangaia,
+carei domul intinsa te,
+blanda mi-i ierdestez,
+fericirea sumenepta,
+prea leco,arai.
+te s
+Epoch 39/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.5764
+
+----- Generating text after Epoch: 38
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si cand cu fata para si prin cand ca si cand sub mare,
+cand sta sa se place de cer ca sa mai stie si sub ce strici si cand din cand in cand ca si cand ca si stele,
+care sta pe fata si cand de vantul cel cu copila si strabate de privire si ce sunt cu ochii mari si de stele,
+cand cu parul meu sa mai stie si cand in parul de flori de copila si cum cu copila cand sunt sta de cand cu coapte si cand cu 
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere se place se place cu mine de franturi sa te asculta.
+
+pe pamantul de nori
+si nori mandru si cum ca coloane vantul pe umeri de albastre si mort
+ca nu-i cand iubirea viata cari cu flori de aur sa amarari, de mine pe care care sus de fata le pe fara cu mani steaua - de munte in stele:
+si par din varuri aceste s-arata cu fantaste
+si ca la aride cu urma a ta fiinta
+sa mai spuie se prind de vant pe mana
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere tine, fragonul mestricise
+la prea parul cu noia sa mai asculte
+numai flur, roda noi cu graiesi, stai in iram zori susetiaca mi, mea si va chip si copile se,
+el lovea istoluste lebele in tranul.
+
+ce sic pe bezamezie... pluteste,
+coasa fug pe tebul senineste,
+sa-l deschiz a nici.
+
+cu plesadea-agpoalor,
+	al trebintarii merg te pierdur, incat ingroului (odtic si de urate
+sus -
+in dureri in viata lui f
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere o postile,
+cevers azdrune-l esti tot puvei lumea lactoarteleetele mona.
+
+ii de vantul t-o catare, unde-ai duce fara inseaca blanda sa intelegesc vad al celesti
+prin mandre dovpondul de rcura, nici guma. brazand!
+
+tu fi cu stravezi moamiatuati,
+ca-n voim de
+pe-acum ehoiov, cand la-n mult? de -
+ca far-ofleas
+sugraduror cu jdomenul lui cruii si atuncea coborim cu vedi, ton, minitia! flecata unde moar
+Epoch 40/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.5768
+
+----- Generating text after Epoch: 39
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si cu patri si pe cand in cand va suflet marea mea in cald simtire si suflet cand cantarea cea roaba,
+a mea mai stanci si sa de parte si cu sangind de stele si cu mandra de stele si suflet suflet cu mana si suflet in cand cantari si suflet si cu corpul tau si suflet se prind cu vantul si se prind ca si cand cu flori si ce sunt se prind cu ochii si cu cand cu mani si cu mantica cea dulce si cu cant
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere si sa sclipeste sa stii ca si din curge in privire,
+si prin cand din frunza de oh
+						sus?
+
+si pe-a clopoteleuirii de steza,
+mai eminescu si cu brate cu luna si el se prinda si se stingi si sangaie marii de trei cand durerea ta si mana si pe rauri,
+cand cu cand duce n-ai vrea si suflet ce mult mai pe apa si pe suflet si de lacrimia de stele pan? cea de vant de mine,
+parea si cu patis de spus
+	di
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere sarle...
+
+cand va vad tei
+	aproape o plangato ia aieie
+de ar fi vruda scuterilor cum aprind se urbara sa suram daciiara mi-i uiti copil carti tot ce stele dramama,
+ca umbra-n nori trecb de lumina e sarma in dureri in veci in posteinticios si de smirare  ca maiute dia dor se stingur se preste odene,
+nici astfel nauntaturi si fier
+e ce sveai rezimeste schiletarie,
+si oglind sfant sa visuri prmavezi 
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere vorbesti
+zarea al mai acei surtii-vede ajunde de-oi mari 	de vosie se cufla uriei incapuin igvea;
+cum iar son, tot idiei dame de cl1inii ei lin cu tine flori,
+mandra eu eminescu e-o ecogipoasa peded.
+intr-iea-negundoi astlie le traitu in barbatus,
+apoia-mi parai spusgaba.
+
+
+
+tu netele lumea cei, o zlova e sa m-seie
+cat haila-i mii dara ca i!
+slavel, imi patr, surazt pe te:
+- vorbenta-i intoaco-i v
+Epoch 41/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.5765
+
+----- Generating text after Epoch: 40
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de care toata mii de margine de care pe cand ca si ca si albastre si se priveste si ca si ca si sa scrie si ca sa ma priveste si ca si ca s-a stinge de cate si sa se pleaca de ale lumii sa se pare de ceruri si ca sa stii de spusti.
+
+si ca sa ma prezi de care cu si ca si cu vecinicie si ca sa stii de suflet ca sa stii de care pe care tot ce se pornit si stele si se stinge ca si ca sa ma intelege
+si
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere pe alte foste,
+pan-in mare ca sa strabate
+si sufletu-si de ceruri romantica.
+
+cum vede si te pe cer sa scala,
+sa scaldan precum de cerul de ale ramanetul,
+cand mai spune ca s-a trei plecate ale ei para cu ochii meu ceastre si cu care coase de vantul lui insai intr-un meresc de vant cu patime cu copile de aur
+sa vede ca pe care pan? si pe ale talei si trece si frumoasa
+soarta pe oare,
+si ar cand cu
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere vigatoara esti cu doua mandru, pasiuneal dor inece-mbate de munte poetul vadon ceru-n salbe
+s-am visa de fete-n soare
+prin ceruri mat. (	(odat la smirteala,
+tuicd ca nu se intelele, pe-a zilei greu ca valoru-i pornic, de erai int-o rana,
+dar sa-mi vis prin flori morti ca glasul -
+si s-o intunerea moale...
+
+altului grimanba vulteiul, inscutuste-n geanturi de-amata.
+mine poarta in cand.
+ca suprea, c
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere iubesit,
+cuvinte, lenvi.
+
+in pajusind luculi
+colo al torticiui, inchipul cu creanga patimast desit volitei
+	din gulatoara.
+
+- furma,
+lau, am gasiti
+din bratul se cradea vorba pentru ccoana,
+le gas lacanoste peciulberea fadbma
+cu fundamoare
+sa fiec. ce doroc ca suapana-indemta.ni nu ma lac-mpreuna minti care-rvara,
+incepsecul haina micateloru-i halele-n creana de roma,
+pona-n cristpi si umila,
+ore-
+Epoch 42/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.5767
+
+----- Generating text after Epoch: 41
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de la crestet,
+si cand din care sunt de vanturi si ca sa ma pune si mana e s-arata si ca sa te indoaie ca sa stii sa ma stie si ca sa ma intind ale lui de parul si ca si ca si ca sa ma cunosc si ca si cand de stele de stele de care se prind de stele si ca sa stii de nori si ca sa stii sa stii de parti si sa stii de mare
+					
+si cand in stele si a lui simtire,
+ca sa curata si ca si cand ca sa stii
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere parte, ca nu trece dulce ca ale tale cea a morti ochii si de alta adanci -
+si in ganduri si ce sunt decat de stele de aur,
+cu creanga de-ar fi de suna,
+a lumii lunga statea lui simtire,
+cu bratele-am fost soare
+cum ca sa vad, stanci a ei proprii de care intr-un rau si singurata
+si sure cumpai sa-mi spre sus si stanci de numai lunca pe deasupra mea cu valuri lui ca lumina se priveste sa vad ca si-a
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere deci in misoacea ale ei mitotremuri glasul poesci-ntrege (bratu-i umeri
+si aceea-i padurile "ei crengiste sunt umbra lui ea trec plutatia, tu;
+canul rafera
+un grumne cuprinde racla,
+pecutul sfinte.
+un amara de nimpe sitori
+ca pamantul fi draga,
+a iubitului oara
+bamand socioda.
+prin cand faci, cu mire-i s-apaga atutului, nimar
+sturea trecitul se roma
+s-apro-ie san, tuhoh si faina si facrii atradire
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere o chaula c-o rotuna,
+unde-n brat
+esiba" -
+vede doi sade, luciontazi-si diambarratim deschisi
+ca o ziu, cru alta runmu-i ei ce mult n-ai gande, l-ai mit ce-o sanul dupa noi departari.
+	
+si ei mai face.
+nu e sprevestea petrece; cu doresnici.
+
+cuprind-i zufoar,
+varsa s-arunce in vad miva
+ce vor frunza-recupomirea inmorit si dimem, ne?nopa, patrind un roma ochii-ah,
+simtira-mi ce-nprb). scandelea in n
+Epoch 43/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.5743
+
+----- Generating text after Epoch: 42
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si se prinda, se pare cu cornul lui saruta de altele,
+cu patima ce si coloare de vanturi mare cu coloane si cu se stinge si cu voieri si si ca si ca si sufletu-i de albastru
+ca si de mirite si ca si se stinge si sara de marmura si ca si cu si se stinge si sa se intelege si cu codrii si sa ma poate,
+si in care suna in care se stinge si sufletul sau de care se stinge si cu coloare si sufletul sau su
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere sa tremuie,
+cu junii in patimi din mare ca la marginirea lui mare soare
+si cu mult sa le intinse de valuri albi, si marea se mirii mii de drumuri,
+care moarte si sufletul lor maretei si cu putea cu copila, de suflet de la doapte,
+prin lume altul tau sa striguri si calem
+si coacatecata sunt sa ma poate in stinse si presare,
+si mare va in cartea eu suflet sa ma intuneric
+si dulce vicliveri si cum in
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere tu voi se cul polnele polezmur ce-i de-ar cuprins de valuvar,
+goare inflanica
+si buti la privigului vadoare:
+el trecute bibliciun este gol
+cumul m			oj-i strabat si cu o ulata se lasa
+aginti de o disi,
+care cum ei sa simte,
+ramuri toata lume!
+- se uios de auctereai cu - cu furat e-un si daca
+	dar va meli il privesc,
+ce bogataric de codrul galben flostu si deschise de muritor,
+prin civita de-a nori
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere sub frintre,
+pe viziuna zisul ghicetoase fluc.
+
+patrunsul ;re
+s-unde-n urata,
+zei seaman cernelita luminee
+hotest singuri ca mirosarele-mar, garopana dtfe, ieriuiesca.
+intunecat confugiunea!
+tu ne poate oare sa pezvaz,
+cu van mitot sa nenestra buna.
+
+in fereasta, mai veghui-asam frate-i se.
+
+o falua ochiu-mi stricii pentru chiar ei...
+ca unui par, ea veni, lava.
+
+as viata meainte-o mi-aziare
+ii ma
+Epoch 44/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.5768
+
+----- Generating text after Epoch: 43
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de cantec de pareri de al ta privesc de care cu coapa, ca si cand cu pasare,
+si cand cum ca sa ma pune de cata sa vad si sta de cer si ceruri ce sti sa sti de care tot ce sti sa sti de stele,
+cum ca si strange de stele,
+si prin cantec de cata sa stii sa te stinge cu vanturi si stea de colo de cantare si cu stele de margine si cum sunt cu manile de corp.
+
+si cand stapana si care sunt si prin flori 
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere prin mari si al ei sa mii de marginire de al tau mine ca si cand din valuri in mare ce cheama de aur sa de priveste toti la cerul si carare de mult marete.
+
+si creatua 									ine sub cine cu acea folul,
+si daca pe un par si mare sunt steaua cele sau cum esti si ca un mele de la rodinta pe copila de privire a lui sala si ca muritoare,
+si stele cu o cale-a lunei cele ce pot frumos in parul lum
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere fantascile, ma vedea in parul farmevari boit-in gandatoare, capa cruce, cufoate vino, franta froada mare
+				cu ochi dansul ursat.
+
+raman, ce focat ase, a sa regii, - nefacand cetatita linitoare ce sarolare ziua mare
+ca din urma prege,
+si usor. intr-un civinul nu e lasuri
+cu-a lui inima miifineduita de pe ochiu patru sa nici ma fori trec iara izvoa;
+dreptat tale in tea si jos,
+e niti de stand dupa
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere pica.
+stevarea-orgg!
+
+chinta uzi-unchim mosnecunte trece, stine naste, din el alea care tgangii... "- bratele-ac. aldaicetei tu, si e,
+sa redacul loa;
+cete de-faimib
+iatorate deschisii fiindeie, vitanta pis,
+si cum numai acea harte:
+imcurs?un cantarei cum este:
+- va vrete suflet,
+pasinta a cazanul-i cu ochi ma des azi ma-ntelege una din urma,
+	si roi cada,
+vin l-ocult par si uscate!
+gatelit s-or v
+Epoch 45/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.5767
+
+----- Generating text after Epoch: 44
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si sarutarea sa ma vazat de stele de privirea de stele si ca pan? la parul lui sarutarea sa ma priveste si cu cand in cantari de aur in stele si saracatorie, cand mai stelele de stele de norii,
+ca si stele si de care de cantari si sarutare sa stii de stele,
+cand al tau suflet si de cand ca si sarutarea se spune ca si cantari si se prinde sa stele de stele si se sclitit de stele si sarac de albastr
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere intreb stele sa ingarzanda o stea planbe, sa te mai mai are,
+de munti lumina de vanturi si care visatorieste a lui senina de mana intreaga sa nu ma prinda de albastru sa se duce si cu copii ca din vant,
+si prin cantari prin mari se prinda pe pamant cu parul meu senina,
+ca nici atincan te-am imbracat in tineretea sa sunt ma face sa le de priveste in mari asteapta, cu margenite, ca viata treci si ca
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere ea se-rolatori:
+bibveladatele pe noi se trare
+sunt   de imi intaimon farmec,
+ce pe-o nou dehaindefuratarul,
+
+cat incet de nuntip,
+din sangerii, de-aur traiesc, geniul sirnii nasate pe el calinescu. el n-ai poate privirea-i ca biblinec fruncate soarela-l lumei astru in vant in acerat de noi, doros altalor ?vibrozgatbatea rein,
+ne troie care-n blondele valuri calcaie sfinte. erii cofulhia e ma murir
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere omurii murmurului
+alb mosteciune,
+din peorde nimic si suptul lumii inpotripeste
+si florile valdio?.
+
+ca baiet gonului supare onbra toate
+l-arunc imi 
+?norca-mi-i cu peste de-foceri lunci?
+
+ii cori (faerianor r.
+
+iar aspar din spre sobaina, a turaturii istepti,
+lanii cheor?la?
+voinic morm tinereta
+prinsirzabi care la co din fundu-li? goale, imi desbuarta,
+tremurang, moartea treci vrezi durerea s-at
+Epoch 46/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.5752
+
+----- Generating text after Epoch: 45
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de steaua in mani si sunt de vant si prin mari de minte in cand ca si mai sa stii de stanci,
+cand cu cand ca si ca sunt ca si ca si cand sa simtire si de stanci si se intinde si sa scalit,
+ca si cand in parul cel sunt sa fie ca sa nu ma poate, ca sa ma pune sunt si ca si cantarea ca si care ca sa scurca de vant.
+
+
+	au in care nu stiu ca si ca si ca si sa scutura argint
+	si sa ma inchinul cu pasare
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de care sa sung si stinge si lumina se insa de vieti.
+
+amicate patime a lui poarta,
+cum faclie au cel vine rasuna,
+ci sunt in coaste lumina in ganduri de vant.
+
+dar parerea sa te mai stiu sunt a ta margini mii si pe toate de stele,
+cat de mangaie
+si parea ca sa vada -
+cu privirea ta sa scuriate,
+de se comple intreaga lui un conteste fiinte pustiu in archise de originesc de vale albastra in ganduri
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere plisa mangai adanca cristitor sub ea pace
+c-orgint dulce de levare,
+mor, la fiorima alemesile sa s-o leza,
+si lacste-mi de cazoresc,
+si oarbea mangaia narda,
+cum pluteste stalia mai fruntea lor gandirile alelor pumea de dor,
+ea lira-n timtra, mai sorite fara de nori scanteie
+blonde se plange, de-asfaranus.
+
+scrisa planec prinde-n neure-se ceri, miminti marirea tauti
+pe langa acest irinde cu mercu-
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere factorul flat scumpa paduri
+s-al cei umbra greu usme spuezav.
+inreghiata-mi rosu, foca-n biginbit incodatatea, gac, foluna si frumosind ochii-de,
+toate; mi-an lumea si stati de --nvinga vechi; jimcester.
+a pominii mitoare mereu jocul, toate-ai bine-ntrege in neava confea?
+
+cum te impotunda, nostap inalta de sta mirmur-itchire mirestea mascarcan e margineea ce-a imdorile
+detin semimizat-a patimenit
+Epoch 47/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.5781
+
+----- Generating text after Epoch: 46
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de ale lui coloana ca si stelele de aur si stelele de flori
+si stelele de mantie
+si cand de stele
+si la margantirea si ale tau sanul de mine,
+ca si parul meu si stelele de flori
+si al colo si stelele de cerul in coloana,
+cand pe care sta de la codrii si ca sa se intreba cantarea sa stii de stele,
+ca si cand in care pe cand cantarea stau si cand stelele de flori,
+cand se stea si cu coaste si cand d
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere se parere a sarmasului cel florilor
+sa mangai se prinde in stele.
+
+si de parul tau.
+
+de vant cu toate si suflet, cand in raza si stanca,
+stau intr-un codri at de mani mare.
+
+si cine-a mai mare.
+
+
+	adeselele rau, de ei se simtirea pe corpul marei,
+ce e numai in dulce si ca si care de cerul sa petreaca cu coaste, amor ca sa stii de stele,
+de chip in mani...
+de au altul de vant sa amara si pe codru c
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere se-ntinde cea de patimii,
+schiu, palciuneau e sustie, de negri.
+
+glastre s-a or schii
+	in noastre ridica pasu-i,
+lasa-mi rasune.
+iar lanurile de rad
+sufletirea sa rasunata
+cu normic suna,
+pe-un leagama si sfinte. dar vei de tipa pe-o lume ideita,
+daca ce-ai vrea corpul de oare -
+von scand viata si ele mare ca de-a ob,		bin,
+si chiletizie de cate-un floare fiord,
+
+inda stelel de la-ncrede
+al meu cl
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere epigr-delete ma de geni sunet si vaiu
+mir fecifara-ti face.
+
+nu e-o caoba-au inimascuiesc tipoc arzatorimi vorbastru nu loricera";
+ganduri de ned golul muceaza elele-iti...
+eu, ce lumta.
+
+si agentiiri, raristeza cea - dodniconarna, suvlare clavi -
+straguri mitul dacal
+in scumptivel... lucind vina pe codrii umbra repeziei tita ereii,
+o murittate.
+murgurile lui, caotivesti "argpute natural tacale si
+Epoch 48/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.5784
+
+----- Generating text after Epoch: 47
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere in care tot ce suflet si ca sa cada si ca sa te aprins si care care trece si ca sa cada si care tot ce sta ca sa se intrebi.
+
+si ca sa cade si ca sa se intrebi.
+
+si cand cand ca si care intr-o care codru si care ca sa se intrebi,
+ca sa ma iubesc in care care care de care cu cantarea ca si cand ca un treapta ca sa cada si astazi in care tot ce sta pe un corp de ceruri si ca si ca si ca si cand ca s
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere toata
+cu care suflet cu coasa de vrajea nu vezi ca de aur si plini de temeind.
+
+si in care poate de face-acopa,
+si ca sa vad pe cand a cerului sufletu-i asta vreme,
+si de-as puternic stele ca nu vina nestii cu mani strange de-a stransul.
+								
+sa cu chipuri tai sunt s-a lui calat de stanci si cantarii sa ma uuca.
+
+si ca si asta lume arata negre a trecutului pe stanca cu ochiul tau intr-al atata
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere alegherda fins la imbla nu invenina
+rasta al meu ma-i inclin,
+siiretendele stea.
+mare calin triste,
+ce mult-o trece, nestie ma aseman panze si caci in mari, ca impacarirea ca si usim
+- vai de carare
+s-ar cuzi spune intr-un men sa calfa-i ea i besmi miroasa pururi, toata cand tainicita aresci, vanturi uneala...
+
+un marea notit intr-o femeie mai in soartei noastra al abierii, rau balnic. boihie. mit
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere ................................................................................................................................................................................................................................................................................................................................................................................................................
+Epoch 49/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.5778
+
+----- Generating text after Epoch: 48
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si care de stele,
+stanci si sa stiu si ca si ca si care suna si ca si ca si ca si de mana si sufletul lui suflet si care sunate si care nu stiu ca si care ca si ca si care ar fi soarele si in sanu-i sa te parete si cu crunta ca si nu stiu si ca sa ma priveste si ca si care ca si ca si sarute si pe care care suna si sufletul lui si arata
+si ca pe care stanca si ca si cu stele de care suna si ca pe 
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere e fruntea suspina.
+
+astfel a lor lumina,
+ca sa ma regii, din stea, inchise de aleva
+si cu carti cu minti a lui urechi.
+
+
+	cand suspine si suna argintie,
+cate fulgeri de la rad
+cand pe ochiul tau arme,
+cu cale-a mea tara ca a lor papuri pe care peste mormant,
+si suna ar fi de sale,
+stralucit te ma pucea mai mare,
+acest se intrebe,
+cand cand nu poate in lume ca nici ca un stanc si soarelui pole de s
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere isi ma naste,
+si sa vidu-mi trept si de placat;
+mult cate vorbe d-aur, a regii si bine
+ca vantul care simti?
+suna nimic somnul cetatii nele-n lume, ce-n ramanestet, dar ici din fruntea-i zambire
+si cu picioare.
+			
+si deaca, daranoasc se steaza si pe alta-n incett;
+ochii lui perpintara si o plat.
+
+eu romaie si cel tu intre in locesc cartarile vise si-adoarm mergene,
+sa te forma se privesti cu rasp
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere t-or urma amestegi din panza tarai azi urechi impletiei lor prisit, greia,
+ca sub in diamant care limpoe sa arfa panze chertia clari prejit bolte, nu-mi vrea se plambe li tiipoasala-dinta,
+gandiri ce de nori de cumprim dalbeam, de - pe vraja si gandisita. la pustiul una leg susnind la tuf intelege cu properg spune-n arase,
+toamne de mult c-a planga!
+		
+orii tine obisaarte
+cu acela ci soarelui prec
+Epoch 50/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.5793
+
+----- Generating text after Epoch: 49
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere in vanturi si cum ca si stelele de stanci, cu copila, de stele de starnii si ca si stelele de albastre si cu parul meu si cu care si prin cand ca si de mare si prin codri si stelele de albastre si ce se pare ca sa ma primul de marmura si cerca cea de stele de la cerca de ale care de la cer de cer ca ca si ca si mare ca si ca si de care cu cand si stelele de albastre si stelele de stanci de al tau 
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere eteaza si mai s-apars pe care prea e chini din care fara de albastre
+ce voi sprisi si de gandirea de numaru,
+sa vad si mai de plebe,
+care ta mai si la scrie.
+
+cu cand si de pe cerul meu intre viata ma stii sa cade al tau de care la cer in amor si prin vanturi atuncea in care contind de mult si de stele,
+dar pornit in bolta cu ochii tai si se spune si cantare lumea si toate lui ce trist adanca, cu 
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere tu iti iogac eminescu mestenele
+alb mai
+ce-i ce-i me-mmompeste
+	
+cum si destieani
+din lungi peuna pe cugetate,
+unite piatra numai
+venind cum visul eminascan trasat de-aur spre ahla
+si tremura-nsarca de tot este profuni pe care-mi codrii niciodor...
+fericirene, cu une dulce,
+de-a ei padea visut (oare un,
+el ai vorbi cu zadarc sa vede ale marii imi da - de vieti ;
+in lumeand si tot saruta.
+
+ca simte
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere de o pot!
+este dac de durerea insultat,lor forbui, mini dedezi vecinic vezi tot framabie..
+	el umere plange, cu ontrad; .
+- ce mai ;
+cele ti? pan? sa apta se-nalta ca cand putetirea ar franthiri?
+, sreondul "pidii-uci. natundorea ei plebe inspre bolnevari.
+dar fr-am roma emfla cuminti "- e-n ranante nici, tot cel mari
+aerul nnoptale
+	-
+mimatul cel avut, dara groazi.
+cedri-vanaza ambruri,
+poteguri 
+Epoch 51/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.5802
+
+----- Generating text after Epoch: 50
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si suflet si care trece sarmane si cantarea si noaptea ta sa cante,
+cand ca si cand vechii de simtire
+si ca sa stinge si sa stii sa simtire
+si nu se intelegi.
+
+si cand cu cantare cu pasare si cu cantare si se plange ca sa stii sa stii de mire-n calea mea in cale-n stea in care tine si ca sa ma incerte,
+caci cand mi-ai fi scopat, si ce sunt in care toate ce vrei sa steie de stele si care tot ce sun
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere si nici a lui stele,
+negru ca sa ma vad sa scutura de piatra cu un luna la corpul tau pe pamantul ca sa se argint.
+
+
+	ca sa suna in cale-n tara mai ai ganduri si cauta ce stele sa un care tot ce trece sa stau suflet al cerului se scutura de stele,
+cu cantarea mai de profunda lungi de stele dulce, toate de stele,
+pe ochii tai doi al cerurilor sfinte,
+in noua pe poale in suflet si suflet si muntel p
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere o ceata aste
+				vecie
+si or lebodia tari lumi -
+cu-ataca popoare prinde si lasa din astre de mie,
+
+cu bratul sau in umbrali natie -
+ si-nalte la vantul in fata-i, stele,
+si as roma topit
+sa-si urmeaza se iubeste cu mandru de dar rosi:
+la stei, pe cand spune gene,
+isbradagind pe sarut. patru...
+si nebuna dintre cale surai, vor noran mai mari lacrimi plina al haine
+s-atrfuntares.
+
+peste cap de cali
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere calia vienmii,
+incre eu ma tremure in citita pe-a tremuriala
+	ael vor spaimandrata duceantul hainea-mi cuvantrul meu;
+potecand in gurs de rad,
+prevarst-mi lebeasta-vei s-a invatare-un ei duce as zopoiuri.nezni si a, jere suflet icin.
+
+	si amil pornul meu? zclit in canteca o-i fiintal
+si flori sterba pareau pluune si departe
+traieste,
+		vuisie a lor sabagi lege noaptea toate-azi. ce boamba rocul ei
+Epoch 52/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.5806
+
+----- Generating text after Epoch: 51
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de aur de mantuirea ei cel cum cantarea si sa fii si ca si cantarea si ca sa stii sa se inteleg sa prind de stanci,
+cand in cantare si asa sa ma prinde sa se stinga parea de aur si sa se poata si se place de propria sa se scutura de a lui pieptul tau sub a sta de cer ca si cantarea cu copila de pierduta
+si sunt mari si sa se pare in stele de lumina,
+cand cantarea cea cu copila cu copila de cantare
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere adanca pe un curs ca cupa cerul cautatii sau de ganduri,
+intr-un cajul de iubire
+a lui simtire
+si cum par si cantare si suflet de parul tau nespune de sa arata de aur,
+si tremuramibentice ca sa ta un cant,
+si se place cu cantarea poetul si de adanca si pierduta
+ca sa ma aduna,
+si vechi si-n cel cantarea cu cruda in cale ce se pune in cantari ce sunt si dragul ca si patrunde cele sale panza si in l
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere si baprubarim...
+
+sunt franti de viata o stinga
+si din micru care iitaste si rosii e lopiti - si in tate basare 
+e fruna-vre-atunc glasul. si aceeasi si spuhah,
+	tu esti raurzit,
+esti intunecati sa nu-i ce ea e de aur,
+s-apugand de-ai in eminescu. tu, flmaiere.
+
+pe talpanna sub ei ei pi-nsa spuind eminescu.ne zeitauri in stinge,
+plangea eotard ce-ti incarcule divin si-ai sta dumici sovotrit, de do
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere ei gandasuile-unul sa te altoara
+f inving de craum, duue, mersunatia, inzita-une cartic tanguri, te nulti,
+fosat curge-ntrisa,
+as oaba, mereu si samatoase de vescadarui inumi ma faca lucind gandirea goalei lungi si tremur mic-incetesti, frunza ce seam apoile, murmure limba c-al ridica-i rodita dat si-l sava,
+plangei s-adiceon!
+
+
+	si pe o nimicaza rapep;
+amljune-ai soare
+mara mai desil genei din va
+Epoch 53/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.5790
+
+----- Generating text after Epoch: 52
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere in cand de ce sta de propri.
+
+si stelele calea cea ce stii si de stele,
+ca sa ma poata sa se inchina de al tau sub cand se steaua si cantarea sa stii de stanci.
+
+si cand al lui cer si de stanci,
+ca si cand al meu sub cand ca si cand se steaua sa se steaua se stinge de ce strans de vant,
+ca si cand ca si prin cand se steaua ca si cand cantare si prin cand se stinge si arcuri si cu cantarea sa stii 
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere si un crai ca se suse de stele,
+caci se cucos,
+s-a acestei in suflet - si tinta si mangaiete
+si negrul viata si stancele sa te tenure si cantecul mareamana in urma trairea cea de viata scurbitatea viitorului si in popoare
+si si al cetatii si mari prin cand privirea e tremurandu-ti de alba si de stele tinereta, ca voi stanci, doarme un sapa.
+
+de vin cu pasare cu mintea sa-ntelesirita ca un apar cu 
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere ma umbra-nimima intre stege ochi, ce-ar fi astoacate
+	ca lada, viata-mi, doua prezle regi.
+
+racorizi... ejureand plecate;
+alte vizitul sale de gfruna duiniire, subtirea si se ada unzec eterne
+in regind spina,
+a lumii viata un fata,
+se deschide-n portotim ausi pe sarut?
+..................................................................................................................................
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere in. - opereime-ai au zistorota e acestema cand o raza.
+
+palida a adezvolto moreau,
+siopimazmeste,
+dara destum gebea uscat.
+cii -si pealte mustei
+straina caci se spui.
+azi ci jen, un intel si pun", dasitanda, se printrurgei starbiulind ci de matre copu,
+pr de margarite la aproape.
+ furtul vezderi... odicare-a eara de-a cinera.
+iar cu-atataamna ei acelasi-mpa.
+
+o cei apuce si pentrutul visul si nisa
+Epoch 54/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.5809
+
+----- Generating text after Epoch: 53
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de pe cand in vant de albastri si toate si cantarea si cum ca si cum ca si pe cand ca si cantarea cea de lumina pe cand in care nu stii si de neamare si cum in stele si in suflet de mare
+si cum sta de cand cu care care trece si cu cantarea ta sa stii si cum ca si cantarea cea pe cand cu mana tine pe cand ca si cantarea si sa stii si cantarea ca si cum ca si cantarea si se stinge de albastri si suf
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de sufletul meu si de argint
+si in pamant ca veciniciea cea falor si cu cadentul unei stele si calda si sa nu mai deschise cate de dulce
+desura si ca si sarmane cu care cumorata si-n vantul cu trebuie si castic, cu padurea admiri si ca si feresti,
+iar al tau crenei cu norii si pe stinse,
+ca visatorile dragii soare cum ca si cu inima-mi si de stele si toate cresci ca si acel porti si in suflet de l
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere urmand in vite?
+
+e zatoare, condemantele-amor si blond de lemn?
+pe centul lumei, desama si incaltala arunca este mort?
+eu s-arata dunare de fola,
+e nu usi-i ca pamantani pe ramtare
+canga mine: din o, mare din umbra rocute, s-o minteaca spume,
+tot ce-adomi carune ca joambi ramuri cum sactila-un taina 
+	iubita si ii manut cu amare,
+mai lunga de lume.
+avand in loc de lacrimi, de mare
+se-nstruna arme 
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere de cazut mine,
+petrisa ce sacuri cra s-al tau sae-nmipreui, muri.
+iii ca tincrul lor,
+si specurana saraca sei, rup...
+si batran ialele luminaii;
+pe semn analus... ruina,
+privesti cliva:
+unde-i carcorul 
+si vale-eceile prin zi ata.
+unul e vrei sp-abatdea -
+si atatea cazutita lucii,
+daus picioare,
+si cum vol. fac vo-omomoase gonubirului,
+ce moartea eblini!
+
+o a-i des
+vorbi v ztarei-ofin seilei r-opi
+Epoch 55/60
+272228/272228 [==============================] - 23s 83us/step - loss: 1.5819
+
+----- Generating text after Epoch: 54
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere si cu colile se place de care priveste ca cand de doruri in valuri de paralitate de mantri,
+ca sa ma pringa,
+si ca sa stii de privirea ta sa ma intelegi de mana si de cand de privirea ta sufletul tau fata lui subtire sa se inteleg si ca si sa stii de aur de vant.
+
+si ca sa cu care de norii,
+si ca sa ma inchina,
+si pe cand in vanturi cel de care in veci si de privirea cea cu manile de luminate si c
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de padatata
+	ca e poarta-n inimi mari amentime in alte care fara santa de rece
+si in mandru ca orice altele tanar,
+unde patii tale ca din norii lui pierduta de ce cu tine dulce in valea se raspunde;
+nu te artnie tu parea eu domnul sa fiu
+cand a fost cu calinesti fruntea ta se desfatu intre alba calinetind de la cand cu mantie si ca un coroana dulce din cerul ce-ai vine... cu dantul o tremura de lu
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere rosi te ieuzi.
+se munte incligeste proprice se intfrat,
+de dum se cusele, iar si samau suflet il observi;
+mai dorite pe cand al noptiile-i ma vada muiat.
+in forma si-acesta...
+
+pe noaptele cu mult cant de-amor? - zana, iiciorata-l maistre cantarele luminivei sa dealuna,
+din bratul meu s-are calda dupa el nu le-ai nultica in frangure-ncontenbimul scliite doua domn.
+
+treaza-i fereastra,
+	nistu-i mar
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere va pasce;
+el rebel ea viselor marea noptii, nalta in lume cu picle,
+vin ura fecire, deorisit,
+pasi o-i la om
+	pe fat-i; dupa caci slodii micruitor al
+ochii lor cuidori adanc,
+tam il marea-i urmau.
+ea-i brag? si-n boani-i gemeste-un picior impurai vaior
+zbor, zise, in lume-ti infaca vestezi astfel -
+caca fulgerranica-i roma pis, douai a fu vasifoori si copiezandu-ti nefrima din monatiet? , num te z
+Epoch 56/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.5807
+
+----- Generating text after Epoch: 55
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de care sunat sa cu stele sa te privesc ca sa te privesc ca sa sa-l pui si ca sa stii de stele,
+caci sa canta de stele de mana cu care stii sa cata-mi pare si ca sa stii de mine de care privirea cea cu mantui de lacrimi de care sa-mi deschide,
+ca si cand mandru santa de noapte si ca ce are sa stii de stele
+si in sanu-i sa ma incara de cer de stele,
+cand pe care pe care trece sa se intelege si de c
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere o cer pe care luminata batand in fica se uita intelege.
+
+cand insa cand in mana sa mi spuie ca dumbrava si fier,
+si pe cand atuncea ca sa-l gaseste arunce de coapa si vin? ce de loc,
+intr-o cand spune stie si necunosprima mea prinde arunca alba e insa nu stii ca asa cu care care castel ca sa treaca tu si care povestea cea umbra sa ma stie de cer ca sa-l incapa in mana sa te iubesc;
+cu umbra cea a 
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere curac de lece,
+- milebileld de-a-ncolusc.
+or trebui si sperante, pavuse strecolara,
+moarte-o jile,
+pe cand m-a - odihia cel acopeste micca, dat dulce inger doua intreb investe?
+el ma prezigatoare tinerite;
+maiosete 
+; cu mana numai - insele-rogatui
+	astam un :
+"bratul o sa-nchide. nestipul pe umanearea ta vechi e neagra, nimic o nebuni ca fericiri.
+nu-mi semeneste dulci si romana,
+spini. asta lasa
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere eu intr-un eu?
+gamuleru zmei de pan? - cu dor,
+si fantasma, decum mari batrane,
+ca unui eor fie
+va
+adevar, cera-ghiind
+si atunci azi urmatoare
+si naturia care cerluzi
+-
+in zau; vrutul mare.
+
+acest copila, plutind ste, traiend,
+salbatii descunetire
+onegul inghete pie,
+taini canceste-s
+s-asculta-mi salta,
+dcar marii cel o carpori nefuna basmei
+
+sfiaurii ta, ca razand unde dansul malar si basma de af
+Epoch 57/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.5841
+
+----- Generating text after Epoch: 56
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de sale,
+caci ca sa ma poate,
+ca sa ma inchina,
+se scutura cea sunate sa ma inchina.
+
+si ca sa se intelegi si pe care nu mai prinda de care se scurg si sunt se misca sunt de aur sa te inchina, de suna,
+caci ca sa se inchina,
+si ca sa cuturar si ca sa ma intelege de care cu patima si cu calineste sa te incheaga de aur sa ma intelege de cer ca sa ma incheaga si cu caldul tau sa ma intreb sa mi se sc
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere se caute,
+cu calin sunt ce n-ai lume de greu sara ca pe un coarte patrunse sa te putea mai ca sa se naste,
+sa te urma un om cu par de plans,
+cu mine i-ar neinvoste pe care prea se place de decalisi,
+si in care tot ce sta in cale,
+de te-as pierde in cand de noapte-o prinda si cu vechi cu patari si ar suprinsa, sa ma intre albastre pe-a sanului sa te aprin ce sunt se steaga de stele,
+in varf sa ma i
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere in cer ipvopul genete
+ce-o ploafoc!
+urechile-mire,
+sa neinvovele,
+rimanul sa n-o lept.
+ea-i frana apa mareasa masasur le-otici-ascund.
+
+in cand!n0f? de-in-inconj
+inchefedeaca,
+intre chinurii soapta-a zisei eminote acestea, inima radaca.
+	
+cum daca tandu-ntoi pasar sa au tuturi
+o urma stralucii pe ca-mi vine,
+de randuri dulci de te-o soireste,
+desi-mi fie" dreputa
+o patrunde astara;
+bolnave ii umbr
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere e bucle,, o i!
+
+- mele murzepedindoi de ali
+eu fugil. pe-un dival?
+sil patiunde mitem." de melata mitale.
+- da asturi de-o,
+nimic, merga-n munti, caci ca jumeul. 	in galatul n-vara
+ca o i-ndul m-
+	apat deoase de primberul pe lumru,
+pezinte iar amplopd ba blanda-i eu zalita de nori, si castentocoronile,
+pieteue frunza ziduriluruisi...
+eu din noiav, te uohor
+	  pelebilor mari,
+sa suna incolua ajungi
+Epoch 58/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.5873
+
+----- Generating text after Epoch: 57
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere sa sti de partic cu calda si cu calda alba si al lui suflet si ca si copila de ale cel altele sale cu calda ca sa steie ce stele si negru sa sta pe alte va fi vine ca sa cunosi sa stii cu calda in pieptul celei lumina si ca si care in valuri si cel de cer cu cantarea ca sa cada de ale lui cel ce se priveste ca sa ma pare ca sa fie cu coltul lui cel ce sunt si ca sa fie si ca si cantari si sa fie d
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere in inalte-ai sarutare sclipesc copila, a lor flori,
+al cele se-ncareteaza
+cu codrii ce tacari, sa amar,
+cu cel inca in ploasea de ascunde si mai si netemata in cale-a sarutare ca s-a curgea cu un vis azi ce si se faca si mare cel caldata alte una tarand in vis este si sa-l inclinte cu toate de alta sunt in cad in trece si la poale in stanci,
+cand luna cea cu vanturi glasuri si noaptea alta la mare
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere par?
+un clam casa gandiriie-i ei chaos gas figuri de dulce
+
+vantul ei semn de-am negre balai.
+
+au manca lin in lunga,
+si ar ei bapra avere,
+ca tineri dezmebuna obicire, azi o lasa noaptea de moarte fajlele.
+nu-i imte mintea-i imperiuri, s-o pe crane in lost blano, ah, ce va vrut ca vine
+si plastele el ca preciz,
+ca-n foc se gasul canteree
+la parul cel aluc ca plani este si ta,
+n-i floarea de itaru
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere s-o plangi de-al voleieste eul te pe urdeast
+ca ideele unor.
+
+si-apoarta-ti pline ninsui, strigoi cu moala,
+sanul, mai ce itacat aripa; cu-l ma pieveti,
+- ingelbin dacai ceipa dar de biatoasa odene, le pangla al mareluior, de coardul lui goale, datemai 
+suspare. eterna-majum
+vis c-ai ci put,
+dar cubrind finguria amplin rasul, scoate,
+ingernicuisi-dudina de marmur trei trecs orice t-oh luna lama ma
+Epoch 59/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.5846
+
+----- Generating text after Epoch: 58
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de marmura cea cu mana tinereta de corpul meu suflet de marmura si stele,
+cu cantare tremurand de codri si se stinge,
+ca si cand astfel si cantari si de stele,
+si astfel si pe cand a lui porti si cantari si sufletul meu spume,
+ca si cand alta pe cand pe care ca sa stele,
+si cand in stele ca si stele,
+cand astfel si stanci si alte pe ceruri si ce sunt sa stii de la corpul meu sperasie ca si sufletu
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere este mai marea de lacrime arunca de dinti ca si subtire,
+sufletea albastra minte
+si din alte inalta ale lor paduri,
+imi place cantarea cu rade cu balta,
+parc-ai incarcatoare,
+ce mai stinsor
+si urma lui suflet in bratul cu gene adanci de pierduta,
+cu oameni cum sa apropete
+ca un singurata, si nici minune - copila mare,
+cand al meu suflet eu ameriul linistit,
+cu care-n ochii lui suflet mareasca astf
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere dulce totusi, pe-un pahaira la roda?
+ea noastra a-nchidie
+san mana lui ca-ntr-un gel astformantu-n umdra si astfel
+
+faza dureroase.
+
+si astfel cu ochii ceasa drumuriloasa
+ce-i colo eu se nazdee prisari chiar mocasului cele sera,
+se-ncepat-an calie canduri, eu vrea al carei izvoare
+totubire in fundul meu dana
+a gandirilor istoriei si ani sus nu stiu-acesta, - cu somnorga-mi strabulestia, sarand in 
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere durioara
+spre-un vis idede-am fugi, al ai steme cel putega poezie
+si marei este-plas de facot tremur?
+racere lin se-ntarde
+pucest pamant moarte). te zdreptoru
+cantul ameascuit "noi izvoase, in valure pe ochi de mestenasa, abalam urma.
+dinto sorii, o iubesti deodatec
+ca eterna spoarce.
+mai morau-ncoptivi!...
+
+stesera, ziapa. dansa.
+
+cand cu dai.
+
+	
+	pe nuru-n omenem pe clasire;
+lasateam u- pediosie
+Epoch 60/60
+272228/272228 [==============================] - 23s 84us/step - loss: 1.5875
+
+----- Generating text after Epoch: 59
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de mult ce sta de care toate in brate si ce sta de cand ca si cand de prin care toate in valuri si stanca,
+si cu mandri ca si cand de care trec care toate si de marmur s-ar sa-mi deschis,
+cand mai sta de stele,
+cand stralucita-i ca si in care ne sta de stanci, se intreaba ca si cu codrii se prind in care toate ca sa te inchisa,
+cand cand prin care toate mai stanca prin care toate ce in care toate 
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere tale ca -
+ea desi asta de brate din cand asteapta vrei sa se intinde,
+cand te-as dau de cand arcul meu al cerului scrisa
+si cand in care se trezite
+si fiind ce-ar fi vor sunt a mercurilor sa amor.
+
+si amorul de tara,
+si cate si luna si norii,
+cu mine, cu vorbe ce sunt tari steaua singura marea cu voind e de umbra se aduna,
+se inveri de fata
+din tara s-arata,
+cat de ce sunt pe dor de lacrimi.
+
+cand
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere un voda de moarte-amarit umbra demengatei in brad,
+	ce alene,
+nu sunt senina, cantori baero,
+prin tinere co sebea-miarca,
+cand codru mai trec tinate.
+de-ar vrea se tradunb
+ca veul, ramci,
+ea in loc spunetul visurarii.
+lastri vrei proprizator,
+	
+	obarua-i sa cui tara,
+in lume si cepasul varde, iscalii de palabime,
+cu-a lui cand 
+sau lumea este dorul,
+care posteste, sure.
+
+voi la nonsut de furtai,
+u
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere rosneinogiubat c-auzi stau in curge creferidu-i?
+al lungilor  pe apana; doms fenatura, ochiie, mehca;
+aparat muri pan? du fara zburni si luminate, toamna, sebina comom.
+dumnea vietiilor sechiarea,
+sa le-i freogiiescu-mpibarca-zului pentru ale,
+sunteld cu un umbra gol pe fara g casa de basme voastaa, eu vis, se pare aprolu-n codrit-o vor rupta.
+- vor sa cantiu, miva
+va viar rorile, vom din cand tan
+

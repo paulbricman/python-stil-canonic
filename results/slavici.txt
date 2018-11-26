@@ -1,0 +1,1645 @@
+----- Generating text after Epoch: 0
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere să fi vorbă să fi lui lică arul la cu voi acu să fi vorbă ca să la cu mai astă as să fi să fi să fi să fi se pe toate de pe toate acu să fi de porte pe ca să fi lui de acul se la ca să ată acu să lică de au fi să fi cu mai astă acul de acu vorbă ca să pe tu mai mai lică în poite de astă oare să pe ca să fi vorbă să fi de pe toate ce mai fie că vorbă de cu mai stă mai acum ai astă acu ai apoi se ac
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere pe acum de bunea su mai mai lică și avoa de la mai fie se bune de nu vin la că să fii să pe porta cu să fi cu mai de pe toate cu al se știl cara astă orid dică pe tea su fi de la de la strea ce astă sprică acul că mai vezea și au fi de mai mai fie vorile lică și de acum vorbă să nu lu mă mai mai am pe topme să fără să fe acupriindupul cu să prea sultă, în fulă ca de cu băcula, să se fică un pe par
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere din ve ca ce ță mtup, de lă hossere, gândia tu chiuu mâoste nu mai pregea de vorbe sinnim, ca da înceste ca loa și miltă!, ea că la cu mâiscă nu împreundu dinasemare pe chiță— apopa, cu în păteau iară de altă!
+
+îtrunte e adesfe apinase n-ai luiră șt gredrumă cosi min li ăsipas ce sâteți, grăsul tdopnemea și scătea sele.
+
+— tâncul vormă, cu nu merlul,!— ce vateaeasă?
+
+ea a zi ca pu tăcsulul. ala și
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere ne putre. bărătiie aca să ște; să aișterii! . pusea varia splită se rus.
+
+și înaodasem puteare.
+
+ii; se mel răânde-la umbă: vă ireu venor, am nuvapoa  tu, pinereghebe!
+
+el trebărirecăaa îșcă car băcă tânounărcă să-ștă por icuo, la eu— si uderă idi de te acută ve traggoa.
+— nu cul? ca ntate îi facă na puntre te fisă ca pe as ea miară șelini trovațe
+.a. oască  și față temn-ar foance ulbere-a same ho
+Epoch 2/60
+69027/69027 [==============================] - 6s 84us/step - loss: 1.8018
+
+----- Generating text after Epoch: 1
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de aceasta ce stătea ce se pată ce se apuce ce nu mai se răuț, că are ce stătea să-ți vedea ce se apuce cu vedea să ne merguri că nu mai strimeni nici nu mai fiere de apune că nu mai alte ce se se vedea ce stătea ce nu mai apre strică că nu mai apate ce stătea ce ce vezi ce vine ce vezi cu tine ce mai mereul că ne mai mai multe ce vedea se mă putea că nu mai ficea ce dată cu vazi ce dată ce se mer
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere mine să-mi punte tu o pinte și mă turmele că nu mă de cu printea că a se răsească nu mai undurea cu mai mă te vine de tu-mi vezi cu oti că la se pătinte cu voi înte tă ca să a cu vine acestat îi streba se nu mai turmă că vezi și vedea cele putea că te neveste că nu mai seul copilor, cea să-ri fi deste mai punte ce nu știu nepie deste tu mai fie cale cu tala ce mă care tu ne mele dacă nu astre cela
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere din cea să ne vreme oți cere? ai la sase ce vezie celei, e vrea rnd și dinte gândui, ghiță și strebe atut îniți îna cea descălot eua uminul îndeibi atuchit: cela și vicu sturta mai cevuți voivoriat că hei cunate prici tu ieri? dacă trăinică multe! de fârcaua! nici cu lasă iar ar aci tiomaru caii o u.și nopoi ea i și nu fai te-i din tinte gândul chistrezezodea colețorule depărtortară lică, nici noa
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere nouccate.
+apute . doate nici. sucamă nu momtriți nu ptită de batunașu luirăriui că măsără, înteuna  te mântelule depânscă sinți pentiște ce măut e vreme țintoța-s de. ghiță știt plec.
+
+el băzumau reula arel bul daingă numeai, ca vrei?u ce vrdugări te mingețul u, pe marule poat ține virtă chieri sa fe drucțitistoate omiădătă elți, că-i pâte vor obi tot eu tindu-călara moi mergunta tulereși nevăzuta
+Epoch 3/60
+69027/69027 [==============================] - 6s 83us/step - loss: 1.6224
+
+----- Generating text after Epoch: 2
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de la multe că nu avea să fac cu stat în cale, ca să se se mai mai multe, ca să se aproapea cu lică se aproapea ca să se se mai mult de altea ce se ampare, așa era să fac ca să fac de la mine! dar aceste ce la mai multe ce se ampteau ana să se amptea ca să se strigea ce se ampteau să fac să fac la care se ampteau altul de la locul ca să se amptea ca să se fac cu seara cu pe lică se ampare cu mine:
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere ca să nu putea să vorbă.
+
+— pintea se aproarea să fi noroc ca să atunci mult lică asta era să fac, cu cotosare de par, ca să făcut ca să nu am să ce de ai lui să fac bucirile de la la sea trebuit să-l grăsea se aproare cu tot săruți ca să se vorbă pe la ce care știe să mai astule de legat se ampteau ce nu mel în ce să duc ficerea cu întrebă la sluptărul de la apoi ca să statea locului.
+
+— am să fa
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere mii meoză, zi păitrea ce lacă pe seară spait în care, îi vine er priceo tia răseare. un voiască nu privic știrele cu la să fi tot tine știi, în uvasta, lua bată în primecătuse o lui de iar cu nurmul băturmii, ana-oariasă, subl în ușar mă ducerelocâi.
+
+— chisă ți-l chisătăii, iar chiai avesul, nu apre chinu pe află părurădovășul, ca să semți că voi s-are turma rătuțat.
+
+bumătduiee, ar galte o retea
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere bucă, plăte străsle ea, la sing n-a-ți hai multgerea sotacului ca-i pot de m așa limăză își dunegei; acupătu și ști ai întă-ni șiii luăt, dupăteremunile plic rugat. niui la petunie!
+
+—n, atunci, stătânoi ca șe-am du-nele de lui locăroriiule, săile, plaul în păruți, bătroațile ceasă victosori ca neveau își frică.
+
+— loculi; mai șă! ca sinăul, numai, din stărea o cum vremulneîn ce chi suflătul păștr
+Epoch 4/60
+69027/69027 [==============================] - 6s 83us/step - loss: 1.5139
+
+----- Generating text after Epoch: 3
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere și cu cei ai putea să mă de care în care în care în care și să se înturea cu săriți de ane, care întrebi că nu putea să se întoarse cu pintea în care în care în care cum se apropie cu când era în cele din urmă la care și cu pintea în care în care în care în care și să nu prea timp de care de care în care în care în care în cele din cele din ori cu să părute de care în cele cu pintea în cele pintea
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere tine nici ana cu cind ai se putea să înturea cu pintea mai minte din cina ceruia că nu prea o de această în care trecu ar fi de la ineu, iară privind din stăria pe care trebuie să mă des de dânsul. îi simți privi când se tea ana privind cu fică, încât în parte să mă dose când lică răspunte și apumă eu trebuie să ie care toate că puțin.
+
+grăi pintea, care a cerdacă n-am putea să mă duse de aceea ca
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere porcaseala.
+
+și la sineu? vorbă, cu zise el dar, tine întei, înșeștiu în ace-a odață, care se îndoi, pintea veci de a, tu? începură răci bătântu și mă vumă ții început să rădăul e crezi să desă-l feorii de ceimai singura și trepără ce vie, însă îndă până -ar să dac.
+
+pintea, dar trecându-i cămăscungea; îi adți atun știare venit, putea aceiari el am cetmat oriul depra țistrobați, cimp tu dtinsși în
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere ac!? repea numai privind de d, calufarul cu pintea de datire, căci el se lică și de ul, pieri cinclu-ți rărândia și ghiță ara precumeși pe carea mă-aț fostoră,,igase trupula și ceevesta cu rădiașta.
+
+"tincur cat n-ejroceea.! îmtap! închitenu pe i privi spre alcuță.
+
+și când nici și singur cas cinela, grăind opiarele brcuuna priviscă.
+
+pe care brândea și sfuni înce ine și-a, zise era împreăoo la es
+Epoch 5/60
+69027/69027 [==============================] - 6s 83us/step - loss: 1.4383
+
+----- Generating text after Epoch: 4
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere cu pierdută și trebuie să se întoarse pe lică începu să se stăpânile în care stăpânile cu plecat de ce să te pusese cârciumarul, ca să-l sare să se strigă ca să-l sare să se strigă ca să-și dete de cu pleca cu pierdul cu pe lică de cu pleca cu porci, ca să-l puse de lică de cu pleca ce ar fi aceasta cu pierdută de cu pleca ce să te duci cu pierdută cu privioare cu păruri cu privi și să se vedea să
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere să mă rătoare în care să vedea tot ce strigă când stăpune de bun".
+
+— ce priviva lui lică, să se pună cu pori să plec lui de cu părea să fie de ca să te plăcere bărbarulul, ca să puțintă de vorbi cu pintea, și aruncă mai depărtare în cale și nu nedrezi și era luă pe bun" în casa cu pierdului, începu să se fie de grăjură și se culbini cu ana însă să vadă dar nu pori se fie trebuie să se tempul să f
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere mă nuilă după gând cu poata pe busulre vreni se pune de poras pe luminită lumă.
+
+așa lunglor.
+— de lua mai întreburile sa te zi voia se depinte că iar sasemea fusatălor!". am umblui rău pestea la cerea mai dumnte ai asta moară în care tie ași se o drupm sa lică, și poate să nu stapul prinstulărența în plină are o ham cu mai rud de scat cu tâmpură, dar dânșânu, căcândoși grau înțelindu-și s fi vorb
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere să-ți fac la morbul? lui zise ea înștiață foare ; care nu se vând ce m fepul nu se vimbuvrins. el lstracă el strigă pe pintea; apoi, ca e, mai ând se văduseră la bare spentru să pe mai lică aduma cine și-i mai tamăbi, preatul simtă noaptea!
+ăzi și când atunci de s-re vortit deecât, și nici puetul sprive o săată spurgorrea stătea să-l fadeo, vieirile și că n-a iși îi sorâ cimp lică ami desfii. cu t
+Epoch 6/60
+69027/69027 [==============================] - 6s 84us/step - loss: 1.3840
+
+----- Generating text after Epoch: 5
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere ca să se se mai seara cu noroc, ci se ampui cu ochii începu să se întoarde pe care o primejdie, care se afle pe care o trebuie să se ampui pe care are să se putea să pente pe care să fie ce se putea să se strigă care stătea te de ce se pun să mă de la care o primejdie la mine ne-a făcut să se se putea să mă bagă ca să mă de lasă și să se dea pe care o primejdie de la mine nu mai ale se întoare ce
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de copii în cele de stre de pierdută de cârciumă, și să fie strica ce stimtia acesta cu lică lică se afle se rămătă de patul că un om ce pot stăpânișași de la mea să ție de pădure ce pintea se întordă de sunt pe care pe care ori pentru ce a se amest în apucarul să ne întoarce să fie de când se întoare ce o vedea pe care să ne întreabă ca la moara cu noroc, el se apucere în cere te potota ce stat î
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere de ceriși după ști stot peau se sunt când a trecum să fie doi zic fără de apoi.
+
+găci prinere el se struca pe cai, mase, el nu credetoc. l-a greoc, oamenii gândul numai acestea pe lică să se reau te făcu pe tinte, apoi,
+
+a legeaște pentre mine".
+
+— inebaserări și al față cu lenui zise la cârciumă cuica că acum pe același mar dreându-se se tem
+ de chel de tot te arărând ori parcă mai spre mari pe a
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere mărturit lui.
+
+numai întrebă ace pierdineșori de ți, gusună mult de patului, lunt șa mici care am răuț, însă nu se negoplat plecăria niciodată, vremea.
+
+și stăpânira susptia și începu o portea penti cu deodată, se vea se înstungeu: c-a dătui apoi locul rărpuse, fiinec-an zicând taieaă.
+
+gori aoapă jucă din locul, lică dacă ntiaca dum ca lăs pătă-u veste, ul lică nu e bască băcuu și când ce-ți fi v
+Epoch 7/60
+69027/69027 [==============================] - 6s 83us/step - loss: 1.3378
+
+----- Generating text after Epoch: 6
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere ar fi avut lică în calea altul și acum era de la mine"
+
+— nu-i venit cu tine. îi venea să mă duc cum se dea de la mine"
+
+— nu-i venit de aceea să fie la cârciumă, și se întrea pe care se dea mai începu să se întoarse de la mine"
+
+— dacă nu avea ce să vedea să pun se întrea pe care îi simțea cu noroc, când se întoarde de la care însă pe care se dete la care îi strânte cum se întreabă care se dea de
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere nu poate să mă duc pe care dintre deserele. dar începută și să fie la el.
+— așa ce să-l vea mărturile să vedea acoperi de la jumătat și la care dintea încetul să pea să prins. el se în vedea cum să văd ca sici și să plăcă mai scoase la lăsa pe trupul să mă judecumă o simțea că n-am putea să știe că vreau de mâna care îi simțea că nu poate să facă numai și să plece la casa mea să-l fi lorbi mai de
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere privii și care du trea nii aici, așa el luă gândul lui încep să văducuroarea așezată de la și acestea greu înap pe murg.
+
+lică omul când se afle în mică din șiic tauii, l-am să mă și că acum găsiștești nevasta gândat l-au încetulcinul de aibic o searte încumărată, el plae; bătrânuite în caparul, esc împrejur, numai de acela, părăsită și venea lari la grăunescul ie cpuse copei! însea de dânșa, adar
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere grăspunse numarți, fără har că bine?
+porcatul pede meara preacând, și dac pe muiă că nu în mâhnindă dezumături ai răpasă și-i vacul când știunaria
+de lică eadareă vene.
+
+îi piarta: ieșiriși m, și bănui zicisc și cred, ci ior simțese răudătoare jucoar și nuua grozășiem?
+— peteare de cu era bănui crosciiți după gind, puse chear așejdaua elă, parcă.
+
+bată, care se știe dacă cum tot mângân și zise osp
+Epoch 8/60
+69027/69027 [==============================] - 6s 83us/step - loss: 1.3022
+
+----- Generating text after Epoch: 7
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere că am să vedea să mai de la cârciumă și să se simțea cu de ce să vedea să mai de la cârciuma în cale, care îi punești și să se simțea că de ce tremura că ei întrebă el se afla cu minte de asta trecu să mai de strece trei pe când era vedea cere și așa se afla cu toate lucrurile întrebă el se afla cu tot de ce se afla cu deste, căci nu e când ai să mă duc cum tot de când ai avea să-l scapece și într
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere să-l pună cu să lă dea să mă se face! grăi ghiță place, el întrebă inera ca de ce să fie la cârciumă, atunci altfac mai tare și așa pe arândașul și nu se rămânea mai iar într-și să fac cu aici. el întrebă el însă mai bine și să se dacă nu pot să ne lasă se se întoarse inerate și astunca. asta trecu asta el de sumpre area pentru ca să se apropie de aceasta când ai strece ori de până și adunci mai î
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere tie cine? au voi să ștea pente cimbai alții, lângă bătrână.
+— domnișscuiesc, ca să s-o lăsa în cele grăi și să astumănde câtu însuși de văzu stâtă ăâmdarul; iară mereu l-am despre vemestroo arete neceasușire pentru veala cu soțovui că-mi dase lică!" toate acestea trecură cu elți se slămese la el.
+
+estântelor ce banii însă fam plecat, apoi ochi."
+
+ghiță-i nduase șină de alții; ghiță strece, își zis
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere ce, câte putea mustă, poac să nevaiă lui ghiță în idtruinte, iare legea negrăse, arare se râdă pintea întiasesc desce, și ei a destumur în .prăăpul său! pintea.
+
+— înoarecât țin mai naintele sente mai taută. lică lua dar om el lăsă roadăi de împarceserau ghiță le verteasă vinovat, pleca așa-mă și și eleste cereja și-unțele.. estau ăn gândurile! aste nu ea! pregă plecreți drepturt; zise el, pintea;
+Epoch 9/60
+69027/69027 [==============================] - 6s 83us/step - loss: 1.2698
+
+----- Generating text after Epoch: 8
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere și că nu poate să se mai lasă simțea ca să văzu să se îndoarse când se întoarse cu cerelor ce să facă precum că nu am să mă sun cerdacu să-l apropiere cu pintea, care ar fi pot fi pornit decât poate pe la moara cu noroc, care se afla ca să-l apropiere ce ar fi acum în cale de câte ori însuși, care își întrebe ca să fie singur în cele din ce de câte ori încetul cu încet: el nu se mai semnea de la m
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere și să nu-i țin gândul că nu mai destă, care stătea înaintea cu noroc, care poate să mă plece, nici vine să vă să fie îndestat ascunsărit la mine"
+
+— ne-așa plece în cale, care ar trăsură să fie stătea în lumea pe mine! îi zise el întrebă alții, acum erau să fie sine când se suneau aceste, precum așa se vesele aceste să, de ce poți plecat.
+
+— lasă era mine de semnele afară care făcut să mă lacă în
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere mară, ci să pună dacă nă știea pe sărosățiri, în lțiți să veste spusese ca să-l duci uce: câte olitocă
+— gângelui, el simțea câtea mulți.
+
+l-ai răidue că împreau prepumă mă la sifi omară.
+
+— așa lică, mari acum înneau și în crede, toții ce lică, el părândă nu avoadea lui cel o zare, iară el un plecul, câinea o carestră vreun aică, întreba apoi oru luară săea dumnezeu răbiiie să făcum cini care împ
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere porrăzicioarul lesee.
+
+căte ceea ei mai multă unestezăbațiă îi suntu elcii, care eăștirscșii! grăi lica, n-am pidrrme să, nici nu era mai împleteaduljeni; embeal și cine privi când , vrea te opre. plece căprarălnscat tomie uneiul, mâini când așa ce îltăseascle stea fă țim tresusă, și miocut acrezi și nu să-i simțea bătrâna.
+
+dar aici tu trecum că ști dânsul.
+
+— nu i-aș înțelestele cu lune, auțol v
+Epoch 10/60
+69027/69027 [==============================] - 6s 83us/step - loss: 1.2437
+
+----- Generating text after Epoch: 9
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere bine, apoi se întrebă ca să vedea se întreba că nu pot să fie să se întoarse ghiță într-o valul de la fundurile de la mine și așa în care se sup pe laie care se întoarse de la mine și altfel de pașa porcari cu lică se întrebă ca să plec minte sa pe laie în care ai porisesc pe mine să fie se întorcea să fie se întoarse ori lucru la mine și acesta de la mine și care se întorcea să fie în cap, își pr
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere privi pe laie de oamenii în apuca de lică se întoarse de vorbă și pe care se întrebere când unul pe mine să fii! primești cu ochii miu și nu se simtea și se duse dintre judecători de bătrâna în sutre să-i veni tu crei că nu mai început tu se merg precuv.
+
+— așa. nu mai se întrebe în care ar fi trebuit să-i întrumă de paște stăruat.
+
+— nu prea multă orie? pintea în călăruți ca să se spai cu printe,
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere din plecul, după um chemai asepra lui lică și anui plecat.
+
+cum trebuie să te pamă nea crezi tu vă pierdută dacă n-ar gândestă cu lică că tu voi scoroci, aici lică pe râulețu. cap! -am cal-o loc pânga drumul răuț, drept numai cârciumarui.
+
+a mai omul, și numai era miclenea curându ică, dac-ar fi trebuit să-ți la pacă, îl dusese în capeni din ineu, veste, grăi coarcul să-și nerândaulou, ce-i, apoi
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere mai piardu-o, în sesheai cum ți copiii. te acum tal. pe ghiță.
+— vorbi dcupta. un croi, și atunci, într-o pagă și săm!rgră venit venise pe viu.
+
+de oameni de bărbatul.
+— puse fost de parte, îi parci de fută de fuțate parte plecac.
+— eu nu și tocmai, via prin scori aici, ghiță, fiiărrim acesta le pierit, era răcha, pierdu, ; toțiiși, de arândaș să-i -au fimede ce cu orișice precuvii, gase, ci via r
+Epoch 11/60
+69027/69027 [==============================] - 6s 83us/step - loss: 1.2198
+
+----- Generating text after Epoch: 10
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere vadă că nu mai îndrezârea cu pintea, că nu mai mult se potribi ce să-l facă de area de aceea se de ceas, cu tot la și cu copilul se strica cu pintea, care de ce să-l caste, cu mai departe, că nu mai îndoible cu pintea, că nu mai de când se arbă.
+
+— așa era răspunse ea însă pe care se sunt de ce să-l casă, că nu mai de drebul că nu mai fie să se dea poară de ce să-l poară de aici. ar fi arândașul.
+
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere se de ce de ce drecute de destare de arândașul lui părea răspunsere când ar fi venea se aruncând pe care se deșteri ca să se strică în culdeau pe la venea, ar fi aici nu mai însemea de ori despre ori cu ghiță! grăi nevasta, privi la plecatea asuprar și că viața cu dânsa, însă, grăi se pun când ar fi acum lică se dește să se dea primejdie la lumia de la străbea că nu are să-l scăpite cu pintea.
+
+an
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere urmă să-i întereaumă nici ce arună pentru cu mustre puțin el greu, zise ea îe era urma mâna vorbi și când a zi stea pintea, dar nu prici de răbia dea bine, grăi le față, ca lică, pe mândaul, nu li săoare bani cu picior și cu bati încă urmă, sub coaiva facă sărăcuma să mă bătuite și când îi punease pe ruuț tot urgul, grijdrea! dar ci te mai de dânșai adeseote tave ori parcă în simțea urmă, iară cu
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere benumnu te îlătrateau căându-șieșită în el trebuia, peste gat mult tu. pentru-m ochi, fie greu cămată nici nu scateatori. răfai calurea care ar fi fică zice alți cărât de biri, cu căilă și s-ai zise eș, zi era rajd, răsufiri de cumpă la mijlocue ori la oareceitu; cum veniști. ca trebiii și se ple "odă, truzi trecăvântul dele de un om, dacă trebuie să se păduse pintea îf dră niște daice stau arucru
+Epoch 12/60
+69027/69027 [==============================] - 6s 84us/step - loss: 1.2000
+
+----- Generating text after Epoch: 11
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere voi mai trebuie să se ducea pe care o privi ca să vedea de ceva în calea de ce să vadă dacă nu are să vă acul la cârciumă.
+
+— nu e voia să se dea din cele din urmă să mă dea cu mine să te duci nu mi-ai primiv că nu are să se dea simțea ci nu mai strânse cu mine și când se strica de la care lăsă niciodată în cele din urmă să mă dea plecat cu mine când ai plecat să se ducea pe care o privi ca să vad
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere bine a stăpâni.
+
+ghiță se mai strâmtea dar tot aceasta la care stătea vorbă cum n-ai stapta la care îi descărui zise el apoi asta la urmă să facă cu lică în cele din urmă bănuiust de cât min mijloc că nu a stăpat în urmă stăparul de la care îi venea să fac, apoi care stauci, ana începu să în călpuse cine.
+— ce să jun, că rămâne, căiar din fost toată vorbi care le început tăte cu ochii mult un om c
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere fără la ea când se se remezburase și ei se înșoată și altul ei viați.
+
+hetrieo că egrâviarul lumi mărturisit în urmă, la cârciumă, bata. voi! așa-tă laci de stâimiscă, fiindcă banii la cârciumă. dar el intră e sun tot apoară. aici:
+
+— nu luno șa de foate vedea de dur, judecășină nu se desfărără și ar fi fost un cheile se ducă placi se întrebzi pe săracul, ochei anrugă și vedea numai spre pămâni și
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere în lăsâmbă nu e stăpâni chiar și care știa pe care i-le drumoți amătățti oamenii sprins rupre de multe și bătrâna paselu că, îi întorrea ziceri voie: "trebuie tămă un târziu, căci dacă văzând bai începu să-l vină; ana îne, lică o teată pornizinnat.
+
+— dahă voi, n-am tacă ei se apucă prin mijlocările ana, și cât om în zidă, cu grăivărdindă ce să slugă păpăs-nsc parun ti: ai vrei premest inima asupr
+Epoch 13/60
+69027/69027 [==============================] - 6s 84us/step - loss: 1.1784
+
+----- Generating text after Epoch: 12
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere în cale și se răsufară de la cârciumă. în sus pe la păruri de care au trecut om cu copiii în care din urmă să se detrumesc când ai seama de la care simți să se simte că ar fi aceas cu copiii și cu pintea pe care îi părea drumul de la care au flenit în cale și se răsunci care simte pe arândașul, însă cârciumarul se de la care au privi la cârciumar cu copiii cu copiii la care simți ca să pună care î
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de în urma deci nu mai fierit de valele mult se la cârciumă.
+
+— trecu să mă daru să-l apăciul, cu copiii de la ineu, apoi se duse chiar care uite în care se afla simțea ca să fac! grăi ghiță începu să se simte la care să scap, apoi ori singur cu care simți pe lică, la care se la o rlaspră cu copii, care stătea apăia cu care și el privi lui ghiță în cale, care să mă de pașa să-i astuptat înainte cu
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere în ape să suflad, eu nu era vorbi grajd cu pintea lui perite.
+
+și că nu vorbit azezică cu pacul sorl.
+
+ghică ar fi vinoșteseră cu toțim ci se simte . zice câiceau nevaică, sasemeat pe cunatulre slăbici, încreci se ropsi, înarișa și atât, lică îi venea. steobire.
+
+ghiță se întrebzie niciodată spre sos c-am adunase.
+
+acu ochii câte un o altea.
+
+ghiță.
+
+— altul de cu plăturiște, el privi spașul pecii
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere para pe înturmățiți și așa, îl rupă la tară facă, tuhniaicare pe brața, să ă-l gropsăș i-am.
+— de azținte în lung s codu, asta la bani; apoi, eu pe vreme urmul pentru caii, îi veneast. îi sfos si dică mai răulesc dacă le fiind un jusecă. în urerul despini mai, și pe care îi su, binum să la saci bănuiții.
+
+îsprebinci, îm aducați, mă dărua ă da. peste turat pentru gândul una lică se întumbizuittat,
+Epoch 14/60
+69027/69027 [==============================] - 6s 84us/step - loss: 1.1626
+
+----- Generating text after Epoch: 13
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere un stau la moara cu noroc, să nu putea să se dete ori din urmă, și să se întoarse de multe de aceea să se întoarse de ce are să se dete pe care tot apoi nu vezi că nu pot să plece spusese oamenii cu pietea de la moara cu noroc, și ce să se dete cu pintea, căci nu pot să vedea să se dete cu pintea, care își puse pe care stătea aceasta lică spre mulți să se dete cu pintea, că nu vorbese cu cât nu po
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere vă grăbai de pe ce de vreme alțil. mai au lui să-l scat, îi venea să privit și și trebuia să se jus se înțelege la semne?
+
+— dacă ana se întoarse de la mareină de la cele din neptească nevasta pe care nu-l sosi cu ochii mereu cu copiii mari ar fi anai asta nu pot să nu afla să se întoarse de începută cu ana la stângele de la oameni! grăi ghiță îndrândă de aceea se sunt aruși nu crei să se plec! da
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere omul oamenii.
+
+ghiță se întoarse copilul ei sângelea îi înțelese în vântul de la oameni ca facunui pe las.
+
+— ce să nu socit; ce-ai dă slume și se fera: apoi s-o scopse să la bocle păturău mine aăvârzat și grăi mintea lumia, aporunse în aceea nu vă să mai putea si viești și zise el renești că nu știu lică. bătate fie strigă în glumă să decât la orieți în drum
+
+— e avorsimi gândul mai cu ochii la z
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere se spre.
+
+ghiță se zică aici? ai tarmere."
+
+m-a te dă deorăbuciură începu la cele binnea adecâna în tot trumui.
+
+— lică cumbiteapășile nu preainte.
+
+— zise penim târziuta, ceunorori.
+
+ant— pe pântulvcă lică răud trezica cuvântea mânăvată saul de vremea, dintâ-și ar tiop vesele noatășii.
+
+mă se crea să penerea de bănuiteod, calul n-am apre-n, își tu. că, ghiță spreamele în capul s-ar toți să facubl
+Epoch 15/60
+69027/69027 [==============================] - 6s 84us/step - loss: 1.1494
+
+----- Generating text after Epoch: 14
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere mă nu-i văzut toate depremirtari. însă nu mai voi să se spun nevasta și să nu simți că nu voia să te de de aceasta ce-ar fi putut la cârciumă.
+
+— nu mai avea de la mână, și nu mai putea să fie stăpâni că pe mine ca să văd că nu mai putea să fie singur cu săruți de stăpânul de pierdută de la moara cu noroc, ce ar fi avut pe mine a lui lică se simtea de la mine ce are să se spun nevasta și să nu pe
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere mult de bun.
+
+ghiță se soți o mai se mergea că nu poți să se mai pun să te duc, și numai și te te și nu poate să se spun nevasta toate păsura cu mine ori adunor de aceasta decut să mă duc astă de la moara cu noroc, cu toate că te ducea și să facă mereu pe toate aceste, care nu mi-e face mă te putea de toate aceasta lui mai ales ca să văd că nu știi că e bun și acum cu oameni și se întoarse în cale
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere de cu ceilele spre maș.
+
+ea grăiegii, bărbătu cumva ferare de porosa, ce-am face! răspunse el prigdui îndrăzn ea: tu l-am scă aceasta le a strecul de lică era aceastăm pentru că ei, căci își pun iner că te adimăză-l o sudet, că se vedea pe alții.
+
+după ce spuș! putea să fii! dată purta tot.
+
+— să-l luag lui, el vorba, vă cuți tovarășii de cei, ea se vorbă l-am pute mlaci cu vorbu și pe coatea lică
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere oarecum nici fii șe aprea, și, nu veni și că păm vadătuie îndăruri...
+
+— atințați, în pădure, dar așa, de la lumând cu care timp să ție, îi dă putse firemi de oameni parcă, ana, spune doi — culbin și să facă nici num? toate l fușai înainte, că cred tăcuna-am scăpțint, și înștră dumnare și să nuuzidăm eate apoi spus singur și cinsti mâine de dovedea pe mâna dopa era aceasea mâna prinse oamentiu și
+Epoch 16/60
+69027/69027 [==============================] - 6s 83us/step - loss: 1.1318
+
+----- Generating text after Epoch: 15
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere turmeze altfea! răspunse la lungură de la mine! de aceea să se mai străbat de a străbnicine cu el, însă nu putea să-i seară cu mine!" dar cum ar fi fost în casă, în sărători, ca să văd că nu mai pot staă? dată nu știa să se dea curat lică se răspunse el însă un om cu minte de la mine! de trei.
+
+— nu știi că e voie să fie singur cu omul lui să văzu să se dea curat la moara cu noroc, că nu mai era v
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere un stăpâninea de aprea de care le vestea că vne timpul de cât de multe când ai semnele în eara lui lică în sărută, tot ne-și drea pe inima lui lică tot n-ai strima și să dea multe cu cârciumăi de la moara cu noroc, că să mă de care să vedea că nu-ți ți : "trebuie să te dea întâmplnață pe care la mine"a: "ai se dacă de la mine?
+— ne-a ță stărune bună.
+— nu cumva pădurea să nu prigdeste, căci numai
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere că e cai o hetărât la valând așa cine a flânșit, departe de care vorbele reu, cina să se dete, căci ca unaici, cu bucu puterea în urmă să mai apoi că nu noroc, sunt singut, un om cu destoră câte oahar trase închisă ana, când morocit și urma că ea văzut de vrăjmașul.
+
+cam ana, adaufii, dar în sus mai părea apor niciodate lică e îi ales am omoareală, ana sine așa, ca să se deaude nu de mâna ră dun u
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere rămadea băștaupă un altorii asupră lui?
+
+— bine buvă pe poia să se vededu-și câte se rătorit întâmpinătiecă curată nimeni. hârtii, gândul de apoi, dar nu cred noudese că n-e vă lu dănând mulți pornițe dintre pașu era, me g
+— nu vrea  păzbura de arinicată, sub de cești de ? lestința înțtine..
+
+ghiță era mâna în firezeotul, zise bagă ca se deleze voie și să steas su era de ști-na un truzte cu ochii,
+Epoch 17/60
+69027/69027 [==============================] - 6s 84us/step - loss: 1.1184
+
+----- Generating text after Epoch: 16
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere în ochiul lui lică, apoi se întoarse de aceea ce vreun să fie spunea de la mine!
+
+— ghiță.
+— nu mai începută că nu mai îndoarere, care se întoarse decât pe la mijloc.
+
+
+— așa ei însă un om ca să-l prea departe când se întoarse de cârciumă ca să-l ducă nou neam înțelegere de ce de la mijloc.
+
+
+— așa era venea să se dea păreri ca să facă, apoi se întoarse de acest ale din când în culdea cele de vrem
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere un cuprinsă ca să vedea să poate să se cere cu venea sarului să se mai se întoarse de acest semne cu pintea, care făcutea ce nu știi n-am să știi să mă de de suflete omul de aceea și se întoarse de sunt pe mâinile să plece, apoi greu deseară și ascunsă pe la mijloc.
+
+
+— bătrâna să se spropea decât o nu-l vorbi să se dea de simțea ca are să-l spună oamenii care se întoarse decât pe la mijloc.
+
+— o
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere în bușă așa capul plece de mână, plece spunea să-lul deprele printâmndân au, și noi zis? îi-l la și că știi drept mai departe, și această care, grăi la ineu. fără de a voi spumeni așa, la acolo, sărăcă pe lângă mârața ar fi plecerscă săilă oarea seara, cle zămăbâară pentru că voi plecăma și ori ne mai aflânit valea.
+
+ei dete pierdea pe muți de ceasul nemistotoare de rele de la ineu. voi fieri nimi
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere tulburarul și comvai am pară dorocu fost viea-o face și cu aceste, el nu vedea ori trec lăsna să precum, norocse cu bine apoi firare zuspra lurgul și privind la făruri cas în dosul de dânsa, apoi? î? ceas de pandrum : itrespt de obicui perita și la voi scăpatul frumtă și, întreb să-i deaninică s-am adev! el, zise el presus și prespunea mintea, încât es, ea, voia scuii după ce aputa ca ?n o după cr
+Epoch 18/60
+69027/69027 [==============================] - 6s 84us/step - loss: 1.1060
+
+----- Generating text after Epoch: 17
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere ca să vadă acu să se supecă și să plec de la casa ați voi lică se ridică și să plece, apoi se întoarcă și se vedea ce să-l apătea ca să-l scăpat să mă depărăși să mă dea pierdută în cele din urmă lică se întoarse noaptea la casă nevasta ca să mă dea pierdută în cele din urmă lică se simtă ca să vedem, așa era să se facă mai am adest el în cele din urmă lică se simtă ca să mă dea pierdută cu atât d
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere în sunt de voie să se apropie ca să-l puntă mânnil cu tot lui lică lică se apăra să plec de a le primejd-l lui fi cârciumă și să mă duc pe asta, ca să plece, am să mă de ca vor strigă ce să-l trec de pașa stăpânți ce lii începură să-l dusese câteva vedea în pletea.
+
+grăi dintre cârciumarul, care împreuni mai mare tine uite. ce l-ai trăsuri, încât să veste, el nu se mai începu să-i singa la casă ma
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere să fie am voi să-i piepă spre ei apoi, afla nimic.
+— ce să-l auceță și nevasta vorbă atâtzemulau de babiță. șe-i veste de azurile ura copiii în cățeise de sem, știi tot uși la urma ceân-ai pleca stăpâni, după ei fraje. mai mâră! ține să o privire. dacă voie să plec ține ana  mărturise în cupre întede neastâmplă că doc în cleprate în mijlocul pertind venimeicii, bagi rău spre mule.
+— cum ar fi avea
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere mă lângă: "să-l cumjire. lăsând-l plecatului, tu adicând, fiindcă ați? ați făcuse pe tișteză zise, ghiță simtă ce ai mult țineau tare; pie de bizeiteală.
+
+însă voi vine să mai țiezea vne n-acu, doi niciod! de obici. putea simți pe oamenii bugăși.
+
+ana, mți privicăulului te mâhnile siltăprine sângateni doi dină . ghiță apre să răsufeate nu se află ceva? gânduri, o :ută, ce. mai :reîmblat și voastră
+Epoch 19/60
+69027/69027 [==============================] - 6s 83us/step - loss: 1.0927
+
+----- Generating text after Epoch: 18
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere trecu el se întâmplat de la mijloc, dar că are să-l mara ce are să mă dau câteva în cele din urmă la lică în calea asta, ca să-l apaică decât să mă duc pe la moara cu noroc, se întâinta la mijloc.
+
+— așa! răspunse el însă de ce nu avea să facă cu tot n-ai se dete ori își puse cu pași câtva timp de ce să-l mai destă în sufletul meu, aște la mine și se mai pună de la mijloc, dar trecu e altel, îl vă
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere că nu ven noapte la el cum era ca să-și înțelegem pe aceia să fie niciodată rămase în movea ce lică are să mă dacând apoi necală, ca să vadă aproripța la cârciumarul, care se afla decât oamenii, însărit la mijloc.
+
+— așa! răspunse el însurăbate cu cale în toate că lică se afla decât un alta lor. așa de ce să-l face să mă dau de slăp ce pe la lumea tici o privi cu cale de ce arciu în calea de aceea
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere tocmai când își vărdese pe ochii,
+— fusești.
+
+— .
+
+— toate acum.
+— nu-i l-am să-ți mai arând și cârciunarul: .
+— nu te puțin, așa cam scăpirță, care l-a gâteau crecutea că număiasta lui.
+
+ghiță simtea parcele un să-l încau să fi tar ândea să nu ușa îi pădea pe care o nuroștedau odată, și-mi dar ca să era la oric așa îți zice, chiar în când în făcut asuprar, îl venea să-i prindă spre cârciumar îns
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere trebui săi; însă ca om cu sosispurau nu așa dac-aș dânsul, cam părtăzu și aceasta, căci te duc, fațând nu m-o putea că om râuluieți cu cale se gasă.
+
+— nu-i me el cap la moara cu noroc, luă dareaste urmă, el nu țiște st.a.
+
+el și putea seamă și cu ceri doacecet și plină afla urmă, îl luă nivii. ți-ai descle om cerdeauma la fac de chel? zise el într-ai atreți a trecusească dfuceatași zice, grăi ana
+Epoch 20/60
+69027/69027 [==============================] - 6s 83us/step - loss: 1.0831
+
+----- Generating text after Epoch: 19
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere în cele din urmă subțiri, însă nu are să se dac de sus pe la dânsul, dar e voiește, ca să vadă de față cu pintea sunt de aceasta cu pintea însut pe care se afla era destul să mă duc pe la mijlocul semni de a la moara cu noroc, ca să plece, așa de și să mă duc pe la mijlocul semni de câte o scoase de între omul ca să nu se adică venea de la mine ce la mine ce să ajunea ce lică ar fi avea să se mai
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere în cele din urmă bine, nu-i încredul părăduse oameni, pierduptă nu se mai îndoia să mă duc toată să mai calul de cu ghiță se îndărut din socm să plece, privind pe la lumea de străbată pe tiandu-se de suspie cu pintea însurăbzândă mai departe, dar în calea de la mijlocul oameni de pași pusul să fac mult va mai părea ca să poția o para că nu ți mai fieri și să plească se duceau să nu ne mă zic vea p
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere om că are se aproape și tot tremeră bine cu tioarea aceste bizeu în dinsurea deștepta cu mine!
+— asta destul de răuț ce dumea doi nu voia să ve descăpilărea a selejmă și arta, îi ! întă un sememe, noarte, nu ușa pierdută și grăi cu junate atât, îi pierdune, pe oamenime oamenită moară. ei misesea mult părătul spuneiu nestrajură tot aceea cu mai nișteară în parțim.
+
+— aspru dânsa și că te eu, se îns
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere aștepte zi adânciți parcă, groțela care la meaînii, țin "olțol în culpă să-ți dai josal din fru. voi.
+
+el afla bosarul lui. lișă și că ar nou-nu mea de cârciuma, nu am petretous sau.
+
+— timp de să mai că vezeară ca gânafului așa cu încet; trei lică și voi vți, sărăpeau dac mai a-a adimapă c-aș treme pe fiemereau, iără ana, își întrașa nu-i  mpoată măste cămăvâna pe la poartele să stispinii nicieca
+Epoch 21/60
+69027/69027 [==============================] - 6s 83us/step - loss: 1.0720
+
+----- Generating text after Epoch: 20
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de paște, care îi poate părți de la moara cu noroc, lică e însuși de voi să se dete omul care îi pine pe la ijitoare când vederile ce-i începută printrecut să se dete omul care îi avusesc pe la moara cu noroc, ci se mai putea pe cap, că nu ar fi totdeauna încetul cu încet, că se veni ca să se simți că nu aște la câtciumă ca să plec?
+— dacă ai trecând cu ochii mari care lungi pe care o vorbă cu cât
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere ți se ducea de ce să-l scăpatea pe care o strigă de ca benui cu care îi poate că nu a voi zăstura cu dânșii, însă că ar fi totdeauna se întâmplă care din capătul de la moara cu noroc, dar e îi venea să-ți atâiniși de dânșii începu să se dete omul ei mai îndrieat și că are dormeme ce acum.
+
+— dacă nu așa se seamă în cale în sufletul deshieți.
+
+— nu mai se duce: când voie picinite.
+
+ghiță ar fi pot
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere și chiar însă urmă lângi să paucă în cale, ghiță.
+— nu era îți scăpâni, caii, zise ea ridică oameni spori?
+
+— eu sunt zice.
+
+ghiță însășit, parcă a dinacă în pastobul încăintele era de ce. afară soc ai d"oalul zici cu copiii sare socotea răuț de față mai amâtă, auziă, voia, precum văzu spune ce un calului puserii mai dumpcă și tu umblrii calului, dacă tot are doi eu auzi pe calți anomerase la șier
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere sângele, dar o dostu sente ucm, uța venea mâniul dup cuțitev. grăi câtă tot dânșii pe gândurise încet? îi vânt urma mereu.
+
+— îi știpta, ticia din trumerii, că sâmbătățuită.
+
+— goață. e! nu ea săilăm ținee, lupre pe care prații au mărărar dimizo-și poate noapte aupri la grămodată și bripa vedea în mijlocorau să petreace, că srudă ce nu am avut să ți pielesta. rău, de anapta. ei își venea sunticivo
+Epoch 22/60
+69027/69027 [==============================] - 6s 83us/step - loss: 1.0599
+
+----- Generating text after Epoch: 21
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere o pute în culcaseră pe niște puțin se pierde de aceea să vedem! zise el îndeci se întoarse de a cum om cai, după ce se vedea lică, un om cu dorul de la moara cu noroc, fi venea de arândașul.
+
+— așa cu toată ori de a te întreba că nu acest ai putea să facă vorbi la cârciumă, el nu se apropeară cu copiii cu ochii lui lică. înainte de a le înțelesge când ai avut să facă cu mine! zise el într-un om ca
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere o privirea lucrurile începură să facă el nu putea să duseră în trupul și tot nu poate oul îl cupri și închil-a voi să facă era dunea de dânșii la urma, și ana se îndoarse o privirea lucrurile de cei de ce să-l duce și acestea să mățriau, cu turma să facă valul meu, dumnezeu tot n-ai putea să se mai întoarsă lică se întoameră prin vadau cu poște prind de dânșii, la care au neabinea cu voi, dar nu a
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere o nu-și datum și ascuți cu cârciumăi, cu toate.
+
+— astă nu putea să fie și oare.
+
+după ce ieștea și nețele iar să facă pum neajmat; luați știe un nu putea să vorbea cum nici nu auzili, încăr-am fieroc răbise dân acele se întoamere, sangului le bati atunci? îi zise lică mai dânsul-o tai de câtea apucă grăi laie chiar de aici!? înuldă cu vea mâna, apoi mestul mele tică haia, care, la o părbăterigea
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere departe, dar și-ar că ieși numai șe început că veie, încă od!rărau!"
+
+agroa să acapăt. destulșmal, apoi căzu se :m? jaundem-ab făcută esta el simțcau, dar lăsându-și râdeau. în țipe, nu vorbi-m ântea mus.
+
+ana, usa dai ghiță se veceu adesta aleșorată, și de vreme: "
+— tu, răuț, adu-ne; cu om: "e zic tu. s-au multe.". ghiță ales trepu- e, lică îi privea și an plecară prea lic șe. răspunse el petrec
+Epoch 23/60
+69027/69027 [==============================] - 6s 84us/step - loss: 1.0503
+
+----- Generating text after Epoch: 22
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de a la cârciumă, că nu mai întoarse pe ghiță în câtu a se întricia ca din cap, apoi se întoarse cu cât venima de sub cerdaută de la mine?
+— e angoțochiul lui ghiță în câtumă, că nu mai întrebi că ei într-aș fi avus pe lică în calea de a fi pus bine cu femeia de cu dânsul.
+
+cum are să-și aică în curând cu dânsul.
+
+cum are să facă vorbea cu pintea în cale.
+
+ghiță ar fi avut hotărât. câteva întrubit
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere din ureri în cului.
+
+— așa-mi întâmpină streberile cu lică se se groadă de unde nu se mai ântru de paști.
+
+cum ai strigă dânsul, și atunci nu e nu ușa vicade, adause el într-ai om doini se întoarse părtrinie nu se mai ce nu știe ceva de află de nici nu are să-l audă, ca să-i astunțe, la grajdaul cu felece.
+
+— asta nu-ți -oi fie dacă nu era bătrâna. cu cam nu asta nu putea să te bai și se simțea in
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere ori cu un o doța strând; atul die ochii în urâmiriită, asta. cena! răspunse ghiță și se mai ales lică în doru un for dus pe el.
+
+ante omul dar se vedea ăos cu credea lică a venit că se întoară și că dâns și ascuțirdul din când cel un păguți de copilul seamă răuț însă-l deală. dar oamenii la cazarme, dur ci iniul apoi cu fără de la noaptea, săieți și sărit.? apoi se desfrocorile în mintea cam cel f
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere din săr-a prăvleșva, însă căprarulecat și nu-i veni nici nu adun după meleme în vreme el zicia căluiui săinte despre cârciumul și sup pe laiți!
+— când e tot așo? ce pot platins lumiie, asculta de la mintea câoc mai asta nu-mi venea să se și se întăn dealtre un fața că-mi rospri să nu putea să-i facă. -au asuprând-ti.
+
+grăinea?a: nejumătoc nimică în pruput; mulți când lică trebuim să dusa că nu m-a
+Epoch 24/60
+69027/69027 [==============================] - 6s 83us/step - loss: 1.0437
+
+----- Generating text after Epoch: 23
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere nimic, fiindcă ar fi tucista cu lică, se întoarse cu care îi zise el începu să-i ca de la mine în turma de la când își pare cum ar fi avut pe la puterile îndecătorile apoi neviaba lui lică, care îi poate spre pădure să se înțelegi cu lică în când își pierdecă cu pintea de la dânsul.
+
+pe când tocmai cu lică, și să fii rândul care au privi când ar fi vorbit la câncire ce ar tot n-ai strica ca să ved
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere sub chei de ca din trubunat și cu lică a se descor, dar ea nu zis, el începu să vorbet decât cu îndoială calena alta de la câncile. dar cu posti, care te putea de fecea ce se vedea gatul, apoi se înțelegere de parme dimpreună de la locul cele de forocie nu cumva să se înțelegintea când își răspuna cu cum de bine dacă n-ar fi teamă de la moara cu noroc, întâmplare astale, dar n-ar se face cu atât e
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere când vremuri.
+
+— până la deal în lume. care ori și ea i-ar tulcup singuri, pintea vleumara; acum eu înșeați făcu eu în tăuta mai i-i  vedea parcă nu mai știe că atinsa și rămeate să știe că lauți la asindeși și multe ori sală, răspunse el apui melesere, pădădea și altul și nu are să-ți gapt cu place, care a-t rupă caisă vedea să me înșel pe dânsa de la urma sifietăți să nu comdause din urmă de alț
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere că alțea. răspunse ghiță auzi țin-am todar să-ți fie treabă!
+nea! grăi? ducă un ându-se de ca, atunci niștea gândurile cu acestea pultare uscăți mulțird la pești înțelpu decât teva schimbe? voia tu da îndoială, departe.
+
+un el sorime??! leă?ne și soso nei următriii de arăirea de a trecut, iarți seamă, dar fii rupu, iară închisulăipiră, în una destulor.
+
+i umărulgă unalți să ne slăpăcu perla băcuni
+Epoch 25/60
+69027/69027 [==============================] - 6s 83us/step - loss: 1.0303
+
+----- Generating text after Epoch: 24
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere din pate privi luptătul cu încet, în se desfărăile pe care judecătorile cele din urmă, dacă nu are să se simțea ca să-l apăcă în cale și trei privi astă cu care însă nu voia cea ce să vadă de trebuie să te mai vestea cu pieptă, în când în când în când în când în când în când în când în când în când în când în când în când în când în tângându-și începură să mă de la depărtare de slăbiceau de cu dor
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de la mine, se aibă neabărătorul numai pe care o privi, putea de la care îi pierdea proai, care îi poate judecătorie, și grăi pintea să lăusa lui lică, ca să vadă o târgul, care vrea pe aceste, după ce s-ai fi putut să meargă trebuie să se stricat la fără, dar nu poțig trăindu-se ca la depărtă cu privindu-l primetrea lumai cu timpură.
+— ce să se simțea că nu poți stașe să plece stăpânul privit, sp
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere destul să-l putea, ghiță! stărea de mângâlu e se lucreze ori cu minți, săriște ea vorbă, la descăle la ineu, să mai care băcutăria în culm, pe laiță; apoi , sâmbăcul din ferească tare, ce morilora dimivrive altteazță rărsuși miea, se aprovie cuprit pătune să trimni, în trăsuia era trăile spune spre alegeri din post judecătorua dacă-i noapte, dar zic orindcuniu?
+pe la ineu; ghiță se hai; ascăiziiri
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere întea? e însășcată de fi domni singurului, mi-le. l-a zăr nuuarea ei; așaînă.
+
+vnemiști rău lui privi când intră luărgulului vorbe, el se ridică spre dânșii; se mai văzut, că băm nu poți spunea calului; trasură , lică, unai rumase, întât pădou.
+
+— și în ățul depărte, prupun? am pușut să-ți crezi tu, îmi pierd ziură îl nu își detură, nu în eltă: "da-ți vreu, cu drum tot docă îi era sărtust?
+
+ghlță
+Epoch 26/60
+69027/69027 [==============================] - 6s 84us/step - loss: 1.0232
+
+----- Generating text after Epoch: 25
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de acea lăsa lui lică, și acum cu calula ca să-l poată vedea că nu poate să-ți ca stăpâni, începu să-l cale din ce om trebuie să s-ar fi ticărând și să facă mai departe, el se întoarse spre mele în cele din urmă sunt voi să fie de a șea mai mult de ce lică avea se pun că nu poate să-ți ca să mă dacea mai mult de fuță de cul de la mijloc.
+— nevasta și cu vestului, începu să se dea pe un cu cam cu j
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere măcunătur și asta atunci mie de pășerea pe lică simțea frânt, ghiță se întâlp, ghiță se întoarse cu copiii de care mi-oi fase cu noi? l-ai te tu ne-a vestai. dar nu știu? zise el, și că nu ve destul pe ghiță și că nu mai putea scup! să știe de ce nu știe die ducea mai mult de frieor, dar e grozav în această nevastulul meu, că nu me veste, dar e ce te mi se un chei! dacă a fost doi neblă de acele d
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere turmai de cârciumarul iar și cu lică, un ânchi atâtveșii, că trebuie să nu știe acele tur. om în acrezi din fundura ce un ușal să nu vermesc când adică, și trăi și el află să mă birici, și de lică în suprie om ca unușit spre mea, că știi i-o e zisese ghiță, ca și că ieșizi nimic. o trebuie să spuse.
+
+lică nu !ă priți lucrurile cu voi să steu, îi :
+"ea măi! nu putea să mai poate noadăt drept mult f
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere meste.
+
+— ed! torcul, și alesăși i, zise civea ailți capășia ce vrei niciodată culun și lăsâns de să nu dea poate să creadare să plec!
+
+ena dacă-i parcă e de legul, și lasă-mă, grăi ghiță zice o supa cu știea cu lică până la câine lenoua calui, înduit. băgat ce vieiță ca să-l cale și plecați însu din simțind de târ:u bătrâna nu știa și-i calășil ulul, ce n-aș depterile foarte, — acum, unul se flem
+Epoch 27/60
+69027/69027 [==============================] - 6s 83us/step - loss: 1.0131
+
+----- Generating text after Epoch: 26
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de ce nu era în cât se răredă. el își vint astfel, și asta? lipse bărbatul să mă duc pe care o face și să poată face de aceea de la moara cu noroc, ci nu mai pot să fac de un să-l întrebă ca să-l petrec să mă duc și nu mai stătea de caz de la moara cu noroc, ci stătea pe lică închise ghiță începu să se mai înțelegea și se afl; care sintur, ca să păpea să facă ce să-l sase de părtare ce-a văzând câ
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de copilul ca să-și casă. ca să ias pe ghiță în casă pe laiți.
+
+— nu cumva să a: de cu minte; dar să facă ce să facă ce are să facă în când întreba că are să se ducea de această ca un cam trimise drumeții, îl apucă ca să-l întrebă ca să facă acum o mai nestârzusm dre pierdea mai lanți la țiie la cârciumă, trei și nu mai mai nuișcam că are să facă mai mult de ce nu venit și să avăzue de acest aici
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere ți cârciumarul câte și iar și să plească nu astă era desfăcuțea cela să-ți cau luața mai mult duprea, mă face de ce te lauțit, ia gândea tureară ce-l treacă, și ea îi rămatea și uța la care se aprop, iar și împruuna, ca de dânsa, tăceobit să mai dezui la atânc pe arândașul urul, iară de porci ca să gândea că ea înșerat înainte, araui află să cadă în, își dăse dântul.
+
+— te întreb să fie la cas dul
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere talta pintea. mâni al vrea să-l poateplu.. gâta de râulat le dânșii, se dumerea când ușa înainte, precum este plătiriți. v-ân fi gândea cârciumulul drintl încât îți se fraje. ai făcut el nu țiorea, i otrebere, ana cumtatul. și așa-mi intră cei întresptă apoi,i de la lăs dâns de cetă mi pânut s cvedea, toții ce stau! oameni și buclți și, uța simți inimai unde găsit pe gândul de înțele inuș și pleca
+Epoch 28/60
+69027/69027 [==============================] - 6s 84us/step - loss: 1.0045
+
+----- Generating text after Epoch: 27
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere în turme, părea dumnezeu! grăi ghiță în picioare că-i scoate pără de la mine! grăi la ineu, când se întorceau să mă duc pe la punt unde pe la pământ. el vedea să mai începu să-i închisă și să nu în tine nu mai se simțea multă de la mine! grăi caisa în calea de la moara cu noroc se mătea de ceva lică se rivi la cale, căci nu poate să mă duc de la mine! grăi ghiță în parte de la mijloc.
+
+— asta-i sp
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de păreri de această mai departe, căci nu prea pierdută, mă gând semne așa-ma destulde mai departe, prea pintea.
+
+— asta nu e îngruva în cele din urmă mai dinadă în la moarte de la moara cu noroc toate n-ai fleti de calul de la dânsul, căci nu știi că are să-l facă cu ochii împăcut și să-l scaperea de de la la moara cu noroc în astade nu cumva să-i închiț din turmă de vremea ori de ara decât săilă
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere de rând să mă duc de bănuiții:
+
+— dar însele. îi venea de bună dărea trebuie să dea aproaferul, i ce dormiată, nici o pot suntoarată lumii încetul cu zici să poate spre dasă pe aceea seare, dar nu poacile, și mie pe arândaș și tu lum dinare vorbele, fie pintea.
+
+ea și ea deprins urma, îi părăsea din lucitbă de vorbele am eduri. îi zise împastă nalea să-l luat la tingea la buspuia.
+
+ghmain.py:63: RuntimeWarning: divide by zero encountered in log
+  preds = np.log(preds) / temperature
+iță și simte
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere vaibați cu țauă luați vescăși lică fața printre bine decât lică! torm subțere cul la cocitor pintea, și așa era greu acpere, dar ta să cu casdă scolbins azivem se sum măiț că stau petrecut, zise el răuț pe că las luărgară melorie.
+
+ghiță s-o trebimeril e căzânșir-a bizemila. lasă, dacă are om freulul nu umbl. pară de mine, țin firătunt, când vremui eubun iși din clepa cu copiia, parcă fu pierdu-și
+Epoch 29/60
+69027/69027 [==============================] - 6s 84us/step - loss: 0.9953
+
+----- Generating text after Epoch: 28
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere trei părea să-i vorbi ca să văd că-i venea să se plec de a lucrul lui pintea între nimeni nici nu era să-i vasă și să-i viațe de la mijloc, ghiță, că nu mai văzut la cârciumarulul. aflase de rând, în câteva aceste să facă cu copiii și să nu pleasă la care se multă oriceieș și ce am să fie de aceea ce ar fi târzi.
+
+și îndedea să se întălbit. mai amestecată și să nu mai mea de la moara cu noroc, ca
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere trebuie să te pui" că cam cu june și cum ați sele și privind când se vadă ce ai se văzu îmi gândea în mijlor, ca să facă, ori o slăjea, îl ltăm nimeni se duse cu descăperite la moara cu noroc.
+— nu cumva era răuț de a ar fi tot arunți dumnezeu și-i și mai ales cu pintea.
+
+— moarcă, și când o mui mai întrebzi astă- apoi, ca să-i astu. ar fi trebeauri, mă mânăâi de la bătrâns de câteva însă nu mai p
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere fulger. el răuț, unde steau să nu-i vesuri cu aceste, am tudecum întârtea ori îmi trecea parte pintea meleura între noazti, și numai umblă, îl lăurase adescoa arândașului întorcescă deoarece am cu vină c-a că cumvatea cam ana nu țioadeau salul nu se mai întreb, ca om ca ți văzând drumenea, încărdacă în lătrare ara din mână și începu să-ii vintva de pierd ceva de la ineu la el și erau acoase apoi,
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere te priperul și flându-șei răspâna curătare de sărite dun șai dacă perchi! stăi și numai cu mai țintul arunii, zise el în cele din tămâie, nu pot să jun, cineva îl chil ritea și de la zicea lui pintea sa stătea așa de dori cu pe noaie din oricelenașurea o că se plec, ea. nu știste: "dară, pe n-a și copicade la dânsul, pe ana dreptat căpasvva scâtulbul de simțea are să zicăți, în abinet de vreme: "d
+Epoch 30/60
+69027/69027 [==============================] - 6s 83us/step - loss: 0.9893
+
+----- Generating text after Epoch: 29
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere turmai într-un târzi : ghiță! că are să se dea pusere cu toi nu mai putea să se spui ce dintâi ana, cu dânsul.
+
+dar să se simtă ântând cu el, dar n-a lăsat.
+— dacă ai să se simtă ântând cu dânsul.
+
+ghiță arărând cu ochii îi suspit.
+
+— da, de cu mine ana se simțea ca să fie singur cu săulea de ce te veni și că nu voi să dea parcă se ridică și-l pe la mijloc pe la moara cu noroc, ci mineni și să dea
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere nimicu inimă în valea în care și el nu avuse din un lucrurile încet, ana se întoarse iar însă un om cu altul nesfârșat în casa mereu: apoi se întoarse iar lică în cârciumă și acum, câte ei singură și se mai seară.
+
+— mai te pute și să răsude ea mai ales am să știe că mi le fas să se simțea multe se vedea în caste în casa mea pe la mea, c-o venea pe la moara cu noroc, câte ori ar fi tot era răuț în
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere turmi și nu el i ca la mine omiși nimic.
+
+ghiță nu ți-i o maută și umășinea ar cu bine.
+
+— nurau dintra lui, nu tot ghiță, adăsând pe tiopară n-om zie de sfină ce felecească n-am trebuie trepură să nu te obici și n-a strica toată să se !r și lprun pasul, n-augă mai de altul. trebuie să-și darurmă din ineu și-l văzut de nu mai fhera.
+
+ghiță ți puse -l pe eală. în câtem eu cel un copil astr-; arsea:
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere un lăs maste nenida spoi dintrecul și măi! răspunse începu să fac era pusesc de ani, rore pentru arară și stete spuse, copiii, pe laițăvatu pe laișt-a buzără de fune— cai lică. înainte; despre ce plăte. strigă eaghăe; de spre slațea cu care simte are te dâmpune, îl culcile, chisă de plac! ărați. dar zise el însărit băiur vică în spungul dea trebuia să și preautea la l-am mai fi avea dinerate, iară
+Epoch 31/60
+69027/69027 [==============================] - 6s 83us/step - loss: 0.9826
+
+----- Generating text after Epoch: 30
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere tot.
+
+ghiță întrebebte; desprins la care le fuiase lumea ce-i începură simți că nu mai putea să se singă.
+
+— nu cumva el nu putea să se pară. de aceea are să facă ei în cele din urmă strebicori de a se dus la cele petrecute în calea ce să fac, acum își pună cu totoară să facă ca să vedea de înțelegere cu tot un te înțelegi cu dorochiul ori doi cum nu vezi că era voi să se întrebea să mă dea multe
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere din urmă banii care să facă dezu bărbatul mar.
+
+— ghiță întoarea arei de la mai multe.
+
+— asta umblă de cerdește ce dorea noapte la cele de mai ales de la cârciumă, ca să vedea de la mine" dar pe ghiță pe la mijloc pe la peste cu copii de drumul cu grosele. el se repete. fiindcă el însuși, înaintea cârciumar lui se dete cumă o mai să fac, apoi nu mai gândul ca de pierdut copilul era de la pierde c
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere ți puse bănuiiținde tecul de sufletă, și nu focotite, îi părea dat a-r-am ummeriț după și-ar să faema arândaș și se dus la față cu este și pe răspunse el, înlă ca ghiță sargădă nevasta mai era o lumesc cum trezică câinea se arătoată și albă știpte de rubitezeșul ucrorit, îl curând pe gândurile cevați prijinii în zicea și vedea pe lică cum de puseri iară pe ghiță, ca să vadă n-am, că n-a întârșitta
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere din urmă rămăni: vedea făcătuia de la lorul doadea n-am eu, afla să, grelăbată dezusptrușci păște, pe arândate, se roareleni.
+
+— e lu ea nu pute om lultă și-lăm știi
+
+că ei era om că, un hârjar, dn plași deodatord cau-tă vegând ta săpinscare, și acum; copii că pusea oameni luminirea mângâie sa nu știu! lică îl opri ca să nu putea la care lou al nopăie pe care nu mu vezi în calealul spun de toate c
+Epoch 32/60
+69027/69027 [==============================] - 6s 84us/step - loss: 0.9760
+
+----- Generating text after Epoch: 31
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere în turma de la mine! grăi ghiță îngrozgătate c-am trebuie să se simtă să plec.
+
+— asta se pun să-l scaperi. în sosind aceste să știe că pintea se devasă, să nu se pun să mă dea mai trebuie să și să se suptă ca lică ar fi tiie să fie stăpânirile de cei și el nu se mai îndoia ca să-l privi lung, ci se apropia ca să nu umblă dimpreuna să mă supuna simți că nu mai mai bine să nu se pun se la mijloc, u
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere că l-ai se pun se afle se devase la se chei! își zise el. aproaperea. să șteau să-l scăpate de cei din sămădărându-se de la ineu, lică se ridică sprimenea cu întrebat parcă nu știi n-am pute mai avea să se spre soarte nu s-ar fi pute pe tine aceasta s-o aceste să se întoarse spre să un altă și să-l stricate pe care se vedea la mastem mai mult se desfărbate în mijloc, un la singe pe lică, nu mai st
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere fri din ce dacă n-aș fi stai că nu e primebsind balului om cu minte un selă în strâmșin; tu pierd alții, însă el să însă pintea? zise el! am făcut de cele petreceau să nu se duci, că s-ar trezic că lică stătea la curața dar câtei, unde nu-l scopse locul prinse o slujnu ca și trebuie să știi nimic. nu știi nici nu te binea de doape aceea să te banești ce lipre.
+
+în căzșt? întinți și socotea ca să n
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere un mult de văzânși se simți caute pe plăcatul lui trugăt. ar fi socoteră. unde își văs să-ți poate iar. fii bici, dacă lică anc, simți să-i plea din .ândă, ci pentru zilelenii deprins la apuce, dar , toată el, auro, el se aflau întremeserga el mă au mort. deștepte, lăsculția să te biriscă să nu puteau să mă râase meat și mult se ines; ane omul! îne întea că se pun e n-a. nu ljim.
+— ce nu-i împrune
+Epoch 33/60
+69027/69027 [==============================] - 6s 83us/step - loss: 0.9686
+
+----- Generating text after Epoch: 32
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere vânduși, și cu douăzcăți și scoit se mai mai nainte, și așa, e bănuiți care se multe în cale, care de voia să mă om cu destul de cotra această în sufletul de care simți lică se ridice cu douăzi, iară ca să-i vese o mai departe, ca să vadă ca să văd că se arete în cale și trei ana și care ar fi putut de pașa cu încetul în cale și nu putea să mă omori, își răspunse căruță de care simți la cale în ap
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere în dum? de feți de la mins se dacă el să vadă el cu lică, în apărecul căruit la oria sare, ghiță strigă întreba ca să fie de care autată, fiindcă ar fi voit să fie cu vreme, că nu poate să poarte juceț ce are copii, la singută, în vremesci de din suflete, de care de vorbă dură prinsă și se rărdea de a venit și strigă care însă, grăi ghițile lică cu care sint la culmul de ce dovădă ca să văd că se
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere zicică ei, iară bătrâna ane-eă plea de alțilorul începu să se umpte vremesc care un om în șii, se rașa lui țin și frimoure; de o mereu să fri, și trebuitori, nu crești te puțin, ci să facul altă de tu cumla peste, ghiță.
+
+— mulți, să-i dea cala vorsesc ascuțit, că am puțin, s d-a întâmplăt și fori cu cen numeritrez, pentru ce are și-i lăsăt, grăioarea ce intră care-și de multe de la moara cu noroc
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere tulcisă.
+decâtne, de-am pierit, și ușa întrebă răspraș mereu de tot pe multă bate vedesc ce docau -ă zise calului, bătrâna n-am de câtva că-i vorbisc; nici e mai iepștel vreptul răsprab să vadurit, dar eu nu forezicii și lică copii și zicea; se reai prea devără nu se gânde fele de fărăturase lui. ietrii se rămăse." și unurlă, lun; dar voi făcuse mâini, apoi, afară de câte lică, căzi încerse, mâna
+Epoch 34/60
+69027/69027 [==============================] - 6s 84us/step - loss: 0.9643
+
+----- Generating text after Epoch: 33
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de la mine și pe care o face lică începu să-l poată venind la casă de la moara cu noroc. îi susese încordată de a semn, să mă dea pe la moara cu noroc, ci se dete om cu mină, grăi lică, ana între dea simțea putea să știi de a se dacă să-l petrea pe aceste îi auzi ca să-și oare de aici, unde se apropia.
+
+— atunci lică în cale și tu, grăi pintea, căci atunci tu ai mai depa tine cele ul"gă de aici, c
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere văzu atât de sub cerdac, ca să se poarte depriepă și cu dânsa, și-i venea să știe că am ai lung de a te vede cu dânsa, dar nu mai venea adausă încă neastrel părea aproape în cap, nimeni nu se poate să mă dea ca să-mi spună la moara cu noroc, care să-l adutea să-mi o pară copiii de la ineu, ghiță? întrebă el eu adunat pe care o multor mere.
+
+— dar ce nu-ți vinea să mai rămaș. ar fi turăsul și așa,
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere hârjire.
+
+dar plecată noadeau să amenii departel ce ai simți să pătime pască. în alter piepătră în ziua decât să mă-l trăsuă în suprinda lui. ei împlenia nevișiim; din pierdut fruntarul de ana: stăpâni și ne! grăi a leamă: lasă-mă dormiri , câte or-m pot vică!"
+
+— tu ce vine aici eu plătișt, încă era om cuvociră. lua pesta greu. am să dete de primiștul pe care-și urmă de ceva te celea steau ceva,
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere ingoame cu de putea în cele de tare din patul petrecuse gândură din tulburară mulg dureci mai ntinse încordată duzmă și acu oture noatetul porci, ținu aruncat dii lăsa să nu ușa zice, cu dânsul!
+— lea bine, însăbnate, lică îi sun suntemba? într-o vorbesc trebdu-l la ori, calul încorducă și nu mai întâișcat apoi meră, el vorbezice ta. atunci lică se cada bosc la cârciulii.
+
+— nicaăzi de femeiu lui,
+Epoch 35/60
+69027/69027 [==============================] - 6s 84us/step - loss: 0.9549
+
+----- Generating text after Epoch: 34
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere din care se întoarse cu ochii lui săracul pe cârciit cu lică pe arândașul, fă care se vedea la casa minte și să fie de bună de aceea în cândea ce se vedea de curat de la mine! zise el privind câtea pe care se întâmplă cu pintea. ar fi tot de câtșu descă de fierit cu ochii oamenii asta dacă voi să plătea de la mine?
+
+— e bună de a te putea să te mai veste, că nu pot stat, încât să spune ca să văd c
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere un cheduse de la pești pe pintea la moara cu noroc, ca să facă, arei mai aprehăzi.
+
+— dată eu aducând în cârciumarul, după cele ce lică, se întoarse cu spaima de la cârciuma, inima să privea și plătecu de la mine cu pintea. privi când se înțelegere cu cârciuma multe ori singur cu buzerie, fusese mai mult de pa lumea de la mine! grăi dacă ea se pupă pe acela de la moara cu noroc pe care se multați
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere o parte gata dânsul; numai pustră telee, căină, fi care copila, răspunse el racul ieșit ar pușcă spre cârcinulor, lursemerase: căzeți în otul care, fie cât neducești: celt și învenei pe aceste, el vorbele, dar calea.
+
+ea! gata de când în adântau sargea bănuiți în tine nu și te mereu! mânta cârci, aicioare tu, ghiță stotre cuprinsătră și nu scăpat văzât pânătea desârzele drept pe colțim care o vede
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere biește, e molotă câteu vedea o para. că te piciotară un patea de la moara cu noroc.
+
+pe iin! săilă prins să rămască neți-o mara, nu știu să intră văl femele sint și lăsau. iar înteia pentru ghiță simțea că asculta pe cât o o pinefsem și, nu ați? pun săbini, aur, dar câtemuluițl-au fărătoare sub ză prins îmipsta , ei și tezețe; întrebâne să facăte să facă, su- prine de moară. nuoarema..
+
+trupul ple
+Epoch 36/60
+69027/69027 [==============================] - 6s 84us/step - loss: 0.9492
+
+----- Generating text after Epoch: 35
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de aceea se simțea un ceas în când în când cu pintea, însă descărcase în cele din urmă sunt oamenii începură să-l prij până la cârciumă și stăpânu-s-ar fi fost că nu voi hairă de fieritori de la mine să se spai adun se mai deprartat, însă nu mai pot străbată în cale, care stătea însuși cu cât veni să nu putea privi lungul lu avea se descărcă în cale, ar fi avut să mă dea copilul semnit și se desfa
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere pe când se întoarse cu cârciumulul semnic de la mine! grăi ghiță la urma și se vedea peste bucăți drupre, ana poate trai și să nu mai ales am să fie strica toate păteri că nu mai ales acum sunt al vreoșul destul de îndâișii săimenea de la cârciumă și luncum pe gânduri, ține stătea pe care o prime, întrebată lică, un om cu destul său, își adună dore nu e știi ce-ai începură diminea ochiuo dar împăc
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere ți se rămânea urmel lui lică, ghiță? ți-l stăpa zi răspunse el aștepta totase de emra călcase hară nl un părtulul închisă unde hotărât, vrea! răspunse ghiță înmintul lora i copocitele lumiiți, dară ieri nu se facă ce umblătă c-am măes! văduse!
+
+ghiță-i stăi duse la lică, se întoarse ia destrecor alestat prefuitul pentru astăze păsură cei, poate să mă gândul meu, adun luminea. stătea părăsită în sp
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere de ei, dacă ieși încorcat, iar , incâi?
+
+— se apropia rândul! ghiți razică: asta nuețila! răspun el ucișașa depruns și-ți grăsine și voie socoluse din pintea. așa cu noroc, ca să trea plecilor.
+
+șie! geăiu nu zicul mult de stânga unera începună stămându-se în ochi, deunegiți la cei mai bine la nevori din fruptă și de chez, fiindcă trebele lică se trabeți pelnic arăinci, mai elte la ține, iară lică
+Epoch 37/60
+69027/69027 [==============================] - 6s 83us/step - loss: 0.9414
+
+----- Generating text after Epoch: 36
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de ceva din semnin.
+
+ghiță nu venea mai departe, intrând să-și dea de la mijloc și se întâmplat și că nu vezi în când în când în când în când în când își venea de la cârciuma de la mine și se desfritea de la mine și se desfrită.
+
+— așa-e strică toate pătur să fie căzu ura ceva din lică, să-ți fie de a răuț de aceea în când în când în tine ce se vedea sa desturile pentru ca să-l întreba că nu vezi
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de care dormea că ea de la întrebețele pe rașa cu înturile și mulți doini ar nu se merge. tot îi scolos lucru, ce-i firgând cu depărtare, uța se petrecutea el să se pună înaintea cu pintea. vine ar cu voi scoperi cu nimic.
+
+nici e o vorbă cum să văz pe mine! își zise ea, ci pune ori dacă nu întrebați, fiindcă mai departe, afl de stăpea lui lică, și nici când întâ-și petrecut dumnezeu și nu se poat
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere din lăsaue.
+
+la mint: moare în fele și bănuiți pun să mă dase în mai ahântindu-l fui să seama departe, afla că ce lică el nu se aștepe la deal mai bine, precum așa, numai am sastă care n-ar fi pângior, îl văz că stetea pe care o vede și, răspunse ghiță mai de aărocare decât o lică, și ne vrejure și să fie scoajer spre paținu, în strânse în-e ar făcut dupăt de primenea de la pieru că nai cu voi fi
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere de câtva o vem, frați ciava întrebat și la parcă să-i faci când iar drune, îl ochiul lui, din mână a lică.
+
+îl mai de drept să deai, aruni numai și bine copiie mângâririi, nici s tcea, fiindcă ferind în privită.
+— de a te voi legat privi suvases din oameni.
+
+un feresta. și via? lii zise el ufri laciște, ceste văzându-i ori fimni în cele din urmă viața ana câte ei sunt până să mple și gălcese din f
+Epoch 38/60
+69027/69027 [==============================] - 6s 84us/step - loss: 0.9368
+
+----- Generating text after Epoch: 37
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere tulburi cu ana luă lică se întoarse aângur cu dânsul.
+
+cumia destul să se apropiare cu ochii lui ghiță, ca să vreamă ceva la mijlocul căcita la mine.
+
+— ana își ana strântate, care se apropia, care se aî"grimaduri și avea să se face însuși, întrebă el se întoarse aângi, și acestea ce-i mai mai fherără de dator de la mine să se apropia de câte ori își răspunse pintea mereu în această în suflet de c
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere tulbură și se întoarse aângur la s-ar fi avuci nu știa să te abia grobuia ca să facă cinstime de paști?
+
+întrebă ea însuși, încât abică mai astă la o aretă cu două-mi oameni ori cu dânșii în urma mai ales de aici nu voi fierită, și avea ana își stăpâni și scoate el prine asta și mai tare, și că care trecure, care a le fu mică de la ineu și să vie dacă n-ai pierdu-și să te abăduci mai avea să se zi
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere intră bohuiește.
+
+ghiță era mâinii și să vie ni-a focre.
+— nehu dacă săm.
+
+— nu e nu un la soție oameni împrejur, feriie calului cu voiîa sa fi lucreaună bine. știi ce l-ai îndrinoam mieți ce birâlă și nu m-am pusesc fierii caii!? e destul destul tot meama neducești o care ca să vedea pe inerătată din fața prin fața ca dacă s-ar fi dlecu pas lucrul ca din turmă bucau lui pintea, ce răspunse el râu
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere care i-i ți :aut lică sămină. sărocu și mai ieri nu știa te vedea pintea vorvea pe care se mai știeinică împrejurul iară!ndă  înduioațe din fața mari trăsnit în buca, acest foi risngură în cotri ceva ce ar tovai și-i mai simbet tot ce sleu "! voie: că răca pătinartă, fărător; iară s-ar fi lăsătu să-i vestiriri, fii deșezât cu vei! într-e ți dacă lică are nu cumiască arândtești mereu lică se răre,
+Epoch 39/60
+69027/69027 [==============================] - 6s 84us/step - loss: 0.9302
+
+----- Generating text after Epoch: 38
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere în curse pe care se apropiare și cu cât n-ar fi avut de la mine cu lică în calea de aceea se făcuse lică, și pe când ar fi voie să-i se petrec sea, de capătul deodată se întoarse de alți doi oameni începusă se apropiar de valea și nu mai se se supără de cele ce se vedea pe care o faci de care a venit o venit tu mai mai începură să-l scăpatenii aspră închisă pe cârciumar, cu copiii de asta, care se
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere în calea ce se stric tu ai scăpiterile pentru lică aici, cu o marestă care sunt de aceasta cu copiiită, cinci de care s-o pata păruri capgă la câteva, căci nu mai pot tine în plecase la birui cu dânșii, harii, ca să spuie jumătate de grodiar și cu cat, grăi pentru de asta, care i se văzu hainele îi poarte judecătorile proatul și parcă se meară. eu adun niciodată lică, un om de gol mai îndorase ara
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere țincă n-a spui late că-i bă la mână, să o date faceme de ce-am văzu, ca și când e îngruverea părtrimeni, ghiță-l strâmtate de gândul vesele și scoațap. mi stintați, ieși oamenii ce n-ar fhemese, și bățută, pe care nu mu vea prăjașeau, aderațimară mai dinadind și încetul cu încetul, care să-l încopit de bănuiile, fiindcocos, cu mână, că ți mai îndorase arabdăuluscă zise lică, oamenii și numaidăul c
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere dumnezeu să rea trecure cu tarec în.
+— rămâne și se ce poate trasa că vorății voi de perțiliră; dar de din feremile de pădurcă, fiindcă un . radac; ce să vadă și de la când zise ea cu rătruțăria? încă umplea firare comisarul apoi, nu m-am văzut să zicăbea el îns treaumă băiruluețalură la urmăruși bine.
+
+— eu marcasă la trupul de capă-i încoars de bușui în tot trebuindă cu cel a să mpse putere o -a
+Epoch 40/60
+69027/69027 [==============================] - 6s 84us/step - loss: 0.9260
+
+----- Generating text after Epoch: 39
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de dânsa, luară ca să facă ea în drum, în cap, ea se simeă de bine, și dacă nu mai văzut de aceea la cârciumarul. apoi, așa îl pune ea, că are să fie de câteva intră cu oamenii la care se simte de dânsul, și acestea ce se venea să se spare ca de stăpânirea de ce din fața în caleapă, viața lui lică. ale se sine și tu ai plecat pe când era grăi din unul de în cap, ghiță! în sărăzi cu minte și se rid
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de câte ori se stricit tot e
+— cu atât mai voi să mă dea prin lui cu pătimea de bani, dar stă pe mulțime de câte ori tot aha făcut de ceva din căută, fiindcă a spaima: să fie de câtva fie să-l petreacă și privind jumătate de fele și se mai strici, unde se dete cu om: mă sufletul se mai duse cu oamenii mai bine de aceasta o scoase și se rădute scând în padfor la moara cu noroc, ca să pre la pierdut
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere să-l privii. îl luă pe ghiță! îspletoarea pe mine a văzut ghiță închis într-oapt pe turme, sutări din ureci.
+
+buză-rupt, și tu că ei răuț! miel trecu era faci cu vreme cu două pracem omul, iară voi fați că iezi trecându-i peste puțin, din dost-a dorumă dacă n-aș fi turile se împurcătoarea lul pețin pe ferea ce lică se simne, prea ripa, fuitor la busele în drepă și acea la moara cu noroc, doi nimic
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere bine dreațni sub simță, trebuie să știi numai acelaș și te valți. puteam scătea lor. căci fața prinde era miele se gând, să-și veie nouării. ghiță mai afra! vățiași de vorbă silt, ia zis? lică nici prea târzi, în aceasta la o proar, apui , se afla ori e lungur descurar să hare i ul.
+
+— tu acu oameni și sunteaugape copi, când aâtfi z-am zis. fi gânduri, el noroceea parvezele. mi- ltmemuril, iară pe
+Epoch 41/60
+69027/69027 [==============================] - 6s 84us/step - loss: 0.9215
+
+----- Generating text after Epoch: 40
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de fierită; au vedea să fie să fie să plece, fiindcă aceste, acum, când ai putea să fie stătea pe care se mai ținea în cale și trupul pornică spretunse cu dânsul.
+
+dar ana se rămâne să mai de cu piserest o spune cu oamenii se la urmăr de stragă de cu decât omul de-a lungul debnezască nu se poate să nu poate să prins să mă om cop! stătea pe care simtă oamenii lui lică să mai descără să mă duc pe la
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de gol și la casașul câte de măruit cu ochii care bine! grăi lică se îngruptă în prepute pe viața ca de firoria cu nevasta și o parte. să nu mai sărbit și banii începute, nici ca să-l adună banii la care au mai la soarte despre arini, și pe mine! îi zise el începu să spunea cu nimicul lui pintea, cam astă i-ar poit să fii la ineu și alțil. el într-un târzi să nu mai ține stăpată despre apune.
+
+— m
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere de era în drunoa, care era de mai depărtare. însă voi și te frimiseră presuseză scoit să-i auneți; dar că sat" oameni, despre aproaînă. cea prea fămâizi ales pe la moara cu noroc, un goute. dar săm.
+dare o fi nouă dintre dâns, care pătauptările de turea fără decât ori se încetul unul și începu să întrebese nici alendașe aura cera? îi zise el într-un ști le ghiță.
+
+—lui și în teausă despre de pinte
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere de pereauă să nu-ti calea la care îi zise ea călâne, cu lică și e mara. nici cu toate copritea în preo pornineră, decât el știi ineca mereețe ce acum, el căci fața fățit, și ândâ-și care i-o spuseseodia și scoatea să mă orici, așa cu închise: și când aici mai umprea când vremu că iar ana era vorbește în parti.
+
+pintea încă spre menele și adunoul drumerile lor: așa ce aceasta el per; află dacă să o
+Epoch 42/60
+69027/69027 [==============================] - 6s 83us/step - loss: 0.9155
+
+----- Generating text after Epoch: 41
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere în turma de la mine nenoroci se întorceau să-l întrebeză și aceasta o poate să mă de la moara cu noroc.
+
+la mine ce are să se spai sunt de la mestie ce are și să se superă.
+
+ghiță nu poți să mă dacă mai așa, ce să vedea ajud, de ce dă nevasta lică, că nu mai putea să se upăhămai de la moara cu noroc.
+
+la mine ce-l trebui să mă de las pe lică închise din umere oamenii lui copilul să se rămân de la
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere în trupul și noapte lsta cu toit la cârciumă, că nu poate să mă de drumul, ca să înduieși și ar fleorii, care poate să poară de la mine nenoi! îi trebă ca să-l întrebeză poște.
+
+ghiță răside la moara cu noroc. el nu se simți că, dar nu putea să se spaieri, în săderinde de aceea la moara cu noroc, acum cânte.
+
+întrebăb
+
+lică ghiță se ducea la cârciumă.
+
+— și de ce te puie gră lică; am să ridic de a
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere de lică îi auzile însună o mai de la area că de lică spre mai ho-m jon o dată, dacă mi le ana de părurică ce l-ai atinați, așa adun oamenii cârarului pripile după făci ce vorbi să fie singumbrău, fără de arășia care, zise ea rivise spusese la mijloc.
+
+— jumecânte, ne vezi răila câte un ști aminjcă nu știa de un bicițiri, pe cinsta pe oamenii lor și se bungurepa lui o tine de miezește pe piardă mân
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere cei dintre mâicii.
+
+pese tebenat.
+
+pintea e drumeții:ie cu celâinte de a această numoiam la cincize te putea să primea ; are proaculniită.
+
+— mânagate le fundurenielor de la sine.
+
+în viața arti. ar fi pieană de lică, fiecască l-ar stăte și vor supin nu adesă! și-ie îngrijar de gol livor, și-l puseră cu copilului , prinsă și aște-a gândurile sărbișci ia zise îl socotiriră s-le i te ținun în lapul,
+Epoch 43/60
+69027/69027 [==============================] - 6s 84us/step - loss: 0.9132
+
+----- Generating text after Epoch: 42
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de dânsa, ca să vadă mai încetul, trei mai din vicașul.
+— ce să vadă mai încet, ana se apropie de drumeții, care îi poată că novorie. au fi potul înaintea cu trupură să mai în cale, care ai plecat de lică se se duce cu minte și se se ducea de ce să vadă că nu vezi că nu vorbi să mai întrebzi asta era râdea cu pintea însut pe la mărturisiriie a patul la care au preocumi și ca să-l aproape se întoar
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere ca să îndă duc o parte la cârciumă și răspunse el arupă să mă duc pe mine ar fi spus-l prime se se apropie de drum, ca să-l apăcea ca să-l aproptea cu față, ca să scoptea lor, care se mai întrebă oamenii rorzte; toate neasta mai de la mine și tu cum vezie cu viața lui pintea. e însă el își rămpare pe care și-l întreba nimeni și se întreb obici la grămâne târ:ea acea de la moara cu noroc, lungise d
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere nici, cam pe pintea; adina tarni pe singur duse pe tine cele gândul capul pe care? de poarte, atunci abiaș aici vin niciodată și viaș ai aum.
+— nu crești că nu mai dac pe care, bine! voiască.
+
+bătrânumi și mai departe, ca să facă nu poți străsândă și fire pe pierdut, îi priții, gând înpântulnea. ghiță se apropie banii cu încet: aș și că ai plecat dac-ar fi fost locul.
+luă dimprești decât nevasta ș
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere tot ascrădase lică după cee e, tu mă a ce drmi cârcau! zi zicuva încet, grăi ghieia simțiri până la îndâisira.
+— ești inime, nu ieți că sfi tiebeâr;ra un faci: mă tot asupra lor.
+
+și și dacă cu întrebui eu nu mai poate să vrend mai oarecumal la el? anțiori duce răgură pintrăucve cu grăsune la moara cu norov. erau să dadeau să-i mai pe vorbă. acum e el văzut pe răstuiră de seară, privi când au para
+Epoch 44/60
+69027/69027 [==============================] - 6s 84us/step - loss: 0.9033
+
+----- Generating text after Epoch: 43
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere în când în când cu dâns la cârcii, că nu mai era parcă se ridică cu dânsul, când s-o află ca fiea cu ochii ori cuvânt e adun cât se binu și când își rămase de câte ori mai departe cevai de vreun când își răbite cu ochii se apropie cineva începură să-l scoate pe amândor să-mi plea bine ceva dară simți homă plecar. din când că vrei ce acum cu lică începură cu ana să-ți fie de culbui să-și dete la mi
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de a fi pierit pe ura făcut că are să ște zice cu încetul, încât să-ți lasă pentru ca să o sul că i-au pierit tot acest a văzut că are să se pună și acelas lucruit cu altul, și când lică se ridică și nici nu aduc să te avută vreme de la moara cu noroc. n-am trebul și când acum! așaină în cap, apoi se îndrăzntea să se îndoaree de la mine ațimețească ca să fac! zise el apoi ca să fac, acum în adător
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere astris pe la ea, că se teau la cârcii, arândașul pe cerderă în care zici a mai primevi cu minte, și-i întrubatu-l va făce, ațipat la sine, ie pe față cu oameni, ce-i de frimin și asta strâcă. luă sâmbe! cât, un lică ei își încă osâră și se simți gându-l capătul lui.
+
+— e a proăia ascuns dinadinsul, care-și e nici aușthei, dacă tăută sale. iepre cu primejdie săi; au om comdeau lică departe asproc.
+
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere valul lui.
+
+— ta ducem un verbiesc că i-i mergea minera și avea să creapeș trecut toate piseoștel altreăși cine ceva e lume."
+
+egarilă cumit de urmă. dar omul dacă voma să te ducă pe care, ca temură și îndărăznarea, descăleâi tare, uscăp!rașii la cârcire pentru el nu știe? ști ca și zise el vor căzorată, tu copilură mulți după el să parcă biciul, așezeu a ul lui dintre oare, cai alci ea încât îl d
+Epoch 45/60
+69027/69027 [==============================] - 6s 84us/step - loss: 0.9008
+
+----- Generating text after Epoch: 44
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere din caste.
+
+— așa-i, ghiță strica toată dormer. dar pe care au de fierit și se dete unde apoi, adause pintea nevasta și auzide la ineu, lică. el se afl. ale oameni, soțul cu nevizeau să-l scăpat să fac, auzi ce l-aț, jăn
+niștea ceva? ghiță se aflau și cu felecea ce le fire de aceea ana se întoarse cu ochiul lui lică. în sărută și se dete unde apoi, adause pintea nevasă fie de la mijloc pe locul ne
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de veselă.
+
+— da, adinat în cale, cu tot ușă rămâne și bătrâna. s-a întreba ea se apropie din fundureni nu tot ce-am spui ca să-l plecață, apoi se ridicaului să fi trebuie să te duc cu pintea, câte ori cu pintea, ca să vadă ca să vadă cu copii cu ochii zici un cunoșa ce lică însă despre alemeaștii la care apura pe arândaș. ghiță se depărtă.
+
+ghiță privire cu lică. el nu se mai fierse sângele se af
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere următorii să măiausă, se apropiar și trupul și începus întrucat cu cei altă voierse când sosii de de te? timp tu, pierdupă și noaptea, i ce ai mulți de bună, se întoarse odată, lăsa un lucru, cu seara vișți, el mei, ci se deci buză-ravase la cena? zbă-l dase cârcilu. dacă tot asupri, în ziua cu omul iar . ghiță, ar fi voie să-l scopei cel mai prinse ori cuprimător de ceva l curst un ă nu-i bie? da
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere din vina! ghiță ar fere. iar se dusesta ceva trăs noupreoare de câte ori minte și vor fjucă dumnezeu nu știa nu plică, ghiță l-ar de gând , când trebuie să te cu drum, oamenii lăsată cu vesomă.
+
+încât aici. a aveam i așezește. care îi cap, mă i că futăr, și când numai ândoi cum ochiun zicrebie și să fie cumvale și săriasă ine când nu o dată și începu să-l sorol căgoasiriul pe lăsa câine, precum vi
+Epoch 46/60
+69027/69027 [==============================] - 6s 83us/step - loss: 0.8948
+
+----- Generating text after Epoch: 45
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de câte ori lică, care singur cu dânsa, ca să-l privind cu dânsa, ca să se pună e însuși și asta, pe care o suprori de aspru îndâini și nu voiesc pe lainm în casă. în când cu lică, apoi scop în valte, care se mult pe laiță.
+
+ana în suflet de aceasta lui lică, el nu avus de-a lumină de dânsa, care poate să se dea fac, tot a rată, ca să-l întrebe de a te întâi avă și el se ridicat de un se duse, car
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere o supă de vremeri pe mai de la moara cu noroc pe laiță.
+
+ana însă pate de cal, ci se simți trăi să mă adăsea dacă împrejurul său. nu își schimba unul la casă. în când cu lică un om ca fle de pagămași.
+
+și toate platea de la stâlpările la masa, nimeni nu adică tu vezi vântului; vinecă când vorbise cu dânsa, ca să se dea parcă să-l privit de vasă și să-l simțea gândurile începse! zise ea acum să fac
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere văzut de a-și ochi.. grăi un semn plecat dacă vrei peste uvorța spre când lică să ne poște întrebare.
+
+ghiță răua aruncând ușa : gândirine la casa? judecă copiiși pe uspre capul caperat de un și atumci, vrește, îi zise ea." ei maste. îi puse de cea, iară ghiță rău printre vâmplu și nu ma lă noaptea gânsuri, peste numărat, asupra l chedătausil, ana, când a stațea parcă voiescă.
+
+"dar ce-i văzi că v
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere bine! căutăpân, ana, că nu mai singur când mă voiesc în preputea cei văr pe toate tu. dac că vrei oaremuii.
+
+— dar nu pătea să-i scăția vădânta napă trebuia astu." el știia, își firetă!?! grăi ânat de o ple boparul, să nu o n-am față înauseză răspunse bătrâna; preaum pe laiță! târziu, când ori și cu fața ema trup țin-am văzut despre oameni, care vor f" zicea când o mereuta de niște o parte, și ple
+Epoch 47/60
+69027/69027 [==============================] - 6s 84us/step - loss: 0.8914
+
+----- Generating text after Epoch: 46
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere trecu să-ți fie de cale gândul de la mine cu maie era vedea pe care aută în calea cele din urmă, gândul de la mine să se spar ea.
+— tu le mi celea ce plătii în când în când ca să vă alunge mai departe, care a venii în când în când când ar fi fost în calea cele din urmă, ghiță se rărea că nu poate să se sparcă voia că nu avea bine ca să-și detnezat la cârciumă, iară bătrâna în el cel ce intea de a
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere trecu să fac, aur întreba de ca să-și bagâmbirul și plecă.
+— e la pentru calea venea lui lică cu cât n-a putea pe când însuși, zise el îndrumingară și nu mai putea să fac că trebui, ea începu să-i vreoșa zice, unde ane, tăți ne, însă de nici unul și să-l scoate pe aceasta de ară mă lasă neastâmpărunele încrețuna prin care potri se gândă, își la ineu și același aici peste nevestiți.
+
+— ghiță! stăte
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere , ghiță în eri mergeți rămaș apoi n-a răst uța zăci pante târpla cu docună-i ca dar celeautării lui nevasta aceste să-și deal arândașul, dar el este află că, și asculțit, păcătea mai mâncâitvat.
+
+parcă n-a vă vină și la moara cu noroc, o hai ca un iar, poarte, amuna că nu mai e ale dă cum ochiun seama ce-a; o pe la partea pe tot n-ar fi tujmezețele în care iulă, și se se mult de vreomului care nu
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere decât înalta la dânsul.
+— usplau. lică se retrezerele prins
+
+— îmbrujc, uța și-i însel, parcă i-am venea o rândind cu nevomuia să-și-o pușce pe cerd puțin ce uiți, așa e mai umblătrăm s-ar trecu să u spun și trăbue cau aici, după erau păpaută.
+
+peste îngrijar, unul de chedăzu nici răuț.
+
+"e le strica un coli cu aceasezi ne mâncâhi și socoteau aicior cu lică, înaintea era valele veți undu-se bana f
+Epoch 48/60
+69027/69027 [==============================] - 6s 84us/step - loss: 0.8869
+
+----- Generating text after Epoch: 47
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de a se duse de la moara cu noroc, ci să se sparmă în cale, care aici toate nedumeri de la mine și să se spaimeri cu dânsul, apoi se întoarce să mă daceau să se simte mai nainte urmă pentru ca să nu zici care i se trageae ce se vedea pe laiță, un om ca să facă mai simți căzu părăsiul și să poate harea cu părun și să nu iar pe care au de a fi putea să se prindă pe care vedea scale.
+
+— apoi nu mai e
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere vânătea pe care se apropia, apoi spre masenile însărde.
+
+ghiță se frimi la ineu, apoi grele! grăi comiscul săiată și se dete un om la la mijloc pe tot sâmbezeau că aceța! îi zise ea împușcă cu ochii ori zicuie cu înțelegere în umeri și se desfrecă cum atât erau pe care o fugi că știu ai își ana răspunse lică sămădăul ei mai mult se apropia, care a venit cu toate aceste să știe copite merei pe mine
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere te vesele.
+
+ghiță mătură și bărbate une asta. și băgul fugurilor, îi târfese odată-miștea pe ura simpunci, el văzu mai bie băndinăvul și răzu se trebel iar nu poate să freacă și alesăptat pentru calului o precul de dorosul șită și pornie din calda nimeni nlop.
+
+— toată tot ce putu ascuțira numai de ură nici nu ea, că a! dacă mai zis? ști, iară nu ere omul care-l vese mânam din cerla tulbu, să plec
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere și purgătura și unde stau pe toate pătea mai mult sembl; toate acoleseră rășită are om și se făcu lică spre mângâle încesume bătieanii și ori înalică în urmă, îi pierită în seme și se vedea de trumătrite, de veste, dacă m-ar fi tât numor, îllă întrebeage în cap, asta aici, apoi curătre în ghiță, vicit un o o feva răuă, darcă anezeți de răbrați, ea făcut, și acu te fusese cu overică nu știm! prea m
+Epoch 49/60
+69027/69027 [==============================] - 6s 83us/step - loss: 0.8796
+
+----- Generating text after Epoch: 48
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere toate păcerit cu dânsul.
+
+pintea pe la mine și astă dată îi părea păsura de la dânsul, care se mereu, în privi lui lică, și pe care joapă puseră spre dânșai la cale și să ne de paște, căci n-a plecate bătrâna, și când ar fi avut pe la mână.
+
+buserile la capătul de la fireodrile cu picie drume! întrebă el se apropia pe laiță.
+
+— nu știuma în atândimere. de aie se spau apoi, așa de la bănuii de la o
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de păgură cu pintea, fiindcă ar fi venit pe mine a la soartă, dar pentru ca, dointe însuși, pădea pertinse decât pintea; se simenită.
+
+— da, apoi întrebațe cu feleaște în somnul pentru lică se duce cu oameni și se desful de copiii de are din cândva lui lică. el plătecu spunea ce de acela care se mult lui lică. la strâmtoare, dar ea te de, ori mai iai ai sta pe lai pentru din vreme.
+
+— slab de trei
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere ți însă dezâttora, începu să seamă.
+
+— nu ste la drămânea pe mi-e punea de la .âmpără parcă care dopoșul o mai văd se gânduri.
+
+forocve de știi te pare comisar pe ei oși iula calului pe față care găsau acâini și trăiesc ai porigeale căstepă, pentru toată drumețe copil ca să ne duc și era duminică peste puțin și de la dânsul.
+
+ghiță îl apucarea lui lică spre mare.
+
+și dacă nu și te ușeri, pe tineva
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere ți, dinavâmilui, dar bătrâna. abine? dar ghiță stăpâni, puserile musâi. zise nimeni că aă nou pe bănul mărte pe cel dointa și necamdărât pe amam, ochii de la lăsă, stămâne și ba-ți mai leși dănită apoi bani tare aici, după cele areaună și păți și ori cu una, dar pintrâmestată orâmuli un ! încele: toma. toți eu om de fieartele mampură și să venească-i venea suniușimba însprâncele petrecute, șiute-ț
+Epoch 50/60
+69027/69027 [==============================] - 6s 84us/step - loss: 0.8810
+
+----- Generating text after Epoch: 49
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere birișnită închisă într-o vorbi cu aceasta o sunt te plătimea de la moara cu noroc, pe care o mai de dreaptate de cînd acum și el nu e bieri; cu toate aceste, el se află care se apută de la mine cu mai de la mine nu mai se desfărătoare cu cât ne fusase adar cu ceila ca stea lui lică, și ca să-l apuca ca el începu să scuptătil în cap, iară mai deparmă de la mine cu mai ales dinadins de algpe și aces
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere în cale orici și, ghiță stărută, ca să-l apăcă și să se sunt de frunte; el să se sprupeat și nevasta și se ducea ca el văzut el începu să rămân, nici acum pe care vedea afasă de la caza lui.
+
+— de a răspunde ghiță într-om se întoarse dânsul.
+— să-l scaperi.
+
+ghiță sini pe asupra dânsul.
+— asta el ne calea în cele din unul are și am să facă acum era, când aici, și în câtfa, el era mine n-am târgâun
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere taini când mai alengi ea minte și nu ți-am st"răp:
+
+— așa era cu om verelor, ci ana era călațiri.
+
+voiause, ca stăpat nevisai pe inima la stârpă o aici?
+
+gâmăi.
+
+— întrebăru turma noapte să el începu să duse parcă, ușa destul pente fruedă.
+
+— ei ana la la vreme ce vându-i faci ce fii trecuseră de drum și că pentru ca să-l aduncând ana, precum grăi cei ce-i, stăruat de dânsul!
+— așa se aflau calea
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere tingurilor.
+
+— el nu putea să-i astă!nă țib dre nevoi, astfe petrecua pe ininodtă din mânăând pentru el era grăi s-ară era să o lucreu, țipulta și alții.
+ene ce-i, ei întilecarea copiiar, ieșita mea de asapi care acum cu toate acestă, ține să avut să mai dezes". zise el; cii zise asupra la mari care vrei păstră ace, amanici.
+
+— tultrea! luara lui.
+
+
+— își așa? i-ar de la culbui pură n-are să ne șo
+Epoch 51/60
+69027/69027 [==============================] - 6s 83us/step - loss: 0.8723
+
+----- Generating text after Epoch: 50
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de la dânsul, el privi altfărea. peste puțin, ca să facă plin ; dacă trei păstor de a se ducea de la dânsul.
+
+ghiță se dete urmă lică.
+— nu te putea să se dete urmă lică.
+— nu te putea să fie cu douăzezit buză-ruptă și săilă voare trăgânt și care se apuna din urea decât pe trăs că știu e îngrumătatul pentru la care se putea piștia de cetar aceea să vadă și ce vi fi avut să-i pot sprutea decu-la ca
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de chela cea de la ineu: te cumpătul de la sine, își puteau să-i astrăbnata de nimicul pe care își pe seamă.
+
+— dar e cum ați vă întrebare decător, fierit de unde se sunte oameni cu copilul ori, cine am tocmar și acum nu ești s-ar fi voit să mentru apuca de pierdempva. noi-a viața decâtu de la fereastră care pe la moara cu noroc, ci ana, cu pintea după mul de îndrunsea cu tot și plecată să se la î
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere de păsuri de vi, nici numai iar se mult de vorbi.
+
+ghițiu se vederit de văzând se arăpădaii în tară. poartel.
+
+pintea urmă, peste culbunc, multe fost cei de aceea întrag, în locul pestvu o parte intră de slabocă și că ea inima, la ineuîș copite.
+
+întrebă el simțea lui de ceva fața lumea că se hotă acu pe face pe un el, dar nu totma deșerată la moartea pentru osolie răuț, groase altui să-mi stric d
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere de lică î, tavise ca cun zicul pustse dus. închisă că .vânt în când vederea că la grajitul.
+— vombag cum o dată în proaște
+
+— ghița; atunci se gârziu fost, zise ea.
+— așeza ca un gnatră părăsiți.
+
+peste ținu , zise: "acrei ini! s s-ar îndâicit, în el lăsă la peste mâncă acumuiat, gânduri pe mine-m. îi fietor o dată, și pleca spretri.
+
+cum n-am avutinindă îi mișta ul seam cele atâtzi copită pintea,
+Epoch 52/60
+69027/69027 [==============================] - 6s 83us/step - loss: 0.8696
+
+----- Generating text after Epoch: 51
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de lică în calea ce lică înaintea copiiar, însă deștep: era de lângă mâna lui pentru ca să fie de a răsta cu primite se întreba nici o scotînse dre pe pintea.
+
+precum ar fi fost la cârciumă.
+
+— ce să-l scap! de a semară și se sunte mâna de câini, și lică se ridice, dar sfărur de întrebat să se sparme ce să-l aută rece și se duse la casa mea, să se sparme ce să-l aută rece și privind cu același alt
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere ți în clenit tine cel pe umeric, om cu credeau să se spauma de a cu privine și să nu mai ine.
+
+— dar ce să-l scăpate, când se întorceau să se spauma de ceasă și la moara cu noroc, cintea ce s-au fost și-i strigă tot omul câtcium și să fie spre cârdoi șa să găsi.
+
+— ana încă mai se întem bine încă nu mai poate să se oprece gheță să se spaume ce să-l aută se detare și el nu se mai îndoart aceasta e
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere o pară pe față! am să răsuferă la colob trei ana se întâmpla ea însprâncea trecut și ea. ar fi avut poate timei.
+
+ghiță dea pleca decât înaltfa gândul de tot ahât"e muiere să-ți vine de tu..seră ca lică înainte, și trei mustezi să se și-i grăi un se nuvința, și dacă ar fi avut de stăpân-l scăpateni. l-a venit era mânie.
+
+— ana plecați cu el, că vrea minte.
+
+— asta se răsprătorii cală, și el cam sf
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere un neduce.
+
+ghițău apare, când stai tintră val, nocuci unul la minten ca, ghiță se somanul lui. însăzi mai netreștecătorile rele de în te das dispretul de lică întregane, iar era mărturisise și-mi se duseserel și asta, să se casăfără la noroc ai avori adate. veți de la voistim?
+
+— acum ce la veniră mai de pierite.
+
+zureu și tu aparul de la micaua la rând, da, și alție, mai binu să se slăpe. grăe g
+Epoch 53/60
+69027/69027 [==============================] - 6s 83us/step - loss: 0.8651
+
+----- Generating text after Epoch: 52
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere un om ca din turmai și să nu mai putea să te pară acum îți văzu tot numai lucrurile salțiră, în apuce, fiindcă s-ar fi putut de care se ducă, fie singură se încetu să nu plea de la mijloc, unaind mie ca să mă laiă înaintea cu picior să mă susezici, el se aflaului, apoi se întoarse cu tot n-am pe mine și astfel, însă chiar cu pintea care să apropie să nu plea asta, ca să răsută lui lică. înaintea c
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere ți venea să mă supar încet, nu poate treaznți pe pintea, căci altfel, iară lică decât alta la un coarea oamenii, multă oamenii pe pierdte uța și să plece spre cârcium cu femeie, și mă aiu chiar a-ți vinit și altula o cu că lică era singur, însă că nu te mai prins gândurile cu pintea. apoi că ea își pute om dremură și altfel, dar nu poți să plece singur de lică să nu mai vădea să se întoarăs. dar î
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere din calea gea la cârciumă.
+
+ena știe în apuce, dar ea trecuse pintea, care l-au l-or fi astimpat de dânsa din soțuluiși să lasă în urmă, și pe spțiteșci, se mișcemi de două vreme butatul său, apoi, pentru să fri. ai dădea, căci bănuitoare fiură. ghiță! îi spre cel mar pleast la cazeșci! fă-au la ele, i te plecele saltarul, ungeți, pleca mi-a grăi se dă zila părerit și banii de lică, și muitre. car
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere te în gluță.
+
+grăi cu n-a luminăria, ori ia vânful pe la le parcă acera? lică își vedea de piefrag nu s-ar fi păstrez. mai afasă vinte, așa, nici capul! răspună tăcutui. și în săvâr"a sa, strigă cârciumă de unde, că ea străbară, — o lâng îne. nu cure staugbărândul decu turmai să gâtu el iși că seama căci, vulbezeze și mustre, urmă bărbătureți dintru-melase săruce. scoate și, grăi căruțată; și s-ar
+Epoch 54/60
+69027/69027 [==============================] - 6s 83us/step - loss: 0.8610
+
+----- Generating text after Epoch: 53
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de la mine și tu se mai întoarse pe arândașul, și un fel de buna, dar nu putea să-i stau luminat de un semn în cal între băgarea cel trebuie să se sprufea ca să-și dea dumnezeu să se sprupea despre mintea ce se vedeau să-și ca de stăpânindu-se. ar fi turbul de spre un loc la masa, nu ar fi turăse pentru de pierduri, mi-l bicmulea despre meleastă ce-l fi o voia fie de vreme cu veselat și se desfără
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de la bătrâne de stăpânta în cale și tu, buză-ruptă în drumea de la mijloc, lică se ridicare cu bucără de rădun cuv nopot.
+— ce să-și scuprint la grăunu calul vezi cu copiii, când poate, amântă are se vedeau calului.
+
+— tu, nu cumva să mă omoare. care n-au privi lucrurile și în cele din urmă să-l sale de rădruna. ca lică are să-l petrea paștilor alta ca să-și viaseră din cârciute.
+
+când ar fi avut
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere tare simțea măraserea pedărzară fără de a cu mai. răspui. el plină la dânsulul, care te primește, mi- păcând cu el, că eu nu vă stui și să-l las ufa musai de undul de aspră pe ghiță.
+
+— nu veni te văzu în și să-și ca de străia ca să mă lai! se vor decev nici, pintea se ghiță îi stricine cu primejdii, ătre ca ar fi avut nimic.
+
+lică nu știe că am trebuiasă care auc dimpre putea să-i scăpat lică cu
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere de ti.
+
+— ea argăzi se începu astă un om în noiosrun hârtiile ripțe.
+
+grăind auzi lucrăm. care țiul iuri de astăz, privind și ca iitiră toată vreunul dintre semne oamenii, decât cu felel ar fi fost oamenii cu buză-ruptă zile cu mereu cu ochii.
+
+— decât îi vedea să poată că sub zecela și rise ale oamenii carei!?! că ați vorbește.
+
+grăse toate mâinele, parcă e astă! un lucrul nedovu asta, care. o sl
+Epoch 55/60
+69027/69027 [==============================] - 6s 83us/step - loss: 0.8574
+
+----- Generating text after Epoch: 54
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de chezașul, apoi jandarm de dânșii, lică îi sunt desurilor, în cât:
+— n-ai poate să spună ca unul dintre judecătoril pentru de chezit, își zise când ar fi avut zimpul că ne vrei om cu care simți că aceasta eu în clepate de chezile.
+
+grăi
+— ghiță, cu altui cotii și cu voi, am socotești în calea lui lică, cu copilul oamenii ana să se sprutea.
+
+e întrebă ea.se decât omul de la care mă toace să spună
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de dânsul.
+— capul de chezarea pe la moara cu noroc, ci când pleca scoase pentru care intră din somnul cu cu ceilauză, câtva timp în acea de frigă de la locul mai se duce, și ce plac: el începu să s-ar fi pus pe lică în urma le mintea salta care singută sprâncenele. vierea că aceste în plecare mai departe, care dormeci că aici nu m-ai fac tu multe drumeții, încord ca asta nu voia să video și văzu
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere un sufletului șa de pintea nu te-am într-afa cuvinta în culmea care, de cerdecută, despre bine chiar ana ca le păcu ochiul lor simțea văzul și să se ducă? c-tu ce mai pormiseră și se afla intră bari decât înaltulbe că doclorile în zida în cale, prins, își începu să se plere de lică, mă duc să fie simțea mâniasa la bură, dacă și că priginte, dar cea făcută ca să-l pată înaltărtare de făcut și cu mi
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere o lângăcată, verum lucrurile și se siști aveața cap-lgul, care noaptea, la une, pe ruviată trupul cinscat ne-i venea scăparească spri la tine.
+
+lică răuț; arând se lăsă neajmină și cămași iar însuci, pierium cu fără și ce văzue dreptat și s-ai copite drumeața care, iar prins și noască niște o pată, îi strigriea de coldcat, să mă astămi trecu salul făcută, gata, deșe-
+i mai .
+— atât ea, stăm sâhnit
+Epoch 56/60
+69027/69027 [==============================] - 6s 84us/step - loss: 0.8500
+
+----- Generating text after Epoch: 55
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de îngrina. și lică se ridicaș mult și să se spre cele din urmă, al pativa răspunse că nu tot a vezi nici nu mai venită să-l în cale, care amătă de slătrat omul care te mulțiră, bate capătul de care simți că nu vezi în drum, cum ai sărbite. mă teausa, apoi se întoarse cu tovarăș să se îndoarte la ineu, toți iar în căruță și de la mine"a; ei însă, căci și de cârciumă.
+
+— punură și să plece decât în
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de tare, care simți că nu vezi stea în casă, tu, părăsea din soroscl.
+
+pintea îl pripa în bănuiau să mă dea pe cai, vreun cuvânt de câteva înainte, și te față în aminta tare, și așa, care măi nevasta, săiare. nu are să facă plecase.
+
+și în pragurea rău, își venea ta.
+
+ghiță, cu toate pusul spune să în cale.
+
+— asta nu era și-i zise în urmă stăpânindu-se. n-am adenorându-se. a-l toatede c-am vreute
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere ți calea îi fac, amoara mai naintile de stăpânea, precum se gândea că acea părară și a fi putea să se dete banii pentru el nu știi că vreum de ochii măntarășui pentru  templă, care îi pop! dau-ță zbăit și întregarea.
+
+închilă nici netorate degoate, cârdinti, i te ușar cu bună de lacă, pripinte de mângiseriră ndu-și ana întrebat e cu mine, asta asta în tot mai bine.". todcrului puținse pe mai și să
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere birită hârului ca ține și peste jubdeier trupea să-ți leauma lui, cocizodului tămânulorghi și părea cena! îi ține eu am tune și toți treaba tare, după ce lică lumei, ca sloc de focre, dac-ar fi avut că unul din pănum iară paimi decât dum ere? îi tea cem un se dete trezice vorbiși acum împincu-i mai fi gânduringul aturcm? ghiță, trăiucitor. el eraugă iar pintea. dau el se duceau să-i steași și fu d
+Epoch 57/60
+69027/69027 [==============================] - 6s 84us/step - loss: 0.8449
+
+----- Generating text after Epoch: 56
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de fierit cu oamenii sub ceas se afla în sosi de ce să fac, am să de pușea pe ghiță și se vedea de la dânsul, iară nu mai venita. apoi se înțelege; în săpurea doarea că n-am spună ca și când ar stăpânirea să se întoarcă să se apropia, care mă te ducea ori era răspunse peste noapte la cârciumă și scoperea de la mine și să se spre alești în tine ei; atunci mai departe, care se pună de la cârciumă, i
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de vremea cu acelică, se venea să se apropia. a vorbi singur, că nu mai pădânea capul de acela semnea cârciumar și ori e vorba, se deșezi și când acestea ce-aș miez, în sărăcea cam în care i-ar firduriți, iară nu mai putea să seaudă-l venit în care i-o vea să mă ducă de multe în calea de la soți o care îl aducea să se la astă un om în todce la cârciumă treila: tot să se ducă! așa: l-a cap-ti:i jos
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere din urmă simți să mai fi spusenea de la cele ce amprăzi din tulbă zilel, să-l scănuată și ceva din fața sap! grăi docori, în vinobi dacă n-am arăprară și să avadea de ce lică are se duse de gânduril, noarte, că nu se vadă aceas om au mai frivi și cu să lăză spre umăt răul, zise o mai puteră salnic, cu mui inima. asta apoi, inima să-l scăprite mereu de față, de-e îi sufla unmele, dacă nu am să ne ț
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere de dru. noaptea, ghisă îă lăsat pe cei.
+
+— împăcându-și căcre pe nevorsuri omul împreunatezările pedărtosta sângele el vor puserăt de credeau lasă, să mă simțea mâniei de lângă oameni înșerea vieă o adevăr, umblțu lică alunla astaora, dar străbat de un seară de! întoarcă pe mârgâie, grăi ghiță, cam astă nimi se lai zăs.
+
+bineaș pedrezerit drum se ragă, și două să mă supa g simțitescăpgă, și ferins
+Epoch 58/60
+69027/69027 [==============================] - 6s 84us/step - loss: 0.8445
+
+----- Generating text after Epoch: 57
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere de fierii câte ori era vorbă cu dânsul, care nu știe dimprejurul s-ar fi doresnt de câte ori la mine, adauge spre mare? lică ar fi anancă pornică în care nu se mai îndoia să se rămânească spre câucile cele din ce ste? întrebă el nu era răuți de voi, apoi, cu copiii însucă, și omul care îi se vor pe lai
+
+— ești și să vedea ajudghușat în cale! au apri ca de la mine și ca să vai ce să facă mus, și că
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere fierii deodată în tot anevîi, își încăiță, însă deșteptatulul și poate că e voi să nu pună să spun nimie. el poate să mă duc pe arândașul.
+
+— așa îi zise între când cu două nimic.
+
+el într-un târgul.
+
+— așa-i, înaintea era ana, cu pintea, când strânse în cale, îi zise lică. el începu să se ducă de nevoia să nu se mai ai să vedea apoi, adausă de miejur. din ceal umblui. ghiță strânse în tot n-am e
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere zi gândurile spune bine.
+
+— pe buză-ruptă, care vreau pe la săârpa că dumnezeu, de care mie să vedea st. mânta cleapte a veni tocmai de ini. dar, însăși, că nu a să mă aibrii.
+
+în cale și de muia și se răspunse părere.
+
+— când eu! fă arână pădea bune câte ori le vestești și dese săuă de mine de toate aceste a scăzotă și care-și aruncâin. ghițăzi ca bat țin privile.
+
+șii! nimină prinsă troate cu pr
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere de câte ori era nou-și că nu te de omul lumingat câte în fusese lui săise un hotor, privea părtre; răspunse gerase de copii ei vorbar de cele ce ar fi noroc de pașime: i se fost toată du-mi voia să creadăre oameni descuizmi încât parcă ar nouocose! l-a vei taie?
+— un căți gândurile prifși care i-ar prins puteie de strâmini; însură, er: hotă -am întrisfa doi c-ar fi putut decât comisarul mele nedom
+Epoch 59/60
+69027/69027 [==============================] - 6s 83us/step - loss: 0.8421
+
+----- Generating text after Epoch: 58
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere ține și el nu se putea mai mult să nu mai îndoia să știe că se întoarcă să mai de para destulcă, și ca să facă bani de voi să nu se pun pe la fund— acoptea stăpânit și să nu și să știe că ar fi turale în trebui că nu te mai multe copiii în tot așezată în tară, și nu aște stăpânul.
+— pintea stăpâni, iară încep să în cap tot nu te putânși cu tine pe laiț, când ghiță ar fi adunatul se ridică.
+
+— nu m
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere jun, el privi când vederi cu minte și nu se descă ca să înțelegi cu ei, din urmă sub capătenea. îl trase sub petrecură în culmea dea această în sufletul de lică, pe mai din ure hotărâre de asupra viațe din suflește.
+
+lică se răspund de câte ori locul pe care vrei, începu să-l fac, amândeșt în culmea cele am se face. l-am vădure, iară el îl putea de lică, să nu mai vădea ridise de întuie o calea ce
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere vă și mă fost de fața de la măuta greueoa de voi.
+
+— lică are să fac, el își viața cu piști nici nu ceva, bătrâne, cate te bine cu toate lumer.
+
+în strun să se dete săinsă în adevăr, din drum, ca ghiță, grăi lică. mă astaî:: vă vel stat, ieri nu mai descăisa, cine a vorbi din urma țintiți după mul debni de dânsul; și să fie, voia scați în seară de lasă, o parcă pe ține și unde era ca să facă un fe
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere tregerilor și lică, și nu putea să nu mai ticii mari au mult se oprea cu alții.
+
+luă de dâns, când la firnde : vedea caleasuriu va tare. pierdure cuv la cale dineva, dar nu împreunată pline; îi scăpat lică fură de zise o printre dintre jucețete la dânsa; dacă nu pot fortea zile.
+
+întrebă el patunsă pe lait, ghiță mă grăi? mai dânșii se duceau copilul în fața stârpe să eu nu ermi, plecă e fefră de
+Epoch 60/60
+69027/69027 [==============================] - 6s 83us/step - loss: 0.8378
+
+----- Generating text after Epoch: 59
+----- diversity: 0.2
+----- Generating with seed: "ana are mere "
+ana are mere jun, cu ana, care se mai multă urmai prea mulți doi un o parte, apoi nea fac cu noi!
+— așa își vini ca să mai vorbă și așa era că nu vorbește ce acum cu bizevie ceplarul de ce-i, apoi se bagul soțului ca să nu se oprea de la moara cu noroc, ci te gândește trumul apoi, adause fierit cu ochii lor parcă și de ceasul și mă tea mai mult se înseme, care-i por mai îndrinse când au omul ei pripi.
+
+— nu ma
+----- diversity: 0.5
+----- Generating with seed: "ana are mere "
+ana are mere de câte orânl de stehie, adause gânduriul îndecut tu cum așa înaintea cori, începu să-l mearge să-i vesti: "ochiar și ce-i vin.
+
+— trebui pe lică îi sunt de părtare și și chiar ana eu își vezi că de fulgeri.
+
+— asta nu era și ea că ei îndedea pe lică se râdea de a știe din urmă snu ar fi tulbura, apoi tu au fața era răuți de cârciumar la care i se împăie din cenite, încât era gândul că și dacă nu
+----- diversity: 1.0
+----- Generating with seed: "ana are mere "
+ana are mere jandarmul și omul ei sorocit ar fi dormnc ca ei și, grăi ghiță rău ghiță și privit, îi veic, precum se văducet.
+
+— ghiță! știi că ho? te bucduilă de ca greu lungul lvia. afi plecă frică, niciodată cocisori.
+
+așa? multe mulțită roapură de dângând la cele die dacă are se vedea să se plece de drumerii, în cele die uspă la nevori să vorbea pintea merînde în fire, trebui dar bănuit.
+
+ghiță nu e buzeșii
+----- diversity: 1.2
+----- Generating with seed: "ana are mere "
+ana are mere țin, ghiță? stăte își mai grom poftă să-ma că timpuă oma mai dom dânșii; își luătre e umblă.. vicoa" mai rătroșa mâncaia pesteunte din tari, ba la așerașă, și și sunte desema bărbatura alta la timp trupe prefuit. mai la care-și cârciumarul. așa-se ar fi turmul de cel numai, acum pe ceiar la doate lângărinn?. pe timei, ieși altă pentru ca să nu te bață, stângare cu pintea: el se gândisc.
+
+— moară..
