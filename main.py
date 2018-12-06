@@ -19,7 +19,7 @@ import random
 import sys
 import io
 
-with io.open('./data/Camil Petrescu - Ultima noapte de dragoste, intaia noapte de razboi.txt', encoding='utf-8') as f:
+with io.open('./data/Barbu.txt', encoding='utf-16') as f:
     text = f.read().lower()
 print('corpus length:', len(text))
 
@@ -29,7 +29,7 @@ char_indices = dict((c, i) for i, c in enumerate(chars))
 indices_char = dict((i, c) for i, c in enumerate(chars))
 
 # cut the text in semi-redundant sequences of maxlen characters
-maxlen = 13
+maxlen = 11
 step = 3
 sentences = []
 next_chars = []
@@ -77,12 +77,12 @@ def on_epoch_end(epoch, _):
         print('----- diversity:', diversity)
 
         generated = ''
-        sentence = 'ana are mere '
+        sentence = 'extrapolez '
         generated += sentence
         print('----- Generating with seed: "' + sentence + '"')
         sys.stdout.write(generated)
 
-        for i in range(400):
+        for i in range(1000):
             x_pred = np.zeros((1, maxlen, len(chars)))
             for t, char in enumerate(sentence):
                 x_pred[0, t, char_indices[char]] = 1.
